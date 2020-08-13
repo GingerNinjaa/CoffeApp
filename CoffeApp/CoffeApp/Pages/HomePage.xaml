@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:pages="clr-namespace:CoffeApp.Pages;assembly=CoffeApp"
+             mc:Ignorable="d"
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+             android:TabbedPage.ToolbarPlacement="Bottom"
+             android:TabbedPage.BarSelectedItemColor ="White" BarBackgroundColor="Black"
+             android:TabbedPage.BarItemColor="Gray"
+             BackgroundColor="Black"
+             x:Class="CoffeApp.Pages.HomePage">
+  <!--Pages can be added as references or inline-->
+  <pages:FirstMenu Title="Menu" Icon="menu.png"/>
+  <pages:ReservarionPage Title="Reservation" Icon="reservation.png"/>
+  <pages:InfoPage Title="Info" Icon="information.png"/>
+</TabbedPage>

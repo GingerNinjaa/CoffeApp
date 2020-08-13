@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+             mc:Ignorable="d"
+             BackgroundColor="Black"
+             x:Class="CoffeApp.Pages.ReservarionPage">
+    <ContentPage.Content>
+        <StackLayout Margin="0,0,0,10" VerticalOptions="End">
+           
+                <forms:AnimationView 
+                    x:Name="animationView" 
+                    Animation="cafe_cup.json" 
+                    AutoPlay="True" Loop="True"
+                    HeightRequest="250"
+                    WidthRequest="200"
+                    VerticalOptions="FillAndExpand"
+                    HorizontalOptions="FillAndExpand" />
+
+            <Entry x:Name="EntName" Placeholder="Enter your Name" PlaceholderColor="White" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center" />
+            <Entry x:Name="EntEmail" Keyboard="Email" Placeholder="Enter your Email" PlaceholderColor="White" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <Entry x:Name="EntPhone" Keyboard="Numeric" Placeholder="Enter your Phone" PlaceholderColor="White" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <Entry x:Name="EntTotalPeople" Keyboard="Numeric" Placeholder="For how many people?" PlaceholderColor="White" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <Label Text="Booking Date"  TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"/>
+            <DatePicker x:Name="DpBookingDate" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"></DatePicker>
+            <Label Text="Booking Time" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"></Label>
+            <TimePicker x:Name="TpBookingTime" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"></TimePicker>
+            <Button x:Name="BtnReservationButon" Clicked="BtnReservationButon_OnClickedrvationButon_OnClicked" Text="Book Table" TextColor="White" FontSize="Medium" BackgroundColor="Black" BorderWidth="1"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+			 xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+			 xmlns:forms="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+			 mc:Ignorable="d"
+			 x:Class="CoffeApp.Pages.CategoryMenuPage">
+    <ContentPage.Content>
+        <ListView SeparatorVisibility="None" HasUnevenRows="True" x:Name="LvCategoryMenu" ItemSelected="LvCategoryMenu_OnItemSelected" BackgroundColor="Black" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <!--<Image Source="{Binding Image}" HeightRequest="250" Aspect="Fill"/>-->
+                            <forms:CachedImage Aspect="Fill" WidthRequest="300" HeightRequest="300"
+											   DownsampleToViewSize="true"
+											   Source = "{Binding Image}" CacheType="All">
+                            </forms:CachedImage>
+                            <BoxView BackgroundColor="Black" Opacity="0.2"/>
+                            <Label Text="{Binding Name}" FontSize="Large" TextColor="White" HorizontalOptions="Center" VerticalOptions="Center"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>

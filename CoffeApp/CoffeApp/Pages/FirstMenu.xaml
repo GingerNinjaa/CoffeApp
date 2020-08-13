@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:forms="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             x:Class="CoffeApp.Pages.FirstMenu">
+    <ContentPage.Content>
+        <Grid>
+            <ListView SeparatorVisibility="None" HasUnevenRows="True" x:Name="LvFirstMenu" ItemSelected="LvFirstMenu_OnItemSelected" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <!--<Image Source="{Binding Image}" HeightRequest="250" Aspect="Fill"/>-->
+                                <forms:CachedImage x:Name="Image" Aspect="Fill" WidthRequest="300" HeightRequest="300"
+                                                   DownsampleToViewSize="true"
+                                                   Source = "{Binding Image}" CacheType="All">
+                                </forms:CachedImage>
+                                <BoxView BackgroundColor="Black" Opacity="0.2"/>
+                                <Label Text="{Binding Name}" FontSize="Large" TextColor="White" HorizontalOptions="Center" VerticalOptions="Center"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <ActivityIndicator x:Name="BusyIndicator" StyleId="" HorizontalOptions="Center" VerticalOptions="Center" Color="White" IsRunning="True">
+            </ActivityIndicator>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
