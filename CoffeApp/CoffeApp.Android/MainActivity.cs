@@ -10,7 +10,7 @@ using Lottie.Forms.Droid;
 
 namespace CoffeApp.Droid
 {
-    [Activity(Label = "CoffeApp", Icon = "@mipmap/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+    [Activity(Label = "CoffeApp", Icon = "@mipmap/icon", Theme = "@style/MainTheme",ScreenOrientation = ScreenOrientation.Portrait, MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)

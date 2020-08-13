@@ -8,16 +8,18 @@
              BackgroundColor="Black"
              x:Class="CoffeApp.Pages.ReservarionPage">
     <ContentPage.Content>
-        <StackLayout Margin="0,0,0,10" VerticalOptions="End">
+         <ScrollView>
+        <StackLayout Margin="0,20,0,0"  VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
            
+
+          
                 <forms:AnimationView 
                     x:Name="animationView" 
                     Animation="cafe_cup.json" 
                     AutoPlay="True" Loop="True"
                     HeightRequest="250"
                     WidthRequest="200"
-                    VerticalOptions="FillAndExpand"
-                    HorizontalOptions="FillAndExpand" />
+                    />
 
             <Entry x:Name="EntName" Placeholder="Enter your Name" PlaceholderColor="White" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center" />
             <Entry x:Name="EntEmail" Keyboard="Email" Placeholder="Enter your Email" PlaceholderColor="White" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"/>
@@ -28,6 +30,8 @@
             <Label Text="Booking Time" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"></Label>
             <TimePicker x:Name="TpBookingTime" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"></TimePicker>
             <Button x:Name="BtnReservationButon" Clicked="BtnReservationButon_OnClickedrvationButon_OnClicked" Text="Book Table" TextColor="White" FontSize="Medium" BackgroundColor="Black" BorderWidth="1"></Button>
+            
         </StackLayout>
+         </ScrollView>
     </ContentPage.Content>
 </ContentPage>
