@@ -13,15 +13,31 @@
                 <DataTemplate>
                     <ViewCell>
                         <Grid>
-                            <forms:CachedImage LoadingPlaceholder="placeholderimage.png" Aspect="Fill" WidthRequest="300" HeightRequest="325"
-                                               DownsampleToViewSize="true"
-                                               Source = "{Binding Image}" CacheType="All">
+                            <forms:CachedImage 
+                                LoadingPlaceholder="placeholderimage.png"
+                                Aspect="Fill" 
+                                WidthRequest="300"
+                                HeightRequest="325"
+                                DownsampleToViewSize="true"
+                                Source = "{Binding Image}" 
+                                CacheType="All">
                             </forms:CachedImage>
-                            <BoxView BackgroundColor="Black" Opacity="0.2"/>
-                            <StackLayout VerticalOptions="End" Margin="5">
-                                <Label Text="{Binding Name}" FontSize="Large" TextColor="White"/>
-                                <Label Text="{Binding Price}" FontSize="Medium" TextColor="White"/>
-                                <Label Text="{Binding Description}" FontSize="Small" TextColor="White"/>
+                            <BoxView 
+                                BackgroundColor="Black"
+                                Opacity="0.2"/>
+                            <StackLayout 
+                                VerticalOptions="End"
+                                Margin="5">
+
+                                <Label Text="{Binding Name}" 
+                                       FontSize="Large"
+                                       TextColor="White"/>
+                                <Label Text="{Binding Price}"
+                                       FontSize="Medium"
+                                       TextColor="White"/>
+                                <Label Text="{Binding Description}"
+                                       FontSize="Small" 
+                                       TextColor="White"/>
                             </StackLayout>
 
                         </Grid>

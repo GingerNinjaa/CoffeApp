@@ -12,7 +12,7 @@
         <ScrollView>
             <StackLayout Margin="0,0,0,25" VerticalOptions="End" >
 
-            <forms:AnimationView 
+                <forms:AnimationView 
                 x:Name="animationView" 
                 Animation="Coffe_woman.json" 
                 AutoPlay="True" Loop="true"
@@ -21,42 +21,112 @@
                 VerticalOptions="FillAndExpand"
                 HorizontalOptions="FillAndExpand" />
 
-            <Label Text="Timings"  HorizontalOptions="Center" FontSize="Large" TextColor="White"></Label>
-            <Label Text="Mon-Thurs: 9:00am - 11:00pm" HorizontalOptions="Center" FontSize="Medium" TextColor="White"></Label>
-            <Label Text="Fri-Sat: 9:00am - 1:00pm" HorizontalOptions="Center" FontSize="Medium" TextColor="White"></Label>
-            <Label Text="Sun: 9:00am - 1:00pm" HorizontalOptions="Center" FontSize="Medium" TextColor="White"></Label>
-            <Label Text="Addres" HorizontalOptions="Center" FontSize="Large" TextColor="White"></Label>
-            <Label Text="Kościan Market Square 00/0"  HorizontalOptions="Center" FontSize="Medium" TextColor="White"></Label>
-            <Label Text="Fallow Us"  HorizontalOptions="Center" FontSize="Medium" TextColor="White"></Label>
-            <StackLayout HorizontalOptions="Center" Margin="5" Orientation="Horizontal">
-                <Image Source="facebook.png">
+                <Label
+                Text="Timings" 
+                HorizontalOptions="Center" 
+                FontSize="Large"
+                TextColor="White">
+                </Label>
+                <Label 
+                Text="Mon-Thurs: 9:00am - 11:00pm"
+                   HorizontalOptions="Center"
+                FontSize="Medium"
+                TextColor="White">
+                </Label>
+                <Label 
+                Text="Fri-Sat: 9:00am - 1:00pm"
+                   HorizontalOptions="Center" 
+                   FontSize="Medium" 
+                   TextColor="White">
+
+                </Label>
+                <Label
+                Text="Sun: 9:00am - 1:00pm" 
+                   HorizontalOptions="Center"
+                   FontSize="Medium"
+                   TextColor="White">
+
+                </Label>
+                <Label 
+                Text="Addres"
+                   HorizontalOptions="Center"
+                   FontSize="Large"
+                   TextColor="White">
+
+                </Label>
+                <Label 
+                Text="Kościan Market Square 00/0"
+                HorizontalOptions="Center" 
+                FontSize="Medium"
+                TextColor="White">
+
+                </Label>
+                <Label 
+                Text="Fallow Us" 
+                   HorizontalOptions="Center"
+                FontSize="Medium" 
+                TextColor="White">
+
+                </Label>
+                <StackLayout 
+                HorizontalOptions="Center"
+                         Margin="5"
+                         Orientation="Horizontal">
+                    <Image Source="facebook.png">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer x:Name="TabFacebook"
+                                              NumberOfTapsRequired="1" 
+                                              Tapped="TabFacebook_OnTappedebook_OnTapped">
+
+                            </TapGestureRecognizer>
+                        </Image.GestureRecognizers>
+                    </Image>
+                    <Image Source="twitter.png">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer x:Name="TabTwitter" 
+                                              NumberOfTapsRequired="1" 
+                                              Tapped="TabTwitter_OnTappedtter_OnTapped">
+
+                            </TapGestureRecognizer>
+                        </Image.GestureRecognizers>
+                    </Image>
+                    <Image Source="instagram.png">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer x:Name="TabInstagram"
+                                              NumberOfTapsRequired="1" 
+                                              Tapped="TabInstagram_OnTappedtagram_OnTapped">
+
+                            </TapGestureRecognizer>
+                        </Image.GestureRecognizers>
+                    </Image>
+                    <Image Source="youtube.png">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer x:Name="TabYoutube"
+                                              NumberOfTapsRequired="1"
+                                              Tapped="TabYoutube_OnTappedbe_OnTapped">
+
+                            </TapGestureRecognizer>
+                        </Image.GestureRecognizers>
+                    </Image>
+                </StackLayout>
+                <Label 
+                Text="Contact Us"
+                TextColor="White" 
+                HorizontalOptions="Center" 
+                FontSize="Large">
+                </Label>
+
+                <Image Source="phone.png">
                     <Image.GestureRecognizers>
-                        <TapGestureRecognizer x:Name="TabFacebook" NumberOfTapsRequired="1" Tapped="TabFacebook_OnTappedebook_OnTapped"></TapGestureRecognizer>
-                    </Image.GestureRecognizers>
-                </Image>
-                <Image Source="twitter.png">
-                    <Image.GestureRecognizers>
-                        <TapGestureRecognizer x:Name="TabTwitter" NumberOfTapsRequired="1" Tapped="TabTwitter_OnTappedtter_OnTapped"></TapGestureRecognizer>
-                    </Image.GestureRecognizers>
-                </Image>
-                <Image Source="instagram.png">
-                    <Image.GestureRecognizers>
-                        <TapGestureRecognizer x:Name="TabInstagram" NumberOfTapsRequired="1" Tapped="TabInstagram_OnTappedtagram_OnTapped"></TapGestureRecognizer>
-                    </Image.GestureRecognizers>
-                </Image>
-                <Image Source="youtube.png">
-                    <Image.GestureRecognizers>
-                        <TapGestureRecognizer x:Name="TabYoutube" NumberOfTapsRequired="1" Tapped="TabYoutube_OnTappedbe_OnTapped"></TapGestureRecognizer>
+                        <TapGestureRecognizer
+                        x:Name="TabPhone" 
+                        NumberOfTapsRequired="1" 
+                        Tapped="TabPhone_OnTapped_OnTapped">
+
+                        </TapGestureRecognizer>
                     </Image.GestureRecognizers>
                 </Image>
             </StackLayout>
-            <Label Text="Contact Us" TextColor="White" HorizontalOptions="Center" FontSize="Large"></Label>
-            <Image Source="phone.png">
-                <Image.GestureRecognizers>
-                    <TapGestureRecognizer x:Name="TabPhone" NumberOfTapsRequired="1" Tapped="TabPhone_OnTapped_OnTapped"></TapGestureRecognizer>
-                </Image.GestureRecognizers>
-            </Image>
-        </StackLayout>
         </ScrollView>
     </ContentPage.Content>
 </ContentPage>

@@ -32,7 +32,7 @@ namespace CoffeApp.Services
             var content = new StringContent(json, Encoding.UTF8, "application/json");
 
             //post request
-            var response = await client.PostAsync("https://gingerninjaaapiservice.pl/api/coffeapireservations", content);
+            var response = await client.PostAsync("https://gingerninjaaapiservice.pl/api/OldBrickyard/post", content);
             return response.IsSuccessStatusCode;
         }
     }

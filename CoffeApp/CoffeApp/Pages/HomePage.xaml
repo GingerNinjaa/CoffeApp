@@ -12,7 +12,13 @@
              BackgroundColor="Black"
              x:Class="CoffeApp.Pages.HomePage">
   <!--Pages can be added as references or inline-->
-  <pages:FirstMenu Title="Menu" Icon="menu.png"/>
-  <pages:ReservarionPage Title="Reservation" Icon="reservation.png"/>
-  <pages:InfoPage Title="Info" Icon="information.png"/>
+  <pages:FirstMenu
+      Title="Menu" 
+      Icon="menu.png"/>
+  <pages:ReservarionPage
+      Title="Reservation" 
+      Icon="reservation.png"/>
+  <pages:InfoPage 
+      Title="Info"
+      Icon="information.png"/>
 </TabbedPage>

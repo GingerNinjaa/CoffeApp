@@ -8,11 +8,11 @@
              BackgroundColor="Black"
              x:Class="CoffeApp.Pages.ReservarionPage">
     <ContentPage.Content>
-         <ScrollView>
-        <StackLayout Margin="0,20,0,0"  VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
-           
+        <ScrollView>
+            <StackLayout Margin="0,20,0,0"  VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
 
-          
+
+
                 <forms:AnimationView 
                     x:Name="animationView" 
                     Animation="cafe_cup.json" 
@@ -21,17 +21,68 @@
                     WidthRequest="200"
                     />
 
-            <Entry x:Name="EntName" Placeholder="Enter your Name" PlaceholderColor="White" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center" />
-            <Entry x:Name="EntEmail" Keyboard="Email" Placeholder="Enter your Email" PlaceholderColor="White" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"/>
-            <Entry x:Name="EntPhone" Keyboard="Numeric" Placeholder="Enter your Phone" PlaceholderColor="White" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"/>
-            <Entry x:Name="EntTotalPeople" Keyboard="Numeric" Placeholder="For how many people?" PlaceholderColor="White" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"/>
-            <Label Text="Booking Date"  TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"/>
-            <DatePicker x:Name="DpBookingDate" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"></DatePicker>
-            <Label Text="Booking Time" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"></Label>
-            <TimePicker x:Name="TpBookingTime" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center"></TimePicker>
-            <Button x:Name="BtnReservationButon" Clicked="BtnReservationButon_OnClickedrvationButon_OnClicked" Text="Book Table" TextColor="White" FontSize="Medium" BackgroundColor="Black" BorderWidth="1"></Button>
-            
-        </StackLayout>
-         </ScrollView>
+                <Entry x:Name="EntName"
+                   Placeholder="Enter your Name" 
+                   PlaceholderColor="White"
+                   TextColor="White" 
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"
+                   HorizontalTextAlignment="Center"/>
+                <Entry x:Name="EntEmail" 
+                       Keyboard="Email" 
+                       Placeholder="Enter your Email" 
+                       PlaceholderColor="White" 
+                       TextColor="White" 
+                       VerticalOptions="Center" 
+                       HorizontalOptions="Center"
+                       HorizontalTextAlignment="Center"/>
+                <Entry x:Name="EntPhone"
+                       Keyboard="Numeric"
+                       Placeholder="Enter your Phone" 
+                       PlaceholderColor="White" 
+                       TextColor="White" 
+                       VerticalOptions="Center" 
+                       HorizontalOptions="Center" 
+                       HorizontalTextAlignment="Center"/>
+                <Entry x:Name="EntTotalPeople" 
+                       Keyboard="Numeric" 
+                       Placeholder="For how many people?" 
+                       PlaceholderColor="White"
+                       TextColor="White"
+                       VerticalOptions="Center" 
+                       HorizontalOptions="Center" 
+                       HorizontalTextAlignment="Center"/>
+                <Label Text="Booking Date" 
+                   TextColor="White"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"/>
+                <DatePicker x:Name="DpBookingDate" 
+                        TextColor="White"
+                        VerticalOptions="Center"
+                        HorizontalOptions="Center">
+                </DatePicker>
+                <Label Text="Booking Time" 
+                   TextColor="White" 
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center">
+
+                </Label>
+                <TimePicker x:Name="TpBookingTime"
+                        TextColor="White"
+                        VerticalOptions="Center" 
+                        HorizontalOptions="Center">
+                </TimePicker>
+                <Button x:Name="BtnReservationButon"
+                    Clicked="BtnReservationButon_OnClickedrvationButon_OnClicked"
+                    Text="Book Table" 
+                    TextColor="White"
+                    FontSize="Medium"
+                    BackgroundColor="Black"
+                    BorderWidth="1">
+
+                </Button>
+
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
