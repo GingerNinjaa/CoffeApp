@@ -12,13 +12,14 @@ namespace CoffeApp
             InitializeComponent();
 
             // MainPage = new MainPage();
-             MainPage = new NavigationPage(new HomePage());
+           //  MainPage = new NavigationPage(new HomePage());
+           MainPage = new NavigationPage(new MainAppPage());
 
         }
 
         protected override void OnStart()
         {
-            SendApi.First = true;
+       
         }
 
         protected override void OnSleep()
@@ -27,13 +28,10 @@ namespace CoffeApp
 
         protected override void OnResume()
         {
-            MainPage = new NavigationPage(new HomePage());
+            //  MainPage = new NavigationPage(new HomePage());
+            MainPage = new NavigationPage(new MainAppPage());
         }
     }
 
-    static class SendApi
-    {
-        // Prevent overloop api
-        public static bool First;
-    }
+
 }

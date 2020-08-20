@@ -6,13 +6,16 @@
              mc:Ignorable="d"
              x:Class="CoffeApp.App">
     <Application.Resources>
+        
         <Style TargetType="NavigationPage">
             <Setter Property="BarBackgroundColor" Value="Black"></Setter>
             <Setter Property="BarTextColor" Value="White"></Setter>
         </Style>
+
         <Style TargetType="ContentPage">
             <Setter Property="BackgroundColor" Value="Black"></Setter>
         </Style>
+
         <Style TargetType="Button">
             <Setter Property="BorderColor" Value="White"></Setter>
         </Style>

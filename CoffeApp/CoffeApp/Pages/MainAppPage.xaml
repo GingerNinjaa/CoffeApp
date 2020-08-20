@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:video="clr-namespace:CoffeApp.Video;assembly=CoffeApp"
+             mc:Ignorable="d"
+             BackgroundColor="Black"
+             NavigationPage.HasNavigationBar="False"
+             x:Class="CoffeApp.Pages.MainAppPage">
+    <ContentPage.Content>
+        <Grid>
+            <video:VideoPlayer Source="oldbrickyard_video.mp4" />
+            <ScrollView>
+                <StackLayout Margin="10" HorizontalOptions="Center" VerticalOptions="End">
+
+                    <Label Text="It's time for Coffee" 
+                           FontSize="20"
+                           VerticalOptions="Center" 
+                           FontFamily="Lobster"
+                           TextColor="White"/>
+
+                    <Button Text="Get started"                  
+                            FontFamily="Lobster"                    
+                            CornerRadius="40"                                  
+                            Margin="25"                   
+                            TextColor="White"                  
+                            BackgroundColor="Black" 
+                            Clicked="Button_OnClicked"/>
+                </StackLayout>
+            </ScrollView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -25,6 +25,1967 @@ namespace CoffeApp.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Prism.Resource.Animation.abc_fade_in = global::CoffeApp.Droid.Resource.Animation.abc_fade_in;
+			global::Prism.Resource.Animation.abc_fade_out = global::CoffeApp.Droid.Resource.Animation.abc_fade_out;
+			global::Prism.Resource.Animation.abc_grow_fade_in_from_bottom = global::CoffeApp.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Prism.Resource.Animation.abc_popup_enter = global::CoffeApp.Droid.Resource.Animation.abc_popup_enter;
+			global::Prism.Resource.Animation.abc_popup_exit = global::CoffeApp.Droid.Resource.Animation.abc_popup_exit;
+			global::Prism.Resource.Animation.abc_shrink_fade_out_from_bottom = global::CoffeApp.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Prism.Resource.Animation.abc_slide_in_bottom = global::CoffeApp.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Prism.Resource.Animation.abc_slide_in_top = global::CoffeApp.Droid.Resource.Animation.abc_slide_in_top;
+			global::Prism.Resource.Animation.abc_slide_out_bottom = global::CoffeApp.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Prism.Resource.Animation.abc_slide_out_top = global::CoffeApp.Droid.Resource.Animation.abc_slide_out_top;
+			global::Prism.Resource.Animation.design_bottom_sheet_slide_in = global::CoffeApp.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Prism.Resource.Animation.design_bottom_sheet_slide_out = global::CoffeApp.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Prism.Resource.Animation.design_snackbar_in = global::CoffeApp.Droid.Resource.Animation.design_snackbar_in;
+			global::Prism.Resource.Animation.design_snackbar_out = global::CoffeApp.Droid.Resource.Animation.design_snackbar_out;
+			global::Prism.Resource.Animation.EnterFromLeft = global::CoffeApp.Droid.Resource.Animation.EnterFromLeft;
+			global::Prism.Resource.Animation.EnterFromRight = global::CoffeApp.Droid.Resource.Animation.EnterFromRight;
+			global::Prism.Resource.Animation.ExitToLeft = global::CoffeApp.Droid.Resource.Animation.ExitToLeft;
+			global::Prism.Resource.Animation.ExitToRight = global::CoffeApp.Droid.Resource.Animation.ExitToRight;
+			global::Prism.Resource.Animator.design_appbar_state_list_animator = global::CoffeApp.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::Prism.Resource.Attribute.actionBarDivider = global::CoffeApp.Droid.Resource.Attribute.actionBarDivider;
+			global::Prism.Resource.Attribute.actionBarItemBackground = global::CoffeApp.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Prism.Resource.Attribute.actionBarPopupTheme = global::CoffeApp.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Prism.Resource.Attribute.actionBarSize = global::CoffeApp.Droid.Resource.Attribute.actionBarSize;
+			global::Prism.Resource.Attribute.actionBarSplitStyle = global::CoffeApp.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Prism.Resource.Attribute.actionBarStyle = global::CoffeApp.Droid.Resource.Attribute.actionBarStyle;
+			global::Prism.Resource.Attribute.actionBarTabBarStyle = global::CoffeApp.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Prism.Resource.Attribute.actionBarTabStyle = global::CoffeApp.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Prism.Resource.Attribute.actionBarTabTextStyle = global::CoffeApp.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Prism.Resource.Attribute.actionBarTheme = global::CoffeApp.Droid.Resource.Attribute.actionBarTheme;
+			global::Prism.Resource.Attribute.actionBarWidgetTheme = global::CoffeApp.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Prism.Resource.Attribute.actionButtonStyle = global::CoffeApp.Droid.Resource.Attribute.actionButtonStyle;
+			global::Prism.Resource.Attribute.actionDropDownStyle = global::CoffeApp.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Prism.Resource.Attribute.actionLayout = global::CoffeApp.Droid.Resource.Attribute.actionLayout;
+			global::Prism.Resource.Attribute.actionMenuTextAppearance = global::CoffeApp.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Prism.Resource.Attribute.actionMenuTextColor = global::CoffeApp.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Prism.Resource.Attribute.actionModeBackground = global::CoffeApp.Droid.Resource.Attribute.actionModeBackground;
+			global::Prism.Resource.Attribute.actionModeCloseButtonStyle = global::CoffeApp.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Prism.Resource.Attribute.actionModeCloseDrawable = global::CoffeApp.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Prism.Resource.Attribute.actionModeCopyDrawable = global::CoffeApp.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Prism.Resource.Attribute.actionModeCutDrawable = global::CoffeApp.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Prism.Resource.Attribute.actionModeFindDrawable = global::CoffeApp.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Prism.Resource.Attribute.actionModePasteDrawable = global::CoffeApp.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Prism.Resource.Attribute.actionModePopupWindowStyle = global::CoffeApp.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Prism.Resource.Attribute.actionModeSelectAllDrawable = global::CoffeApp.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Prism.Resource.Attribute.actionModeShareDrawable = global::CoffeApp.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Prism.Resource.Attribute.actionModeSplitBackground = global::CoffeApp.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Prism.Resource.Attribute.actionModeStyle = global::CoffeApp.Droid.Resource.Attribute.actionModeStyle;
+			global::Prism.Resource.Attribute.actionModeWebSearchDrawable = global::CoffeApp.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Prism.Resource.Attribute.actionOverflowButtonStyle = global::CoffeApp.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Prism.Resource.Attribute.actionOverflowMenuStyle = global::CoffeApp.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Prism.Resource.Attribute.actionProviderClass = global::CoffeApp.Droid.Resource.Attribute.actionProviderClass;
+			global::Prism.Resource.Attribute.actionViewClass = global::CoffeApp.Droid.Resource.Attribute.actionViewClass;
+			global::Prism.Resource.Attribute.activityChooserViewStyle = global::CoffeApp.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Prism.Resource.Attribute.alertDialogButtonGroupStyle = global::CoffeApp.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Prism.Resource.Attribute.alertDialogCenterButtons = global::CoffeApp.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Prism.Resource.Attribute.alertDialogStyle = global::CoffeApp.Droid.Resource.Attribute.alertDialogStyle;
+			global::Prism.Resource.Attribute.alertDialogTheme = global::CoffeApp.Droid.Resource.Attribute.alertDialogTheme;
+			global::Prism.Resource.Attribute.allowStacking = global::CoffeApp.Droid.Resource.Attribute.allowStacking;
+			global::Prism.Resource.Attribute.alpha = global::CoffeApp.Droid.Resource.Attribute.alpha;
+			global::Prism.Resource.Attribute.alphabeticModifiers = global::CoffeApp.Droid.Resource.Attribute.alphabeticModifiers;
+			global::Prism.Resource.Attribute.arrowHeadLength = global::CoffeApp.Droid.Resource.Attribute.arrowHeadLength;
+			global::Prism.Resource.Attribute.arrowShaftLength = global::CoffeApp.Droid.Resource.Attribute.arrowShaftLength;
+			global::Prism.Resource.Attribute.autoCompleteTextViewStyle = global::CoffeApp.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Prism.Resource.Attribute.autoSizeMaxTextSize = global::CoffeApp.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::Prism.Resource.Attribute.autoSizeMinTextSize = global::CoffeApp.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::Prism.Resource.Attribute.autoSizePresetSizes = global::CoffeApp.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::Prism.Resource.Attribute.autoSizeStepGranularity = global::CoffeApp.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::Prism.Resource.Attribute.autoSizeTextType = global::CoffeApp.Droid.Resource.Attribute.autoSizeTextType;
+			global::Prism.Resource.Attribute.background = global::CoffeApp.Droid.Resource.Attribute.background;
+			global::Prism.Resource.Attribute.backgroundSplit = global::CoffeApp.Droid.Resource.Attribute.backgroundSplit;
+			global::Prism.Resource.Attribute.backgroundStacked = global::CoffeApp.Droid.Resource.Attribute.backgroundStacked;
+			global::Prism.Resource.Attribute.backgroundTint = global::CoffeApp.Droid.Resource.Attribute.backgroundTint;
+			global::Prism.Resource.Attribute.backgroundTintMode = global::CoffeApp.Droid.Resource.Attribute.backgroundTintMode;
+			global::Prism.Resource.Attribute.barLength = global::CoffeApp.Droid.Resource.Attribute.barLength;
+			global::Prism.Resource.Attribute.behavior_autoHide = global::CoffeApp.Droid.Resource.Attribute.behavior_autoHide;
+			global::Prism.Resource.Attribute.behavior_hideable = global::CoffeApp.Droid.Resource.Attribute.behavior_hideable;
+			global::Prism.Resource.Attribute.behavior_overlapTop = global::CoffeApp.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Prism.Resource.Attribute.behavior_peekHeight = global::CoffeApp.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Prism.Resource.Attribute.behavior_skipCollapsed = global::CoffeApp.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::Prism.Resource.Attribute.borderlessButtonStyle = global::CoffeApp.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Prism.Resource.Attribute.borderWidth = global::CoffeApp.Droid.Resource.Attribute.borderWidth;
+			global::Prism.Resource.Attribute.bottomSheetDialogTheme = global::CoffeApp.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Prism.Resource.Attribute.bottomSheetStyle = global::CoffeApp.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Prism.Resource.Attribute.buttonBarButtonStyle = global::CoffeApp.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Prism.Resource.Attribute.buttonBarNegativeButtonStyle = global::CoffeApp.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Prism.Resource.Attribute.buttonBarNeutralButtonStyle = global::CoffeApp.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Prism.Resource.Attribute.buttonBarPositiveButtonStyle = global::CoffeApp.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Prism.Resource.Attribute.buttonBarStyle = global::CoffeApp.Droid.Resource.Attribute.buttonBarStyle;
+			global::Prism.Resource.Attribute.buttonGravity = global::CoffeApp.Droid.Resource.Attribute.buttonGravity;
+			global::Prism.Resource.Attribute.buttonPanelSideLayout = global::CoffeApp.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Prism.Resource.Attribute.buttonStyle = global::CoffeApp.Droid.Resource.Attribute.buttonStyle;
+			global::Prism.Resource.Attribute.buttonStyleSmall = global::CoffeApp.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Prism.Resource.Attribute.buttonTint = global::CoffeApp.Droid.Resource.Attribute.buttonTint;
+			global::Prism.Resource.Attribute.buttonTintMode = global::CoffeApp.Droid.Resource.Attribute.buttonTintMode;
+			global::Prism.Resource.Attribute.cardBackgroundColor = global::CoffeApp.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Prism.Resource.Attribute.cardCornerRadius = global::CoffeApp.Droid.Resource.Attribute.cardCornerRadius;
+			global::Prism.Resource.Attribute.cardElevation = global::CoffeApp.Droid.Resource.Attribute.cardElevation;
+			global::Prism.Resource.Attribute.cardMaxElevation = global::CoffeApp.Droid.Resource.Attribute.cardMaxElevation;
+			global::Prism.Resource.Attribute.cardPreventCornerOverlap = global::CoffeApp.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Prism.Resource.Attribute.cardUseCompatPadding = global::CoffeApp.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Prism.Resource.Attribute.checkboxStyle = global::CoffeApp.Droid.Resource.Attribute.checkboxStyle;
+			global::Prism.Resource.Attribute.checkedTextViewStyle = global::CoffeApp.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Prism.Resource.Attribute.closeIcon = global::CoffeApp.Droid.Resource.Attribute.closeIcon;
+			global::Prism.Resource.Attribute.closeItemLayout = global::CoffeApp.Droid.Resource.Attribute.closeItemLayout;
+			global::Prism.Resource.Attribute.collapseContentDescription = global::CoffeApp.Droid.Resource.Attribute.collapseContentDescription;
+			global::Prism.Resource.Attribute.collapsedTitleGravity = global::CoffeApp.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Prism.Resource.Attribute.collapsedTitleTextAppearance = global::CoffeApp.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Prism.Resource.Attribute.collapseIcon = global::CoffeApp.Droid.Resource.Attribute.collapseIcon;
+			global::Prism.Resource.Attribute.color = global::CoffeApp.Droid.Resource.Attribute.color;
+			global::Prism.Resource.Attribute.colorAccent = global::CoffeApp.Droid.Resource.Attribute.colorAccent;
+			global::Prism.Resource.Attribute.colorBackgroundFloating = global::CoffeApp.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Prism.Resource.Attribute.colorButtonNormal = global::CoffeApp.Droid.Resource.Attribute.colorButtonNormal;
+			global::Prism.Resource.Attribute.colorControlActivated = global::CoffeApp.Droid.Resource.Attribute.colorControlActivated;
+			global::Prism.Resource.Attribute.colorControlHighlight = global::CoffeApp.Droid.Resource.Attribute.colorControlHighlight;
+			global::Prism.Resource.Attribute.colorControlNormal = global::CoffeApp.Droid.Resource.Attribute.colorControlNormal;
+			global::Prism.Resource.Attribute.colorError = global::CoffeApp.Droid.Resource.Attribute.colorError;
+			global::Prism.Resource.Attribute.colorPrimary = global::CoffeApp.Droid.Resource.Attribute.colorPrimary;
+			global::Prism.Resource.Attribute.colorPrimaryDark = global::CoffeApp.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Prism.Resource.Attribute.colorSwitchThumbNormal = global::CoffeApp.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Prism.Resource.Attribute.commitIcon = global::CoffeApp.Droid.Resource.Attribute.commitIcon;
+			global::Prism.Resource.Attribute.contentDescription = global::CoffeApp.Droid.Resource.Attribute.contentDescription;
+			global::Prism.Resource.Attribute.contentInsetEnd = global::CoffeApp.Droid.Resource.Attribute.contentInsetEnd;
+			global::Prism.Resource.Attribute.contentInsetEndWithActions = global::CoffeApp.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Prism.Resource.Attribute.contentInsetLeft = global::CoffeApp.Droid.Resource.Attribute.contentInsetLeft;
+			global::Prism.Resource.Attribute.contentInsetRight = global::CoffeApp.Droid.Resource.Attribute.contentInsetRight;
+			global::Prism.Resource.Attribute.contentInsetStart = global::CoffeApp.Droid.Resource.Attribute.contentInsetStart;
+			global::Prism.Resource.Attribute.contentInsetStartWithNavigation = global::CoffeApp.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Prism.Resource.Attribute.contentPadding = global::CoffeApp.Droid.Resource.Attribute.contentPadding;
+			global::Prism.Resource.Attribute.contentPaddingBottom = global::CoffeApp.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Prism.Resource.Attribute.contentPaddingLeft = global::CoffeApp.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Prism.Resource.Attribute.contentPaddingRight = global::CoffeApp.Droid.Resource.Attribute.contentPaddingRight;
+			global::Prism.Resource.Attribute.contentPaddingTop = global::CoffeApp.Droid.Resource.Attribute.contentPaddingTop;
+			global::Prism.Resource.Attribute.contentScrim = global::CoffeApp.Droid.Resource.Attribute.contentScrim;
+			global::Prism.Resource.Attribute.controlBackground = global::CoffeApp.Droid.Resource.Attribute.controlBackground;
+			global::Prism.Resource.Attribute.counterEnabled = global::CoffeApp.Droid.Resource.Attribute.counterEnabled;
+			global::Prism.Resource.Attribute.counterMaxLength = global::CoffeApp.Droid.Resource.Attribute.counterMaxLength;
+			global::Prism.Resource.Attribute.counterOverflowTextAppearance = global::CoffeApp.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Prism.Resource.Attribute.counterTextAppearance = global::CoffeApp.Droid.Resource.Attribute.counterTextAppearance;
+			global::Prism.Resource.Attribute.customNavigationLayout = global::CoffeApp.Droid.Resource.Attribute.customNavigationLayout;
+			global::Prism.Resource.Attribute.defaultQueryHint = global::CoffeApp.Droid.Resource.Attribute.defaultQueryHint;
+			global::Prism.Resource.Attribute.dialogPreferredPadding = global::CoffeApp.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Prism.Resource.Attribute.dialogTheme = global::CoffeApp.Droid.Resource.Attribute.dialogTheme;
+			global::Prism.Resource.Attribute.displayOptions = global::CoffeApp.Droid.Resource.Attribute.displayOptions;
+			global::Prism.Resource.Attribute.divider = global::CoffeApp.Droid.Resource.Attribute.divider;
+			global::Prism.Resource.Attribute.dividerHorizontal = global::CoffeApp.Droid.Resource.Attribute.dividerHorizontal;
+			global::Prism.Resource.Attribute.dividerPadding = global::CoffeApp.Droid.Resource.Attribute.dividerPadding;
+			global::Prism.Resource.Attribute.dividerVertical = global::CoffeApp.Droid.Resource.Attribute.dividerVertical;
+			global::Prism.Resource.Attribute.drawableSize = global::CoffeApp.Droid.Resource.Attribute.drawableSize;
+			global::Prism.Resource.Attribute.drawerArrowStyle = global::CoffeApp.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Prism.Resource.Attribute.dropdownListPreferredItemHeight = global::CoffeApp.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Prism.Resource.Attribute.dropDownListViewStyle = global::CoffeApp.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Prism.Resource.Attribute.editTextBackground = global::CoffeApp.Droid.Resource.Attribute.editTextBackground;
+			global::Prism.Resource.Attribute.editTextColor = global::CoffeApp.Droid.Resource.Attribute.editTextColor;
+			global::Prism.Resource.Attribute.editTextStyle = global::CoffeApp.Droid.Resource.Attribute.editTextStyle;
+			global::Prism.Resource.Attribute.elevation = global::CoffeApp.Droid.Resource.Attribute.elevation;
+			global::Prism.Resource.Attribute.errorEnabled = global::CoffeApp.Droid.Resource.Attribute.errorEnabled;
+			global::Prism.Resource.Attribute.errorTextAppearance = global::CoffeApp.Droid.Resource.Attribute.errorTextAppearance;
+			global::Prism.Resource.Attribute.expandActivityOverflowButtonDrawable = global::CoffeApp.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Prism.Resource.Attribute.expanded = global::CoffeApp.Droid.Resource.Attribute.expanded;
+			global::Prism.Resource.Attribute.expandedTitleGravity = global::CoffeApp.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Prism.Resource.Attribute.expandedTitleMargin = global::CoffeApp.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Prism.Resource.Attribute.expandedTitleMarginBottom = global::CoffeApp.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Prism.Resource.Attribute.expandedTitleMarginEnd = global::CoffeApp.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Prism.Resource.Attribute.expandedTitleMarginStart = global::CoffeApp.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Prism.Resource.Attribute.expandedTitleMarginTop = global::CoffeApp.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Prism.Resource.Attribute.expandedTitleTextAppearance = global::CoffeApp.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Prism.Resource.Attribute.fabSize = global::CoffeApp.Droid.Resource.Attribute.fabSize;
+			global::Prism.Resource.Attribute.fastScrollEnabled = global::CoffeApp.Droid.Resource.Attribute.fastScrollEnabled;
+			global::Prism.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::CoffeApp.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Prism.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::CoffeApp.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Prism.Resource.Attribute.fastScrollVerticalThumbDrawable = global::CoffeApp.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Prism.Resource.Attribute.fastScrollVerticalTrackDrawable = global::CoffeApp.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Prism.Resource.Attribute.font = global::CoffeApp.Droid.Resource.Attribute.font;
+			global::Prism.Resource.Attribute.fontFamily = global::CoffeApp.Droid.Resource.Attribute.fontFamily;
+			global::Prism.Resource.Attribute.fontProviderAuthority = global::CoffeApp.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Prism.Resource.Attribute.fontProviderCerts = global::CoffeApp.Droid.Resource.Attribute.fontProviderCerts;
+			global::Prism.Resource.Attribute.fontProviderFetchStrategy = global::CoffeApp.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Prism.Resource.Attribute.fontProviderFetchTimeout = global::CoffeApp.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Prism.Resource.Attribute.fontProviderPackage = global::CoffeApp.Droid.Resource.Attribute.fontProviderPackage;
+			global::Prism.Resource.Attribute.fontProviderQuery = global::CoffeApp.Droid.Resource.Attribute.fontProviderQuery;
+			global::Prism.Resource.Attribute.fontStyle = global::CoffeApp.Droid.Resource.Attribute.fontStyle;
+			global::Prism.Resource.Attribute.fontWeight = global::CoffeApp.Droid.Resource.Attribute.fontWeight;
+			global::Prism.Resource.Attribute.foregroundInsidePadding = global::CoffeApp.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Prism.Resource.Attribute.gapBetweenBars = global::CoffeApp.Droid.Resource.Attribute.gapBetweenBars;
+			global::Prism.Resource.Attribute.goIcon = global::CoffeApp.Droid.Resource.Attribute.goIcon;
+			global::Prism.Resource.Attribute.headerLayout = global::CoffeApp.Droid.Resource.Attribute.headerLayout;
+			global::Prism.Resource.Attribute.height = global::CoffeApp.Droid.Resource.Attribute.height;
+			global::Prism.Resource.Attribute.hideOnContentScroll = global::CoffeApp.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Prism.Resource.Attribute.hintAnimationEnabled = global::CoffeApp.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Prism.Resource.Attribute.hintEnabled = global::CoffeApp.Droid.Resource.Attribute.hintEnabled;
+			global::Prism.Resource.Attribute.hintTextAppearance = global::CoffeApp.Droid.Resource.Attribute.hintTextAppearance;
+			global::Prism.Resource.Attribute.homeAsUpIndicator = global::CoffeApp.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Prism.Resource.Attribute.homeLayout = global::CoffeApp.Droid.Resource.Attribute.homeLayout;
+			global::Prism.Resource.Attribute.icon = global::CoffeApp.Droid.Resource.Attribute.icon;
+			global::Prism.Resource.Attribute.iconifiedByDefault = global::CoffeApp.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Prism.Resource.Attribute.iconTint = global::CoffeApp.Droid.Resource.Attribute.iconTint;
+			global::Prism.Resource.Attribute.iconTintMode = global::CoffeApp.Droid.Resource.Attribute.iconTintMode;
+			global::Prism.Resource.Attribute.imageButtonStyle = global::CoffeApp.Droid.Resource.Attribute.imageButtonStyle;
+			global::Prism.Resource.Attribute.indeterminateProgressStyle = global::CoffeApp.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Prism.Resource.Attribute.initialActivityCount = global::CoffeApp.Droid.Resource.Attribute.initialActivityCount;
+			global::Prism.Resource.Attribute.insetForeground = global::CoffeApp.Droid.Resource.Attribute.insetForeground;
+			global::Prism.Resource.Attribute.isLightTheme = global::CoffeApp.Droid.Resource.Attribute.isLightTheme;
+			global::Prism.Resource.Attribute.itemBackground = global::CoffeApp.Droid.Resource.Attribute.itemBackground;
+			global::Prism.Resource.Attribute.itemIconTint = global::CoffeApp.Droid.Resource.Attribute.itemIconTint;
+			global::Prism.Resource.Attribute.itemPadding = global::CoffeApp.Droid.Resource.Attribute.itemPadding;
+			global::Prism.Resource.Attribute.itemTextAppearance = global::CoffeApp.Droid.Resource.Attribute.itemTextAppearance;
+			global::Prism.Resource.Attribute.itemTextColor = global::CoffeApp.Droid.Resource.Attribute.itemTextColor;
+			global::Prism.Resource.Attribute.keylines = global::CoffeApp.Droid.Resource.Attribute.keylines;
+			global::Prism.Resource.Attribute.layout = global::CoffeApp.Droid.Resource.Attribute.layout;
+			global::Prism.Resource.Attribute.layoutManager = global::CoffeApp.Droid.Resource.Attribute.layoutManager;
+			global::Prism.Resource.Attribute.layout_anchor = global::CoffeApp.Droid.Resource.Attribute.layout_anchor;
+			global::Prism.Resource.Attribute.layout_anchorGravity = global::CoffeApp.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Prism.Resource.Attribute.layout_behavior = global::CoffeApp.Droid.Resource.Attribute.layout_behavior;
+			global::Prism.Resource.Attribute.layout_collapseMode = global::CoffeApp.Droid.Resource.Attribute.layout_collapseMode;
+			global::Prism.Resource.Attribute.layout_collapseParallaxMultiplier = global::CoffeApp.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Prism.Resource.Attribute.layout_dodgeInsetEdges = global::CoffeApp.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Prism.Resource.Attribute.layout_insetEdge = global::CoffeApp.Droid.Resource.Attribute.layout_insetEdge;
+			global::Prism.Resource.Attribute.layout_keyline = global::CoffeApp.Droid.Resource.Attribute.layout_keyline;
+			global::Prism.Resource.Attribute.layout_scrollFlags = global::CoffeApp.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Prism.Resource.Attribute.layout_scrollInterpolator = global::CoffeApp.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Prism.Resource.Attribute.listChoiceBackgroundIndicator = global::CoffeApp.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Prism.Resource.Attribute.listDividerAlertDialog = global::CoffeApp.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Prism.Resource.Attribute.listItemLayout = global::CoffeApp.Droid.Resource.Attribute.listItemLayout;
+			global::Prism.Resource.Attribute.listLayout = global::CoffeApp.Droid.Resource.Attribute.listLayout;
+			global::Prism.Resource.Attribute.listMenuViewStyle = global::CoffeApp.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Prism.Resource.Attribute.listPopupWindowStyle = global::CoffeApp.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Prism.Resource.Attribute.listPreferredItemHeight = global::CoffeApp.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Prism.Resource.Attribute.listPreferredItemHeightLarge = global::CoffeApp.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Prism.Resource.Attribute.listPreferredItemHeightSmall = global::CoffeApp.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Prism.Resource.Attribute.listPreferredItemPaddingLeft = global::CoffeApp.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Prism.Resource.Attribute.listPreferredItemPaddingRight = global::CoffeApp.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Prism.Resource.Attribute.logo = global::CoffeApp.Droid.Resource.Attribute.logo;
+			global::Prism.Resource.Attribute.logoDescription = global::CoffeApp.Droid.Resource.Attribute.logoDescription;
+			global::Prism.Resource.Attribute.maxActionInlineWidth = global::CoffeApp.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Prism.Resource.Attribute.maxButtonHeight = global::CoffeApp.Droid.Resource.Attribute.maxButtonHeight;
+			global::Prism.Resource.Attribute.measureWithLargestChild = global::CoffeApp.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Prism.Resource.Attribute.menu = global::CoffeApp.Droid.Resource.Attribute.menu;
+			global::Prism.Resource.Attribute.multiChoiceItemLayout = global::CoffeApp.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Prism.Resource.Attribute.navigationContentDescription = global::CoffeApp.Droid.Resource.Attribute.navigationContentDescription;
+			global::Prism.Resource.Attribute.navigationIcon = global::CoffeApp.Droid.Resource.Attribute.navigationIcon;
+			global::Prism.Resource.Attribute.navigationMode = global::CoffeApp.Droid.Resource.Attribute.navigationMode;
+			global::Prism.Resource.Attribute.numericModifiers = global::CoffeApp.Droid.Resource.Attribute.numericModifiers;
+			global::Prism.Resource.Attribute.overlapAnchor = global::CoffeApp.Droid.Resource.Attribute.overlapAnchor;
+			global::Prism.Resource.Attribute.paddingBottomNoButtons = global::CoffeApp.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Prism.Resource.Attribute.paddingEnd = global::CoffeApp.Droid.Resource.Attribute.paddingEnd;
+			global::Prism.Resource.Attribute.paddingStart = global::CoffeApp.Droid.Resource.Attribute.paddingStart;
+			global::Prism.Resource.Attribute.paddingTopNoTitle = global::CoffeApp.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Prism.Resource.Attribute.panelBackground = global::CoffeApp.Droid.Resource.Attribute.panelBackground;
+			global::Prism.Resource.Attribute.panelMenuListTheme = global::CoffeApp.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Prism.Resource.Attribute.panelMenuListWidth = global::CoffeApp.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Prism.Resource.Attribute.passwordToggleContentDescription = global::CoffeApp.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::Prism.Resource.Attribute.passwordToggleDrawable = global::CoffeApp.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::Prism.Resource.Attribute.passwordToggleEnabled = global::CoffeApp.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::Prism.Resource.Attribute.passwordToggleTint = global::CoffeApp.Droid.Resource.Attribute.passwordToggleTint;
+			global::Prism.Resource.Attribute.passwordToggleTintMode = global::CoffeApp.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::Prism.Resource.Attribute.popupMenuStyle = global::CoffeApp.Droid.Resource.Attribute.popupMenuStyle;
+			global::Prism.Resource.Attribute.popupTheme = global::CoffeApp.Droid.Resource.Attribute.popupTheme;
+			global::Prism.Resource.Attribute.popupWindowStyle = global::CoffeApp.Droid.Resource.Attribute.popupWindowStyle;
+			global::Prism.Resource.Attribute.preserveIconSpacing = global::CoffeApp.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Prism.Resource.Attribute.pressedTranslationZ = global::CoffeApp.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Prism.Resource.Attribute.progressBarPadding = global::CoffeApp.Droid.Resource.Attribute.progressBarPadding;
+			global::Prism.Resource.Attribute.progressBarStyle = global::CoffeApp.Droid.Resource.Attribute.progressBarStyle;
+			global::Prism.Resource.Attribute.queryBackground = global::CoffeApp.Droid.Resource.Attribute.queryBackground;
+			global::Prism.Resource.Attribute.queryHint = global::CoffeApp.Droid.Resource.Attribute.queryHint;
+			global::Prism.Resource.Attribute.radioButtonStyle = global::CoffeApp.Droid.Resource.Attribute.radioButtonStyle;
+			global::Prism.Resource.Attribute.ratingBarStyle = global::CoffeApp.Droid.Resource.Attribute.ratingBarStyle;
+			global::Prism.Resource.Attribute.ratingBarStyleIndicator = global::CoffeApp.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Prism.Resource.Attribute.ratingBarStyleSmall = global::CoffeApp.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Prism.Resource.Attribute.reverseLayout = global::CoffeApp.Droid.Resource.Attribute.reverseLayout;
+			global::Prism.Resource.Attribute.rippleColor = global::CoffeApp.Droid.Resource.Attribute.rippleColor;
+			global::Prism.Resource.Attribute.scrimAnimationDuration = global::CoffeApp.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::Prism.Resource.Attribute.scrimVisibleHeightTrigger = global::CoffeApp.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Prism.Resource.Attribute.searchHintIcon = global::CoffeApp.Droid.Resource.Attribute.searchHintIcon;
+			global::Prism.Resource.Attribute.searchIcon = global::CoffeApp.Droid.Resource.Attribute.searchIcon;
+			global::Prism.Resource.Attribute.searchViewStyle = global::CoffeApp.Droid.Resource.Attribute.searchViewStyle;
+			global::Prism.Resource.Attribute.seekBarStyle = global::CoffeApp.Droid.Resource.Attribute.seekBarStyle;
+			global::Prism.Resource.Attribute.selectableItemBackground = global::CoffeApp.Droid.Resource.Attribute.selectableItemBackground;
+			global::Prism.Resource.Attribute.selectableItemBackgroundBorderless = global::CoffeApp.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Prism.Resource.Attribute.showAsAction = global::CoffeApp.Droid.Resource.Attribute.showAsAction;
+			global::Prism.Resource.Attribute.showDividers = global::CoffeApp.Droid.Resource.Attribute.showDividers;
+			global::Prism.Resource.Attribute.showText = global::CoffeApp.Droid.Resource.Attribute.showText;
+			global::Prism.Resource.Attribute.showTitle = global::CoffeApp.Droid.Resource.Attribute.showTitle;
+			global::Prism.Resource.Attribute.singleChoiceItemLayout = global::CoffeApp.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Prism.Resource.Attribute.spanCount = global::CoffeApp.Droid.Resource.Attribute.spanCount;
+			global::Prism.Resource.Attribute.spinBars = global::CoffeApp.Droid.Resource.Attribute.spinBars;
+			global::Prism.Resource.Attribute.spinnerDropDownItemStyle = global::CoffeApp.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Prism.Resource.Attribute.spinnerStyle = global::CoffeApp.Droid.Resource.Attribute.spinnerStyle;
+			global::Prism.Resource.Attribute.splitTrack = global::CoffeApp.Droid.Resource.Attribute.splitTrack;
+			global::Prism.Resource.Attribute.srcCompat = global::CoffeApp.Droid.Resource.Attribute.srcCompat;
+			global::Prism.Resource.Attribute.stackFromEnd = global::CoffeApp.Droid.Resource.Attribute.stackFromEnd;
+			global::Prism.Resource.Attribute.state_above_anchor = global::CoffeApp.Droid.Resource.Attribute.state_above_anchor;
+			global::Prism.Resource.Attribute.state_collapsed = global::CoffeApp.Droid.Resource.Attribute.state_collapsed;
+			global::Prism.Resource.Attribute.state_collapsible = global::CoffeApp.Droid.Resource.Attribute.state_collapsible;
+			global::Prism.Resource.Attribute.statusBarBackground = global::CoffeApp.Droid.Resource.Attribute.statusBarBackground;
+			global::Prism.Resource.Attribute.statusBarScrim = global::CoffeApp.Droid.Resource.Attribute.statusBarScrim;
+			global::Prism.Resource.Attribute.subMenuArrow = global::CoffeApp.Droid.Resource.Attribute.subMenuArrow;
+			global::Prism.Resource.Attribute.submitBackground = global::CoffeApp.Droid.Resource.Attribute.submitBackground;
+			global::Prism.Resource.Attribute.subtitle = global::CoffeApp.Droid.Resource.Attribute.subtitle;
+			global::Prism.Resource.Attribute.subtitleTextAppearance = global::CoffeApp.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Prism.Resource.Attribute.subtitleTextColor = global::CoffeApp.Droid.Resource.Attribute.subtitleTextColor;
+			global::Prism.Resource.Attribute.subtitleTextStyle = global::CoffeApp.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Prism.Resource.Attribute.suggestionRowLayout = global::CoffeApp.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Prism.Resource.Attribute.switchMinWidth = global::CoffeApp.Droid.Resource.Attribute.switchMinWidth;
+			global::Prism.Resource.Attribute.switchPadding = global::CoffeApp.Droid.Resource.Attribute.switchPadding;
+			global::Prism.Resource.Attribute.switchStyle = global::CoffeApp.Droid.Resource.Attribute.switchStyle;
+			global::Prism.Resource.Attribute.switchTextAppearance = global::CoffeApp.Droid.Resource.Attribute.switchTextAppearance;
+			global::Prism.Resource.Attribute.tabBackground = global::CoffeApp.Droid.Resource.Attribute.tabBackground;
+			global::Prism.Resource.Attribute.tabContentStart = global::CoffeApp.Droid.Resource.Attribute.tabContentStart;
+			global::Prism.Resource.Attribute.tabGravity = global::CoffeApp.Droid.Resource.Attribute.tabGravity;
+			global::Prism.Resource.Attribute.tabIndicatorColor = global::CoffeApp.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Prism.Resource.Attribute.tabIndicatorHeight = global::CoffeApp.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Prism.Resource.Attribute.tabMaxWidth = global::CoffeApp.Droid.Resource.Attribute.tabMaxWidth;
+			global::Prism.Resource.Attribute.tabMinWidth = global::CoffeApp.Droid.Resource.Attribute.tabMinWidth;
+			global::Prism.Resource.Attribute.tabMode = global::CoffeApp.Droid.Resource.Attribute.tabMode;
+			global::Prism.Resource.Attribute.tabPadding = global::CoffeApp.Droid.Resource.Attribute.tabPadding;
+			global::Prism.Resource.Attribute.tabPaddingBottom = global::CoffeApp.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Prism.Resource.Attribute.tabPaddingEnd = global::CoffeApp.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Prism.Resource.Attribute.tabPaddingStart = global::CoffeApp.Droid.Resource.Attribute.tabPaddingStart;
+			global::Prism.Resource.Attribute.tabPaddingTop = global::CoffeApp.Droid.Resource.Attribute.tabPaddingTop;
+			global::Prism.Resource.Attribute.tabSelectedTextColor = global::CoffeApp.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Prism.Resource.Attribute.tabTextAppearance = global::CoffeApp.Droid.Resource.Attribute.tabTextAppearance;
+			global::Prism.Resource.Attribute.tabTextColor = global::CoffeApp.Droid.Resource.Attribute.tabTextColor;
+			global::Prism.Resource.Attribute.textAllCaps = global::CoffeApp.Droid.Resource.Attribute.textAllCaps;
+			global::Prism.Resource.Attribute.textAppearanceLargePopupMenu = global::CoffeApp.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Prism.Resource.Attribute.textAppearanceListItem = global::CoffeApp.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Prism.Resource.Attribute.textAppearanceListItemSecondary = global::CoffeApp.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Prism.Resource.Attribute.textAppearanceListItemSmall = global::CoffeApp.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Prism.Resource.Attribute.textAppearancePopupMenuHeader = global::CoffeApp.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Prism.Resource.Attribute.textAppearanceSearchResultSubtitle = global::CoffeApp.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Prism.Resource.Attribute.textAppearanceSearchResultTitle = global::CoffeApp.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Prism.Resource.Attribute.textAppearanceSmallPopupMenu = global::CoffeApp.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Prism.Resource.Attribute.textColorAlertDialogListItem = global::CoffeApp.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Prism.Resource.Attribute.textColorSearchUrl = global::CoffeApp.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Prism.Resource.Attribute.theme = global::CoffeApp.Droid.Resource.Attribute.theme;
+			global::Prism.Resource.Attribute.thickness = global::CoffeApp.Droid.Resource.Attribute.thickness;
+			global::Prism.Resource.Attribute.thumbTextPadding = global::CoffeApp.Droid.Resource.Attribute.thumbTextPadding;
+			global::Prism.Resource.Attribute.thumbTint = global::CoffeApp.Droid.Resource.Attribute.thumbTint;
+			global::Prism.Resource.Attribute.thumbTintMode = global::CoffeApp.Droid.Resource.Attribute.thumbTintMode;
+			global::Prism.Resource.Attribute.tickMark = global::CoffeApp.Droid.Resource.Attribute.tickMark;
+			global::Prism.Resource.Attribute.tickMarkTint = global::CoffeApp.Droid.Resource.Attribute.tickMarkTint;
+			global::Prism.Resource.Attribute.tickMarkTintMode = global::CoffeApp.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Prism.Resource.Attribute.tint = global::CoffeApp.Droid.Resource.Attribute.tint;
+			global::Prism.Resource.Attribute.tintMode = global::CoffeApp.Droid.Resource.Attribute.tintMode;
+			global::Prism.Resource.Attribute.title = global::CoffeApp.Droid.Resource.Attribute.title;
+			global::Prism.Resource.Attribute.titleEnabled = global::CoffeApp.Droid.Resource.Attribute.titleEnabled;
+			global::Prism.Resource.Attribute.titleMargin = global::CoffeApp.Droid.Resource.Attribute.titleMargin;
+			global::Prism.Resource.Attribute.titleMarginBottom = global::CoffeApp.Droid.Resource.Attribute.titleMarginBottom;
+			global::Prism.Resource.Attribute.titleMarginEnd = global::CoffeApp.Droid.Resource.Attribute.titleMarginEnd;
+			global::Prism.Resource.Attribute.titleMargins = global::CoffeApp.Droid.Resource.Attribute.titleMargins;
+			global::Prism.Resource.Attribute.titleMarginStart = global::CoffeApp.Droid.Resource.Attribute.titleMarginStart;
+			global::Prism.Resource.Attribute.titleMarginTop = global::CoffeApp.Droid.Resource.Attribute.titleMarginTop;
+			global::Prism.Resource.Attribute.titleTextAppearance = global::CoffeApp.Droid.Resource.Attribute.titleTextAppearance;
+			global::Prism.Resource.Attribute.titleTextColor = global::CoffeApp.Droid.Resource.Attribute.titleTextColor;
+			global::Prism.Resource.Attribute.titleTextStyle = global::CoffeApp.Droid.Resource.Attribute.titleTextStyle;
+			global::Prism.Resource.Attribute.toolbarId = global::CoffeApp.Droid.Resource.Attribute.toolbarId;
+			global::Prism.Resource.Attribute.toolbarNavigationButtonStyle = global::CoffeApp.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Prism.Resource.Attribute.toolbarStyle = global::CoffeApp.Droid.Resource.Attribute.toolbarStyle;
+			global::Prism.Resource.Attribute.tooltipForegroundColor = global::CoffeApp.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::Prism.Resource.Attribute.tooltipFrameBackground = global::CoffeApp.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::Prism.Resource.Attribute.tooltipText = global::CoffeApp.Droid.Resource.Attribute.tooltipText;
+			global::Prism.Resource.Attribute.track = global::CoffeApp.Droid.Resource.Attribute.track;
+			global::Prism.Resource.Attribute.trackTint = global::CoffeApp.Droid.Resource.Attribute.trackTint;
+			global::Prism.Resource.Attribute.trackTintMode = global::CoffeApp.Droid.Resource.Attribute.trackTintMode;
+			global::Prism.Resource.Attribute.useCompatPadding = global::CoffeApp.Droid.Resource.Attribute.useCompatPadding;
+			global::Prism.Resource.Attribute.voiceIcon = global::CoffeApp.Droid.Resource.Attribute.voiceIcon;
+			global::Prism.Resource.Attribute.windowActionBar = global::CoffeApp.Droid.Resource.Attribute.windowActionBar;
+			global::Prism.Resource.Attribute.windowActionBarOverlay = global::CoffeApp.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Prism.Resource.Attribute.windowActionModeOverlay = global::CoffeApp.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Prism.Resource.Attribute.windowFixedHeightMajor = global::CoffeApp.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Prism.Resource.Attribute.windowFixedHeightMinor = global::CoffeApp.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Prism.Resource.Attribute.windowFixedWidthMajor = global::CoffeApp.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Prism.Resource.Attribute.windowFixedWidthMinor = global::CoffeApp.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Prism.Resource.Attribute.windowMinWidthMajor = global::CoffeApp.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Prism.Resource.Attribute.windowMinWidthMinor = global::CoffeApp.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Prism.Resource.Attribute.windowNoTitle = global::CoffeApp.Droid.Resource.Attribute.windowNoTitle;
+			global::Prism.Resource.Boolean.abc_action_bar_embed_tabs = global::CoffeApp.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Prism.Resource.Boolean.abc_allow_stacked_button_bar = global::CoffeApp.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Prism.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::CoffeApp.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Prism.Resource.Color.abc_background_cache_hint_selector_material_dark = global::CoffeApp.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Prism.Resource.Color.abc_background_cache_hint_selector_material_light = global::CoffeApp.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Prism.Resource.Color.abc_btn_colored_borderless_text_material = global::CoffeApp.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Prism.Resource.Color.abc_btn_colored_text_material = global::CoffeApp.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Prism.Resource.Color.abc_color_highlight_material = global::CoffeApp.Droid.Resource.Color.abc_color_highlight_material;
+			global::Prism.Resource.Color.abc_hint_foreground_material_dark = global::CoffeApp.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Prism.Resource.Color.abc_hint_foreground_material_light = global::CoffeApp.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Prism.Resource.Color.abc_input_method_navigation_guard = global::CoffeApp.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::Prism.Resource.Color.abc_primary_text_disable_only_material_dark = global::CoffeApp.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Prism.Resource.Color.abc_primary_text_disable_only_material_light = global::CoffeApp.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Prism.Resource.Color.abc_primary_text_material_dark = global::CoffeApp.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Prism.Resource.Color.abc_primary_text_material_light = global::CoffeApp.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Prism.Resource.Color.abc_search_url_text = global::CoffeApp.Droid.Resource.Color.abc_search_url_text;
+			global::Prism.Resource.Color.abc_search_url_text_normal = global::CoffeApp.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Prism.Resource.Color.abc_search_url_text_pressed = global::CoffeApp.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Prism.Resource.Color.abc_search_url_text_selected = global::CoffeApp.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Prism.Resource.Color.abc_secondary_text_material_dark = global::CoffeApp.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Prism.Resource.Color.abc_secondary_text_material_light = global::CoffeApp.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Prism.Resource.Color.abc_tint_btn_checkable = global::CoffeApp.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Prism.Resource.Color.abc_tint_default = global::CoffeApp.Droid.Resource.Color.abc_tint_default;
+			global::Prism.Resource.Color.abc_tint_edittext = global::CoffeApp.Droid.Resource.Color.abc_tint_edittext;
+			global::Prism.Resource.Color.abc_tint_seek_thumb = global::CoffeApp.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Prism.Resource.Color.abc_tint_spinner = global::CoffeApp.Droid.Resource.Color.abc_tint_spinner;
+			global::Prism.Resource.Color.abc_tint_switch_track = global::CoffeApp.Droid.Resource.Color.abc_tint_switch_track;
+			global::Prism.Resource.Color.accent_material_dark = global::CoffeApp.Droid.Resource.Color.accent_material_dark;
+			global::Prism.Resource.Color.accent_material_light = global::CoffeApp.Droid.Resource.Color.accent_material_light;
+			global::Prism.Resource.Color.background_floating_material_dark = global::CoffeApp.Droid.Resource.Color.background_floating_material_dark;
+			global::Prism.Resource.Color.background_floating_material_light = global::CoffeApp.Droid.Resource.Color.background_floating_material_light;
+			global::Prism.Resource.Color.background_material_dark = global::CoffeApp.Droid.Resource.Color.background_material_dark;
+			global::Prism.Resource.Color.background_material_light = global::CoffeApp.Droid.Resource.Color.background_material_light;
+			global::Prism.Resource.Color.bright_foreground_disabled_material_dark = global::CoffeApp.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Prism.Resource.Color.bright_foreground_disabled_material_light = global::CoffeApp.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Prism.Resource.Color.bright_foreground_inverse_material_dark = global::CoffeApp.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Prism.Resource.Color.bright_foreground_inverse_material_light = global::CoffeApp.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Prism.Resource.Color.bright_foreground_material_dark = global::CoffeApp.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Prism.Resource.Color.bright_foreground_material_light = global::CoffeApp.Droid.Resource.Color.bright_foreground_material_light;
+			global::Prism.Resource.Color.button_material_dark = global::CoffeApp.Droid.Resource.Color.button_material_dark;
+			global::Prism.Resource.Color.button_material_light = global::CoffeApp.Droid.Resource.Color.button_material_light;
+			global::Prism.Resource.Color.cardview_dark_background = global::CoffeApp.Droid.Resource.Color.cardview_dark_background;
+			global::Prism.Resource.Color.cardview_light_background = global::CoffeApp.Droid.Resource.Color.cardview_light_background;
+			global::Prism.Resource.Color.cardview_shadow_end_color = global::CoffeApp.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Prism.Resource.Color.cardview_shadow_start_color = global::CoffeApp.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Prism.Resource.Color.design_bottom_navigation_shadow_color = global::CoffeApp.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Prism.Resource.Color.design_error = global::CoffeApp.Droid.Resource.Color.design_error;
+			global::Prism.Resource.Color.design_fab_shadow_end_color = global::CoffeApp.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Prism.Resource.Color.design_fab_shadow_mid_color = global::CoffeApp.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Prism.Resource.Color.design_fab_shadow_start_color = global::CoffeApp.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Prism.Resource.Color.design_fab_stroke_end_inner_color = global::CoffeApp.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Prism.Resource.Color.design_fab_stroke_end_outer_color = global::CoffeApp.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Prism.Resource.Color.design_fab_stroke_top_inner_color = global::CoffeApp.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Prism.Resource.Color.design_fab_stroke_top_outer_color = global::CoffeApp.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Prism.Resource.Color.design_snackbar_background_color = global::CoffeApp.Droid.Resource.Color.design_snackbar_background_color;
+			global::Prism.Resource.Color.design_tint_password_toggle = global::CoffeApp.Droid.Resource.Color.design_tint_password_toggle;
+			global::Prism.Resource.Color.dim_foreground_disabled_material_dark = global::CoffeApp.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Prism.Resource.Color.dim_foreground_disabled_material_light = global::CoffeApp.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Prism.Resource.Color.dim_foreground_material_dark = global::CoffeApp.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Prism.Resource.Color.dim_foreground_material_light = global::CoffeApp.Droid.Resource.Color.dim_foreground_material_light;
+			global::Prism.Resource.Color.foreground_material_dark = global::CoffeApp.Droid.Resource.Color.foreground_material_dark;
+			global::Prism.Resource.Color.foreground_material_light = global::CoffeApp.Droid.Resource.Color.foreground_material_light;
+			global::Prism.Resource.Color.highlighted_text_material_dark = global::CoffeApp.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Prism.Resource.Color.highlighted_text_material_light = global::CoffeApp.Droid.Resource.Color.highlighted_text_material_light;
+			global::Prism.Resource.Color.material_blue_grey_800 = global::CoffeApp.Droid.Resource.Color.material_blue_grey_800;
+			global::Prism.Resource.Color.material_blue_grey_900 = global::CoffeApp.Droid.Resource.Color.material_blue_grey_900;
+			global::Prism.Resource.Color.material_blue_grey_950 = global::CoffeApp.Droid.Resource.Color.material_blue_grey_950;
+			global::Prism.Resource.Color.material_deep_teal_200 = global::CoffeApp.Droid.Resource.Color.material_deep_teal_200;
+			global::Prism.Resource.Color.material_deep_teal_500 = global::CoffeApp.Droid.Resource.Color.material_deep_teal_500;
+			global::Prism.Resource.Color.material_grey_100 = global::CoffeApp.Droid.Resource.Color.material_grey_100;
+			global::Prism.Resource.Color.material_grey_300 = global::CoffeApp.Droid.Resource.Color.material_grey_300;
+			global::Prism.Resource.Color.material_grey_50 = global::CoffeApp.Droid.Resource.Color.material_grey_50;
+			global::Prism.Resource.Color.material_grey_600 = global::CoffeApp.Droid.Resource.Color.material_grey_600;
+			global::Prism.Resource.Color.material_grey_800 = global::CoffeApp.Droid.Resource.Color.material_grey_800;
+			global::Prism.Resource.Color.material_grey_850 = global::CoffeApp.Droid.Resource.Color.material_grey_850;
+			global::Prism.Resource.Color.material_grey_900 = global::CoffeApp.Droid.Resource.Color.material_grey_900;
+			global::Prism.Resource.Color.notification_action_color_filter = global::CoffeApp.Droid.Resource.Color.notification_action_color_filter;
+			global::Prism.Resource.Color.notification_icon_bg_color = global::CoffeApp.Droid.Resource.Color.notification_icon_bg_color;
+			global::Prism.Resource.Color.notification_material_background_media_default_color = global::CoffeApp.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Prism.Resource.Color.primary_dark_material_dark = global::CoffeApp.Droid.Resource.Color.primary_dark_material_dark;
+			global::Prism.Resource.Color.primary_dark_material_light = global::CoffeApp.Droid.Resource.Color.primary_dark_material_light;
+			global::Prism.Resource.Color.primary_material_dark = global::CoffeApp.Droid.Resource.Color.primary_material_dark;
+			global::Prism.Resource.Color.primary_material_light = global::CoffeApp.Droid.Resource.Color.primary_material_light;
+			global::Prism.Resource.Color.primary_text_default_material_dark = global::CoffeApp.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Prism.Resource.Color.primary_text_default_material_light = global::CoffeApp.Droid.Resource.Color.primary_text_default_material_light;
+			global::Prism.Resource.Color.primary_text_disabled_material_dark = global::CoffeApp.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Prism.Resource.Color.primary_text_disabled_material_light = global::CoffeApp.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Prism.Resource.Color.ripple_material_dark = global::CoffeApp.Droid.Resource.Color.ripple_material_dark;
+			global::Prism.Resource.Color.ripple_material_light = global::CoffeApp.Droid.Resource.Color.ripple_material_light;
+			global::Prism.Resource.Color.secondary_text_default_material_dark = global::CoffeApp.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Prism.Resource.Color.secondary_text_default_material_light = global::CoffeApp.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Prism.Resource.Color.secondary_text_disabled_material_dark = global::CoffeApp.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Prism.Resource.Color.secondary_text_disabled_material_light = global::CoffeApp.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Prism.Resource.Color.switch_thumb_disabled_material_dark = global::CoffeApp.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Prism.Resource.Color.switch_thumb_disabled_material_light = global::CoffeApp.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Prism.Resource.Color.switch_thumb_material_dark = global::CoffeApp.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Prism.Resource.Color.switch_thumb_material_light = global::CoffeApp.Droid.Resource.Color.switch_thumb_material_light;
+			global::Prism.Resource.Color.switch_thumb_normal_material_dark = global::CoffeApp.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Prism.Resource.Color.switch_thumb_normal_material_light = global::CoffeApp.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Prism.Resource.Color.tooltip_background_dark = global::CoffeApp.Droid.Resource.Color.tooltip_background_dark;
+			global::Prism.Resource.Color.tooltip_background_light = global::CoffeApp.Droid.Resource.Color.tooltip_background_light;
+			global::Prism.Resource.Dimension.abc_action_bar_content_inset_material = global::CoffeApp.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Prism.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::CoffeApp.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Prism.Resource.Dimension.abc_action_bar_default_height_material = global::CoffeApp.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Prism.Resource.Dimension.abc_action_bar_default_padding_end_material = global::CoffeApp.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Prism.Resource.Dimension.abc_action_bar_default_padding_start_material = global::CoffeApp.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Prism.Resource.Dimension.abc_action_bar_elevation_material = global::CoffeApp.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Prism.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::CoffeApp.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Prism.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::CoffeApp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Prism.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::CoffeApp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Prism.Resource.Dimension.abc_action_bar_stacked_max_height = global::CoffeApp.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Prism.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::CoffeApp.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Prism.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::CoffeApp.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Prism.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::CoffeApp.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Prism.Resource.Dimension.abc_action_button_min_height_material = global::CoffeApp.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Prism.Resource.Dimension.abc_action_button_min_width_material = global::CoffeApp.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Prism.Resource.Dimension.abc_action_button_min_width_overflow_material = global::CoffeApp.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Prism.Resource.Dimension.abc_alert_dialog_button_bar_height = global::CoffeApp.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Prism.Resource.Dimension.abc_button_inset_horizontal_material = global::CoffeApp.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Prism.Resource.Dimension.abc_button_inset_vertical_material = global::CoffeApp.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Prism.Resource.Dimension.abc_button_padding_horizontal_material = global::CoffeApp.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Prism.Resource.Dimension.abc_button_padding_vertical_material = global::CoffeApp.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Prism.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::CoffeApp.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Prism.Resource.Dimension.abc_config_prefDialogWidth = global::CoffeApp.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Prism.Resource.Dimension.abc_control_corner_material = global::CoffeApp.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Prism.Resource.Dimension.abc_control_inset_material = global::CoffeApp.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Prism.Resource.Dimension.abc_control_padding_material = global::CoffeApp.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Prism.Resource.Dimension.abc_dialog_fixed_height_major = global::CoffeApp.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Prism.Resource.Dimension.abc_dialog_fixed_height_minor = global::CoffeApp.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Prism.Resource.Dimension.abc_dialog_fixed_width_major = global::CoffeApp.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Prism.Resource.Dimension.abc_dialog_fixed_width_minor = global::CoffeApp.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Prism.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::CoffeApp.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Prism.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::CoffeApp.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Prism.Resource.Dimension.abc_dialog_min_width_major = global::CoffeApp.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Prism.Resource.Dimension.abc_dialog_min_width_minor = global::CoffeApp.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Prism.Resource.Dimension.abc_dialog_padding_material = global::CoffeApp.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Prism.Resource.Dimension.abc_dialog_padding_top_material = global::CoffeApp.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Prism.Resource.Dimension.abc_dialog_title_divider_material = global::CoffeApp.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Prism.Resource.Dimension.abc_disabled_alpha_material_dark = global::CoffeApp.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Prism.Resource.Dimension.abc_disabled_alpha_material_light = global::CoffeApp.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Prism.Resource.Dimension.abc_dropdownitem_icon_width = global::CoffeApp.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Prism.Resource.Dimension.abc_dropdownitem_text_padding_left = global::CoffeApp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Prism.Resource.Dimension.abc_dropdownitem_text_padding_right = global::CoffeApp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Prism.Resource.Dimension.abc_edit_text_inset_bottom_material = global::CoffeApp.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Prism.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::CoffeApp.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Prism.Resource.Dimension.abc_edit_text_inset_top_material = global::CoffeApp.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Prism.Resource.Dimension.abc_floating_window_z = global::CoffeApp.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Prism.Resource.Dimension.abc_list_item_padding_horizontal_material = global::CoffeApp.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Prism.Resource.Dimension.abc_panel_menu_list_width = global::CoffeApp.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Prism.Resource.Dimension.abc_progress_bar_height_material = global::CoffeApp.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Prism.Resource.Dimension.abc_search_view_preferred_height = global::CoffeApp.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Prism.Resource.Dimension.abc_search_view_preferred_width = global::CoffeApp.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Prism.Resource.Dimension.abc_seekbar_track_background_height_material = global::CoffeApp.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Prism.Resource.Dimension.abc_seekbar_track_progress_height_material = global::CoffeApp.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Prism.Resource.Dimension.abc_select_dialog_padding_start_material = global::CoffeApp.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Prism.Resource.Dimension.abc_switch_padding = global::CoffeApp.Droid.Resource.Dimension.abc_switch_padding;
+			global::Prism.Resource.Dimension.abc_text_size_body_1_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Prism.Resource.Dimension.abc_text_size_body_2_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Prism.Resource.Dimension.abc_text_size_button_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Prism.Resource.Dimension.abc_text_size_caption_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Prism.Resource.Dimension.abc_text_size_display_1_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Prism.Resource.Dimension.abc_text_size_display_2_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Prism.Resource.Dimension.abc_text_size_display_3_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Prism.Resource.Dimension.abc_text_size_display_4_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Prism.Resource.Dimension.abc_text_size_headline_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Prism.Resource.Dimension.abc_text_size_large_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Prism.Resource.Dimension.abc_text_size_medium_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Prism.Resource.Dimension.abc_text_size_menu_header_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Prism.Resource.Dimension.abc_text_size_menu_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Prism.Resource.Dimension.abc_text_size_small_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Prism.Resource.Dimension.abc_text_size_subhead_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Prism.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Prism.Resource.Dimension.abc_text_size_title_material = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Prism.Resource.Dimension.abc_text_size_title_material_toolbar = global::CoffeApp.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Prism.Resource.Dimension.cardview_compat_inset_shadow = global::CoffeApp.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Prism.Resource.Dimension.cardview_default_elevation = global::CoffeApp.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Prism.Resource.Dimension.cardview_default_radius = global::CoffeApp.Droid.Resource.Dimension.cardview_default_radius;
+			global::Prism.Resource.Dimension.compat_button_inset_horizontal_material = global::CoffeApp.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Prism.Resource.Dimension.compat_button_inset_vertical_material = global::CoffeApp.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Prism.Resource.Dimension.compat_button_padding_horizontal_material = global::CoffeApp.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Prism.Resource.Dimension.compat_button_padding_vertical_material = global::CoffeApp.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Prism.Resource.Dimension.compat_control_corner_material = global::CoffeApp.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Prism.Resource.Dimension.design_appbar_elevation = global::CoffeApp.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Prism.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::CoffeApp.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Prism.Resource.Dimension.design_bottom_navigation_active_text_size = global::CoffeApp.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Prism.Resource.Dimension.design_bottom_navigation_elevation = global::CoffeApp.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Prism.Resource.Dimension.design_bottom_navigation_height = global::CoffeApp.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::Prism.Resource.Dimension.design_bottom_navigation_item_max_width = global::CoffeApp.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Prism.Resource.Dimension.design_bottom_navigation_item_min_width = global::CoffeApp.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Prism.Resource.Dimension.design_bottom_navigation_margin = global::CoffeApp.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::Prism.Resource.Dimension.design_bottom_navigation_shadow_height = global::CoffeApp.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Prism.Resource.Dimension.design_bottom_navigation_text_size = global::CoffeApp.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Prism.Resource.Dimension.design_bottom_sheet_modal_elevation = global::CoffeApp.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Prism.Resource.Dimension.design_bottom_sheet_peek_height_min = global::CoffeApp.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Prism.Resource.Dimension.design_fab_border_width = global::CoffeApp.Droid.Resource.Dimension.design_fab_border_width;
+			global::Prism.Resource.Dimension.design_fab_elevation = global::CoffeApp.Droid.Resource.Dimension.design_fab_elevation;
+			global::Prism.Resource.Dimension.design_fab_image_size = global::CoffeApp.Droid.Resource.Dimension.design_fab_image_size;
+			global::Prism.Resource.Dimension.design_fab_size_mini = global::CoffeApp.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Prism.Resource.Dimension.design_fab_size_normal = global::CoffeApp.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Prism.Resource.Dimension.design_fab_translation_z_pressed = global::CoffeApp.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Prism.Resource.Dimension.design_navigation_elevation = global::CoffeApp.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Prism.Resource.Dimension.design_navigation_icon_padding = global::CoffeApp.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Prism.Resource.Dimension.design_navigation_icon_size = global::CoffeApp.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Prism.Resource.Dimension.design_navigation_max_width = global::CoffeApp.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Prism.Resource.Dimension.design_navigation_padding_bottom = global::CoffeApp.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Prism.Resource.Dimension.design_navigation_separator_vertical_padding = global::CoffeApp.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Prism.Resource.Dimension.design_snackbar_action_inline_max_width = global::CoffeApp.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Prism.Resource.Dimension.design_snackbar_background_corner_radius = global::CoffeApp.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Prism.Resource.Dimension.design_snackbar_elevation = global::CoffeApp.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Prism.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::CoffeApp.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Prism.Resource.Dimension.design_snackbar_max_width = global::CoffeApp.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Prism.Resource.Dimension.design_snackbar_min_width = global::CoffeApp.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Prism.Resource.Dimension.design_snackbar_padding_horizontal = global::CoffeApp.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Prism.Resource.Dimension.design_snackbar_padding_vertical = global::CoffeApp.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Prism.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::CoffeApp.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Prism.Resource.Dimension.design_snackbar_text_size = global::CoffeApp.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Prism.Resource.Dimension.design_tab_max_width = global::CoffeApp.Droid.Resource.Dimension.design_tab_max_width;
+			global::Prism.Resource.Dimension.design_tab_scrollable_min_width = global::CoffeApp.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Prism.Resource.Dimension.design_tab_text_size = global::CoffeApp.Droid.Resource.Dimension.design_tab_text_size;
+			global::Prism.Resource.Dimension.design_tab_text_size_2line = global::CoffeApp.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Prism.Resource.Dimension.disabled_alpha_material_dark = global::CoffeApp.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Prism.Resource.Dimension.disabled_alpha_material_light = global::CoffeApp.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Prism.Resource.Dimension.fastscroll_default_thickness = global::CoffeApp.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::Prism.Resource.Dimension.fastscroll_margin = global::CoffeApp.Droid.Resource.Dimension.fastscroll_margin;
+			global::Prism.Resource.Dimension.fastscroll_minimum_range = global::CoffeApp.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::Prism.Resource.Dimension.highlight_alpha_material_colored = global::CoffeApp.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Prism.Resource.Dimension.highlight_alpha_material_dark = global::CoffeApp.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Prism.Resource.Dimension.highlight_alpha_material_light = global::CoffeApp.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Prism.Resource.Dimension.hint_alpha_material_dark = global::CoffeApp.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Prism.Resource.Dimension.hint_alpha_material_light = global::CoffeApp.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Prism.Resource.Dimension.hint_pressed_alpha_material_dark = global::CoffeApp.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Prism.Resource.Dimension.hint_pressed_alpha_material_light = global::CoffeApp.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Prism.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::CoffeApp.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Prism.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::CoffeApp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Prism.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::CoffeApp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Prism.Resource.Dimension.notification_action_icon_size = global::CoffeApp.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Prism.Resource.Dimension.notification_action_text_size = global::CoffeApp.Droid.Resource.Dimension.notification_action_text_size;
+			global::Prism.Resource.Dimension.notification_big_circle_margin = global::CoffeApp.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Prism.Resource.Dimension.notification_content_margin_start = global::CoffeApp.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Prism.Resource.Dimension.notification_large_icon_height = global::CoffeApp.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Prism.Resource.Dimension.notification_large_icon_width = global::CoffeApp.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Prism.Resource.Dimension.notification_main_column_padding_top = global::CoffeApp.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Prism.Resource.Dimension.notification_media_narrow_margin = global::CoffeApp.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Prism.Resource.Dimension.notification_right_icon_size = global::CoffeApp.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Prism.Resource.Dimension.notification_right_side_padding_top = global::CoffeApp.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Prism.Resource.Dimension.notification_small_icon_background_padding = global::CoffeApp.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Prism.Resource.Dimension.notification_small_icon_size_as_large = global::CoffeApp.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Prism.Resource.Dimension.notification_subtext_size = global::CoffeApp.Droid.Resource.Dimension.notification_subtext_size;
+			global::Prism.Resource.Dimension.notification_top_pad = global::CoffeApp.Droid.Resource.Dimension.notification_top_pad;
+			global::Prism.Resource.Dimension.notification_top_pad_large_text = global::CoffeApp.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Prism.Resource.Dimension.tooltip_corner_radius = global::CoffeApp.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::Prism.Resource.Dimension.tooltip_horizontal_padding = global::CoffeApp.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::Prism.Resource.Dimension.tooltip_margin = global::CoffeApp.Droid.Resource.Dimension.tooltip_margin;
+			global::Prism.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::CoffeApp.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Prism.Resource.Dimension.tooltip_precise_anchor_threshold = global::CoffeApp.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Prism.Resource.Dimension.tooltip_vertical_padding = global::CoffeApp.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::Prism.Resource.Dimension.tooltip_y_offset_non_touch = global::CoffeApp.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Prism.Resource.Dimension.tooltip_y_offset_touch = global::CoffeApp.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::Prism.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_action_bar_item_background_material = global::CoffeApp.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Prism.Resource.Drawable.abc_btn_borderless_material = global::CoffeApp.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Prism.Resource.Drawable.abc_btn_check_material = global::CoffeApp.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Prism.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::CoffeApp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Prism.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::CoffeApp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Prism.Resource.Drawable.abc_btn_colored_material = global::CoffeApp.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Prism.Resource.Drawable.abc_btn_default_mtrl_shape = global::CoffeApp.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Prism.Resource.Drawable.abc_btn_radio_material = global::CoffeApp.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Prism.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::CoffeApp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Prism.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::CoffeApp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Prism.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::CoffeApp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Prism.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::CoffeApp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Prism.Resource.Drawable.abc_cab_background_internal_bg = global::CoffeApp.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Prism.Resource.Drawable.abc_cab_background_top_material = global::CoffeApp.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Prism.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_control_background_material = global::CoffeApp.Droid.Resource.Drawable.abc_control_background_material;
+			global::Prism.Resource.Drawable.abc_dialog_material_background = global::CoffeApp.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Prism.Resource.Drawable.abc_edit_text_material = global::CoffeApp.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Prism.Resource.Drawable.abc_ic_ab_back_material = global::CoffeApp.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Prism.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::CoffeApp.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Prism.Resource.Drawable.abc_ic_clear_material = global::CoffeApp.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Prism.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_ic_go_search_api_material = global::CoffeApp.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Prism.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Prism.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_ic_menu_overflow_material = global::CoffeApp.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Prism.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Prism.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_ic_search_api_material = global::CoffeApp.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Prism.Resource.Drawable.abc_ic_star_black_16dp = global::CoffeApp.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Prism.Resource.Drawable.abc_ic_star_black_36dp = global::CoffeApp.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Prism.Resource.Drawable.abc_ic_star_black_48dp = global::CoffeApp.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Prism.Resource.Drawable.abc_ic_star_half_black_16dp = global::CoffeApp.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Prism.Resource.Drawable.abc_ic_star_half_black_36dp = global::CoffeApp.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Prism.Resource.Drawable.abc_ic_star_half_black_48dp = global::CoffeApp.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Prism.Resource.Drawable.abc_ic_voice_search_api_material = global::CoffeApp.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Prism.Resource.Drawable.abc_item_background_holo_dark = global::CoffeApp.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Prism.Resource.Drawable.abc_item_background_holo_light = global::CoffeApp.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Prism.Resource.Drawable.abc_list_divider_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_list_focused_holo = global::CoffeApp.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Prism.Resource.Drawable.abc_list_longpressed_holo = global::CoffeApp.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Prism.Resource.Drawable.abc_list_pressed_holo_dark = global::CoffeApp.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Prism.Resource.Drawable.abc_list_pressed_holo_light = global::CoffeApp.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Prism.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::CoffeApp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Prism.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::CoffeApp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Prism.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::CoffeApp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Prism.Resource.Drawable.abc_list_selector_disabled_holo_light = global::CoffeApp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Prism.Resource.Drawable.abc_list_selector_holo_dark = global::CoffeApp.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Prism.Resource.Drawable.abc_list_selector_holo_light = global::CoffeApp.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Prism.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::CoffeApp.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Prism.Resource.Drawable.abc_popup_background_mtrl_mult = global::CoffeApp.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Prism.Resource.Drawable.abc_ratingbar_indicator_material = global::CoffeApp.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Prism.Resource.Drawable.abc_ratingbar_material = global::CoffeApp.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Prism.Resource.Drawable.abc_ratingbar_small_material = global::CoffeApp.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Prism.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::CoffeApp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Prism.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::CoffeApp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Prism.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_seekbar_thumb_material = global::CoffeApp.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Prism.Resource.Drawable.abc_seekbar_tick_mark_material = global::CoffeApp.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Prism.Resource.Drawable.abc_seekbar_track_material = global::CoffeApp.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Prism.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Prism.Resource.Drawable.abc_spinner_textfield_background_material = global::CoffeApp.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Prism.Resource.Drawable.abc_switch_thumb_material = global::CoffeApp.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Prism.Resource.Drawable.abc_switch_track_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_tab_indicator_material = global::CoffeApp.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Prism.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::CoffeApp.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_search_material = global::CoffeApp.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Prism.Resource.Drawable.abc_text_cursor_material = global::CoffeApp.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Prism.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::CoffeApp.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Prism.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::CoffeApp.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Prism.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::CoffeApp.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Prism.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::CoffeApp.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Prism.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::CoffeApp.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Prism.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::CoffeApp.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Prism.Resource.Drawable.abc_vector_test = global::CoffeApp.Droid.Resource.Drawable.abc_vector_test;
+			global::Prism.Resource.Drawable.avd_hide_password = global::CoffeApp.Droid.Resource.Drawable.avd_hide_password;
+			global::Prism.Resource.Drawable.avd_show_password = global::CoffeApp.Droid.Resource.Drawable.avd_show_password;
+			global::Prism.Resource.Drawable.design_bottom_navigation_item_background = global::CoffeApp.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Prism.Resource.Drawable.design_fab_background = global::CoffeApp.Droid.Resource.Drawable.design_fab_background;
+			global::Prism.Resource.Drawable.design_ic_visibility = global::CoffeApp.Droid.Resource.Drawable.design_ic_visibility;
+			global::Prism.Resource.Drawable.design_ic_visibility_off = global::CoffeApp.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::Prism.Resource.Drawable.design_password_eye = global::CoffeApp.Droid.Resource.Drawable.design_password_eye;
+			global::Prism.Resource.Drawable.design_snackbar_background = global::CoffeApp.Droid.Resource.Drawable.design_snackbar_background;
+			global::Prism.Resource.Drawable.navigation_empty_icon = global::CoffeApp.Droid.Resource.Drawable.navigation_empty_icon;
+			global::Prism.Resource.Drawable.notification_action_background = global::CoffeApp.Droid.Resource.Drawable.notification_action_background;
+			global::Prism.Resource.Drawable.notification_bg = global::CoffeApp.Droid.Resource.Drawable.notification_bg;
+			global::Prism.Resource.Drawable.notification_bg_low = global::CoffeApp.Droid.Resource.Drawable.notification_bg_low;
+			global::Prism.Resource.Drawable.notification_bg_low_normal = global::CoffeApp.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Prism.Resource.Drawable.notification_bg_low_pressed = global::CoffeApp.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Prism.Resource.Drawable.notification_bg_normal = global::CoffeApp.Droid.Resource.Drawable.notification_bg_normal;
+			global::Prism.Resource.Drawable.notification_bg_normal_pressed = global::CoffeApp.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Prism.Resource.Drawable.notification_icon_background = global::CoffeApp.Droid.Resource.Drawable.notification_icon_background;
+			global::Prism.Resource.Drawable.notification_template_icon_bg = global::CoffeApp.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Prism.Resource.Drawable.notification_template_icon_low_bg = global::CoffeApp.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Prism.Resource.Drawable.notification_tile_bg = global::CoffeApp.Droid.Resource.Drawable.notification_tile_bg;
+			global::Prism.Resource.Drawable.notify_panel_notification_icon_bg = global::CoffeApp.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Prism.Resource.Drawable.tooltip_frame_dark = global::CoffeApp.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::Prism.Resource.Drawable.tooltip_frame_light = global::CoffeApp.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Prism.Resource.Id.action0 = global::CoffeApp.Droid.Resource.Id.action0;
+			global::Prism.Resource.Id.actions = global::CoffeApp.Droid.Resource.Id.actions;
+			global::Prism.Resource.Id.action_bar = global::CoffeApp.Droid.Resource.Id.action_bar;
+			global::Prism.Resource.Id.action_bar_activity_content = global::CoffeApp.Droid.Resource.Id.action_bar_activity_content;
+			global::Prism.Resource.Id.action_bar_container = global::CoffeApp.Droid.Resource.Id.action_bar_container;
+			global::Prism.Resource.Id.action_bar_root = global::CoffeApp.Droid.Resource.Id.action_bar_root;
+			global::Prism.Resource.Id.action_bar_spinner = global::CoffeApp.Droid.Resource.Id.action_bar_spinner;
+			global::Prism.Resource.Id.action_bar_subtitle = global::CoffeApp.Droid.Resource.Id.action_bar_subtitle;
+			global::Prism.Resource.Id.action_bar_title = global::CoffeApp.Droid.Resource.Id.action_bar_title;
+			global::Prism.Resource.Id.action_container = global::CoffeApp.Droid.Resource.Id.action_container;
+			global::Prism.Resource.Id.action_context_bar = global::CoffeApp.Droid.Resource.Id.action_context_bar;
+			global::Prism.Resource.Id.action_divider = global::CoffeApp.Droid.Resource.Id.action_divider;
+			global::Prism.Resource.Id.action_image = global::CoffeApp.Droid.Resource.Id.action_image;
+			global::Prism.Resource.Id.action_menu_divider = global::CoffeApp.Droid.Resource.Id.action_menu_divider;
+			global::Prism.Resource.Id.action_menu_presenter = global::CoffeApp.Droid.Resource.Id.action_menu_presenter;
+			global::Prism.Resource.Id.action_mode_bar = global::CoffeApp.Droid.Resource.Id.action_mode_bar;
+			global::Prism.Resource.Id.action_mode_bar_stub = global::CoffeApp.Droid.Resource.Id.action_mode_bar_stub;
+			global::Prism.Resource.Id.action_mode_close_button = global::CoffeApp.Droid.Resource.Id.action_mode_close_button;
+			global::Prism.Resource.Id.action_text = global::CoffeApp.Droid.Resource.Id.action_text;
+			global::Prism.Resource.Id.activity_chooser_view_content = global::CoffeApp.Droid.Resource.Id.activity_chooser_view_content;
+			global::Prism.Resource.Id.add = global::CoffeApp.Droid.Resource.Id.add;
+			global::Prism.Resource.Id.alertTitle = global::CoffeApp.Droid.Resource.Id.alertTitle;
+			global::Prism.Resource.Id.all = global::CoffeApp.Droid.Resource.Id.all;
+			global::Prism.Resource.Id.ALT = global::CoffeApp.Droid.Resource.Id.ALT;
+			global::Prism.Resource.Id.always = global::CoffeApp.Droid.Resource.Id.always;
+			global::Prism.Resource.Id.async = global::CoffeApp.Droid.Resource.Id.async;
+			global::Prism.Resource.Id.auto = global::CoffeApp.Droid.Resource.Id.auto;
+			global::Prism.Resource.Id.beginning = global::CoffeApp.Droid.Resource.Id.beginning;
+			global::Prism.Resource.Id.blocking = global::CoffeApp.Droid.Resource.Id.blocking;
+			global::Prism.Resource.Id.bottom = global::CoffeApp.Droid.Resource.Id.bottom;
+			global::Prism.Resource.Id.bottomtab_navarea = global::CoffeApp.Droid.Resource.Id.bottomtab_navarea;
+			global::Prism.Resource.Id.bottomtab_tabbar = global::CoffeApp.Droid.Resource.Id.bottomtab_tabbar;
+			global::Prism.Resource.Id.buttonPanel = global::CoffeApp.Droid.Resource.Id.buttonPanel;
+			global::Prism.Resource.Id.cancel_action = global::CoffeApp.Droid.Resource.Id.cancel_action;
+			global::Prism.Resource.Id.center = global::CoffeApp.Droid.Resource.Id.center;
+			global::Prism.Resource.Id.center_horizontal = global::CoffeApp.Droid.Resource.Id.center_horizontal;
+			global::Prism.Resource.Id.center_vertical = global::CoffeApp.Droid.Resource.Id.center_vertical;
+			global::Prism.Resource.Id.checkbox = global::CoffeApp.Droid.Resource.Id.checkbox;
+			global::Prism.Resource.Id.chronometer = global::CoffeApp.Droid.Resource.Id.chronometer;
+			global::Prism.Resource.Id.clip_horizontal = global::CoffeApp.Droid.Resource.Id.clip_horizontal;
+			global::Prism.Resource.Id.clip_vertical = global::CoffeApp.Droid.Resource.Id.clip_vertical;
+			global::Prism.Resource.Id.collapseActionView = global::CoffeApp.Droid.Resource.Id.collapseActionView;
+			global::Prism.Resource.Id.container = global::CoffeApp.Droid.Resource.Id.container;
+			global::Prism.Resource.Id.contentPanel = global::CoffeApp.Droid.Resource.Id.contentPanel;
+			global::Prism.Resource.Id.coordinator = global::CoffeApp.Droid.Resource.Id.coordinator;
+			global::Prism.Resource.Id.CTRL = global::CoffeApp.Droid.Resource.Id.CTRL;
+			global::Prism.Resource.Id.custom = global::CoffeApp.Droid.Resource.Id.custom;
+			global::Prism.Resource.Id.customPanel = global::CoffeApp.Droid.Resource.Id.customPanel;
+			global::Prism.Resource.Id.decor_content_parent = global::CoffeApp.Droid.Resource.Id.decor_content_parent;
+			global::Prism.Resource.Id.default_activity_button = global::CoffeApp.Droid.Resource.Id.default_activity_button;
+			global::Prism.Resource.Id.design_bottom_sheet = global::CoffeApp.Droid.Resource.Id.design_bottom_sheet;
+			global::Prism.Resource.Id.design_menu_item_action_area = global::CoffeApp.Droid.Resource.Id.design_menu_item_action_area;
+			global::Prism.Resource.Id.design_menu_item_action_area_stub = global::CoffeApp.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Prism.Resource.Id.design_menu_item_text = global::CoffeApp.Droid.Resource.Id.design_menu_item_text;
+			global::Prism.Resource.Id.design_navigation_view = global::CoffeApp.Droid.Resource.Id.design_navigation_view;
+			global::Prism.Resource.Id.disableHome = global::CoffeApp.Droid.Resource.Id.disableHome;
+			global::Prism.Resource.Id.edit_query = global::CoffeApp.Droid.Resource.Id.edit_query;
+			global::Prism.Resource.Id.end = global::CoffeApp.Droid.Resource.Id.end;
+			global::Prism.Resource.Id.end_padder = global::CoffeApp.Droid.Resource.Id.end_padder;
+			global::Prism.Resource.Id.enterAlways = global::CoffeApp.Droid.Resource.Id.enterAlways;
+			global::Prism.Resource.Id.enterAlwaysCollapsed = global::CoffeApp.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Prism.Resource.Id.exitUntilCollapsed = global::CoffeApp.Droid.Resource.Id.exitUntilCollapsed;
+			global::Prism.Resource.Id.expanded_menu = global::CoffeApp.Droid.Resource.Id.expanded_menu;
+			global::Prism.Resource.Id.expand_activities_button = global::CoffeApp.Droid.Resource.Id.expand_activities_button;
+			global::Prism.Resource.Id.fill = global::CoffeApp.Droid.Resource.Id.fill;
+			global::Prism.Resource.Id.fill_horizontal = global::CoffeApp.Droid.Resource.Id.fill_horizontal;
+			global::Prism.Resource.Id.fill_vertical = global::CoffeApp.Droid.Resource.Id.fill_vertical;
+			global::Prism.Resource.Id.@fixed = global::CoffeApp.Droid.Resource.Id.@fixed;
+			global::Prism.Resource.Id.flyoutcontent_appbar = global::CoffeApp.Droid.Resource.Id.flyoutcontent_appbar;
+			global::Prism.Resource.Id.flyoutcontent_recycler = global::CoffeApp.Droid.Resource.Id.flyoutcontent_recycler;
+			global::Prism.Resource.Id.forever = global::CoffeApp.Droid.Resource.Id.forever;
+			global::Prism.Resource.Id.FUNCTION = global::CoffeApp.Droid.Resource.Id.FUNCTION;
+			global::Prism.Resource.Id.ghost_view = global::CoffeApp.Droid.Resource.Id.ghost_view;
+			global::Prism.Resource.Id.home = global::CoffeApp.Droid.Resource.Id.home;
+			global::Prism.Resource.Id.homeAsUp = global::CoffeApp.Droid.Resource.Id.homeAsUp;
+			global::Prism.Resource.Id.icon = global::CoffeApp.Droid.Resource.Id.icon;
+			global::Prism.Resource.Id.icon_group = global::CoffeApp.Droid.Resource.Id.icon_group;
+			global::Prism.Resource.Id.ifRoom = global::CoffeApp.Droid.Resource.Id.ifRoom;
+			global::Prism.Resource.Id.image = global::CoffeApp.Droid.Resource.Id.image;
+			global::Prism.Resource.Id.info = global::CoffeApp.Droid.Resource.Id.info;
+			global::Prism.Resource.Id.italic = global::CoffeApp.Droid.Resource.Id.italic;
+			global::Prism.Resource.Id.item_touch_helper_previous_elevation = global::CoffeApp.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Prism.Resource.Id.largeLabel = global::CoffeApp.Droid.Resource.Id.largeLabel;
+			global::Prism.Resource.Id.left = global::CoffeApp.Droid.Resource.Id.left;
+			global::Prism.Resource.Id.line1 = global::CoffeApp.Droid.Resource.Id.line1;
+			global::Prism.Resource.Id.line3 = global::CoffeApp.Droid.Resource.Id.line3;
+			global::Prism.Resource.Id.listMode = global::CoffeApp.Droid.Resource.Id.listMode;
+			global::Prism.Resource.Id.list_item = global::CoffeApp.Droid.Resource.Id.list_item;
+			global::Prism.Resource.Id.main_appbar = global::CoffeApp.Droid.Resource.Id.main_appbar;
+			global::Prism.Resource.Id.main_tablayout = global::CoffeApp.Droid.Resource.Id.main_tablayout;
+			global::Prism.Resource.Id.main_toolbar = global::CoffeApp.Droid.Resource.Id.main_toolbar;
+			global::Prism.Resource.Id.masked = global::CoffeApp.Droid.Resource.Id.masked;
+			global::Prism.Resource.Id.media_actions = global::CoffeApp.Droid.Resource.Id.media_actions;
+			global::Prism.Resource.Id.message = global::CoffeApp.Droid.Resource.Id.message;
+			global::Prism.Resource.Id.META = global::CoffeApp.Droid.Resource.Id.META;
+			global::Prism.Resource.Id.middle = global::CoffeApp.Droid.Resource.Id.middle;
+			global::Prism.Resource.Id.mini = global::CoffeApp.Droid.Resource.Id.mini;
+			global::Prism.Resource.Id.multiply = global::CoffeApp.Droid.Resource.Id.multiply;
+			global::Prism.Resource.Id.navigation_header_container = global::CoffeApp.Droid.Resource.Id.navigation_header_container;
+			global::Prism.Resource.Id.never = global::CoffeApp.Droid.Resource.Id.never;
+			global::Prism.Resource.Id.none = global::CoffeApp.Droid.Resource.Id.none;
+			global::Prism.Resource.Id.normal = global::CoffeApp.Droid.Resource.Id.normal;
+			global::Prism.Resource.Id.notification_background = global::CoffeApp.Droid.Resource.Id.notification_background;
+			global::Prism.Resource.Id.notification_main_column = global::CoffeApp.Droid.Resource.Id.notification_main_column;
+			global::Prism.Resource.Id.notification_main_column_container = global::CoffeApp.Droid.Resource.Id.notification_main_column_container;
+			global::Prism.Resource.Id.parallax = global::CoffeApp.Droid.Resource.Id.parallax;
+			global::Prism.Resource.Id.parentPanel = global::CoffeApp.Droid.Resource.Id.parentPanel;
+			global::Prism.Resource.Id.parent_matrix = global::CoffeApp.Droid.Resource.Id.parent_matrix;
+			global::Prism.Resource.Id.pin = global::CoffeApp.Droid.Resource.Id.pin;
+			global::Prism.Resource.Id.progress_circular = global::CoffeApp.Droid.Resource.Id.progress_circular;
+			global::Prism.Resource.Id.progress_horizontal = global::CoffeApp.Droid.Resource.Id.progress_horizontal;
+			global::Prism.Resource.Id.radio = global::CoffeApp.Droid.Resource.Id.radio;
+			global::Prism.Resource.Id.right = global::CoffeApp.Droid.Resource.Id.right;
+			global::Prism.Resource.Id.right_icon = global::CoffeApp.Droid.Resource.Id.right_icon;
+			global::Prism.Resource.Id.right_side = global::CoffeApp.Droid.Resource.Id.right_side;
+			global::Prism.Resource.Id.save_image_matrix = global::CoffeApp.Droid.Resource.Id.save_image_matrix;
+			global::Prism.Resource.Id.save_non_transition_alpha = global::CoffeApp.Droid.Resource.Id.save_non_transition_alpha;
+			global::Prism.Resource.Id.save_scale_type = global::CoffeApp.Droid.Resource.Id.save_scale_type;
+			global::Prism.Resource.Id.screen = global::CoffeApp.Droid.Resource.Id.screen;
+			global::Prism.Resource.Id.scroll = global::CoffeApp.Droid.Resource.Id.scroll;
+			global::Prism.Resource.Id.scrollable = global::CoffeApp.Droid.Resource.Id.scrollable;
+			global::Prism.Resource.Id.scrollIndicatorDown = global::CoffeApp.Droid.Resource.Id.scrollIndicatorDown;
+			global::Prism.Resource.Id.scrollIndicatorUp = global::CoffeApp.Droid.Resource.Id.scrollIndicatorUp;
+			global::Prism.Resource.Id.scrollView = global::CoffeApp.Droid.Resource.Id.scrollView;
+			global::Prism.Resource.Id.search_badge = global::CoffeApp.Droid.Resource.Id.search_badge;
+			global::Prism.Resource.Id.search_bar = global::CoffeApp.Droid.Resource.Id.search_bar;
+			global::Prism.Resource.Id.search_button = global::CoffeApp.Droid.Resource.Id.search_button;
+			global::Prism.Resource.Id.search_close_btn = global::CoffeApp.Droid.Resource.Id.search_close_btn;
+			global::Prism.Resource.Id.search_edit_frame = global::CoffeApp.Droid.Resource.Id.search_edit_frame;
+			global::Prism.Resource.Id.search_go_btn = global::CoffeApp.Droid.Resource.Id.search_go_btn;
+			global::Prism.Resource.Id.search_mag_icon = global::CoffeApp.Droid.Resource.Id.search_mag_icon;
+			global::Prism.Resource.Id.search_plate = global::CoffeApp.Droid.Resource.Id.search_plate;
+			global::Prism.Resource.Id.search_src_text = global::CoffeApp.Droid.Resource.Id.search_src_text;
+			global::Prism.Resource.Id.search_voice_btn = global::CoffeApp.Droid.Resource.Id.search_voice_btn;
+			global::Prism.Resource.Id.select_dialog_listview = global::CoffeApp.Droid.Resource.Id.select_dialog_listview;
+			global::Prism.Resource.Id.shellcontent_appbar = global::CoffeApp.Droid.Resource.Id.shellcontent_appbar;
+			global::Prism.Resource.Id.shellcontent_toolbar = global::CoffeApp.Droid.Resource.Id.shellcontent_toolbar;
+			global::Prism.Resource.Id.SHIFT = global::CoffeApp.Droid.Resource.Id.SHIFT;
+			global::Prism.Resource.Id.shortcut = global::CoffeApp.Droid.Resource.Id.shortcut;
+			global::Prism.Resource.Id.showCustom = global::CoffeApp.Droid.Resource.Id.showCustom;
+			global::Prism.Resource.Id.showHome = global::CoffeApp.Droid.Resource.Id.showHome;
+			global::Prism.Resource.Id.showTitle = global::CoffeApp.Droid.Resource.Id.showTitle;
+			global::Prism.Resource.Id.smallLabel = global::CoffeApp.Droid.Resource.Id.smallLabel;
+			global::Prism.Resource.Id.snackbar_action = global::CoffeApp.Droid.Resource.Id.snackbar_action;
+			global::Prism.Resource.Id.snackbar_text = global::CoffeApp.Droid.Resource.Id.snackbar_text;
+			global::Prism.Resource.Id.snap = global::CoffeApp.Droid.Resource.Id.snap;
+			global::Prism.Resource.Id.spacer = global::CoffeApp.Droid.Resource.Id.spacer;
+			global::Prism.Resource.Id.split_action_bar = global::CoffeApp.Droid.Resource.Id.split_action_bar;
+			global::Prism.Resource.Id.src_atop = global::CoffeApp.Droid.Resource.Id.src_atop;
+			global::Prism.Resource.Id.src_in = global::CoffeApp.Droid.Resource.Id.src_in;
+			global::Prism.Resource.Id.src_over = global::CoffeApp.Droid.Resource.Id.src_over;
+			global::Prism.Resource.Id.start = global::CoffeApp.Droid.Resource.Id.start;
+			global::Prism.Resource.Id.status_bar_latest_event_content = global::CoffeApp.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Prism.Resource.Id.submenuarrow = global::CoffeApp.Droid.Resource.Id.submenuarrow;
+			global::Prism.Resource.Id.submit_area = global::CoffeApp.Droid.Resource.Id.submit_area;
+			global::Prism.Resource.Id.SYM = global::CoffeApp.Droid.Resource.Id.SYM;
+			global::Prism.Resource.Id.tabMode = global::CoffeApp.Droid.Resource.Id.tabMode;
+			global::Prism.Resource.Id.tag_transition_group = global::CoffeApp.Droid.Resource.Id.tag_transition_group;
+			global::Prism.Resource.Id.text = global::CoffeApp.Droid.Resource.Id.text;
+			global::Prism.Resource.Id.text2 = global::CoffeApp.Droid.Resource.Id.text2;
+			global::Prism.Resource.Id.textinput_counter = global::CoffeApp.Droid.Resource.Id.textinput_counter;
+			global::Prism.Resource.Id.textinput_error = global::CoffeApp.Droid.Resource.Id.textinput_error;
+			global::Prism.Resource.Id.textSpacerNoButtons = global::CoffeApp.Droid.Resource.Id.textSpacerNoButtons;
+			global::Prism.Resource.Id.textSpacerNoTitle = global::CoffeApp.Droid.Resource.Id.textSpacerNoTitle;
+			global::Prism.Resource.Id.text_input_password_toggle = global::CoffeApp.Droid.Resource.Id.text_input_password_toggle;
+			global::Prism.Resource.Id.time = global::CoffeApp.Droid.Resource.Id.time;
+			global::Prism.Resource.Id.title = global::CoffeApp.Droid.Resource.Id.title;
+			global::Prism.Resource.Id.titleDividerNoCustom = global::CoffeApp.Droid.Resource.Id.titleDividerNoCustom;
+			global::Prism.Resource.Id.title_template = global::CoffeApp.Droid.Resource.Id.title_template;
+			global::Prism.Resource.Id.top = global::CoffeApp.Droid.Resource.Id.top;
+			global::Prism.Resource.Id.topPanel = global::CoffeApp.Droid.Resource.Id.topPanel;
+			global::Prism.Resource.Id.touch_outside = global::CoffeApp.Droid.Resource.Id.touch_outside;
+			global::Prism.Resource.Id.transition_current_scene = global::CoffeApp.Droid.Resource.Id.transition_current_scene;
+			global::Prism.Resource.Id.transition_layout_save = global::CoffeApp.Droid.Resource.Id.transition_layout_save;
+			global::Prism.Resource.Id.transition_position = global::CoffeApp.Droid.Resource.Id.transition_position;
+			global::Prism.Resource.Id.transition_scene_layoutid_cache = global::CoffeApp.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::Prism.Resource.Id.transition_transform = global::CoffeApp.Droid.Resource.Id.transition_transform;
+			global::Prism.Resource.Id.uniform = global::CoffeApp.Droid.Resource.Id.uniform;
+			global::Prism.Resource.Id.up = global::CoffeApp.Droid.Resource.Id.up;
+			global::Prism.Resource.Id.useLogo = global::CoffeApp.Droid.Resource.Id.useLogo;
+			global::Prism.Resource.Id.view_offset_helper = global::CoffeApp.Droid.Resource.Id.view_offset_helper;
+			global::Prism.Resource.Id.visible = global::CoffeApp.Droid.Resource.Id.visible;
+			global::Prism.Resource.Id.withText = global::CoffeApp.Droid.Resource.Id.withText;
+			global::Prism.Resource.Id.wrap_content = global::CoffeApp.Droid.Resource.Id.wrap_content;
+			global::Prism.Resource.Integer.abc_config_activityDefaultDur = global::CoffeApp.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Prism.Resource.Integer.abc_config_activityShortDur = global::CoffeApp.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Prism.Resource.Integer.app_bar_elevation_anim_duration = global::CoffeApp.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Prism.Resource.Integer.bottom_sheet_slide_duration = global::CoffeApp.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Prism.Resource.Integer.cancel_button_image_alpha = global::CoffeApp.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Prism.Resource.Integer.config_tooltipAnimTime = global::CoffeApp.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::Prism.Resource.Integer.design_snackbar_text_max_lines = global::CoffeApp.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Prism.Resource.Integer.hide_password_duration = global::CoffeApp.Droid.Resource.Integer.hide_password_duration;
+			global::Prism.Resource.Integer.show_password_duration = global::CoffeApp.Droid.Resource.Integer.show_password_duration;
+			global::Prism.Resource.Integer.status_bar_notification_info_maxnum = global::CoffeApp.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Prism.Resource.Layout.abc_action_bar_title_item = global::CoffeApp.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Prism.Resource.Layout.abc_action_bar_up_container = global::CoffeApp.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Prism.Resource.Layout.abc_action_menu_item_layout = global::CoffeApp.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Prism.Resource.Layout.abc_action_menu_layout = global::CoffeApp.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Prism.Resource.Layout.abc_action_mode_bar = global::CoffeApp.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Prism.Resource.Layout.abc_action_mode_close_item_material = global::CoffeApp.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Prism.Resource.Layout.abc_activity_chooser_view = global::CoffeApp.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Prism.Resource.Layout.abc_activity_chooser_view_list_item = global::CoffeApp.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Prism.Resource.Layout.abc_alert_dialog_button_bar_material = global::CoffeApp.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Prism.Resource.Layout.abc_alert_dialog_material = global::CoffeApp.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Prism.Resource.Layout.abc_alert_dialog_title_material = global::CoffeApp.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Prism.Resource.Layout.abc_dialog_title_material = global::CoffeApp.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Prism.Resource.Layout.abc_expanded_menu_layout = global::CoffeApp.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Prism.Resource.Layout.abc_list_menu_item_checkbox = global::CoffeApp.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Prism.Resource.Layout.abc_list_menu_item_icon = global::CoffeApp.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Prism.Resource.Layout.abc_list_menu_item_layout = global::CoffeApp.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Prism.Resource.Layout.abc_list_menu_item_radio = global::CoffeApp.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Prism.Resource.Layout.abc_popup_menu_header_item_layout = global::CoffeApp.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Prism.Resource.Layout.abc_popup_menu_item_layout = global::CoffeApp.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Prism.Resource.Layout.abc_screen_content_include = global::CoffeApp.Droid.Resource.Layout.abc_screen_content_include;
+			global::Prism.Resource.Layout.abc_screen_simple = global::CoffeApp.Droid.Resource.Layout.abc_screen_simple;
+			global::Prism.Resource.Layout.abc_screen_simple_overlay_action_mode = global::CoffeApp.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Prism.Resource.Layout.abc_screen_toolbar = global::CoffeApp.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Prism.Resource.Layout.abc_search_dropdown_item_icons_2line = global::CoffeApp.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Prism.Resource.Layout.abc_search_view = global::CoffeApp.Droid.Resource.Layout.abc_search_view;
+			global::Prism.Resource.Layout.abc_select_dialog_material = global::CoffeApp.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Prism.Resource.Layout.BottomTabLayout = global::CoffeApp.Droid.Resource.Layout.BottomTabLayout;
+			global::Prism.Resource.Layout.design_bottom_navigation_item = global::CoffeApp.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::Prism.Resource.Layout.design_bottom_sheet_dialog = global::CoffeApp.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Prism.Resource.Layout.design_layout_snackbar = global::CoffeApp.Droid.Resource.Layout.design_layout_snackbar;
+			global::Prism.Resource.Layout.design_layout_snackbar_include = global::CoffeApp.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Prism.Resource.Layout.design_layout_tab_icon = global::CoffeApp.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Prism.Resource.Layout.design_layout_tab_text = global::CoffeApp.Droid.Resource.Layout.design_layout_tab_text;
+			global::Prism.Resource.Layout.design_menu_item_action_area = global::CoffeApp.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Prism.Resource.Layout.design_navigation_item = global::CoffeApp.Droid.Resource.Layout.design_navigation_item;
+			global::Prism.Resource.Layout.design_navigation_item_header = global::CoffeApp.Droid.Resource.Layout.design_navigation_item_header;
+			global::Prism.Resource.Layout.design_navigation_item_separator = global::CoffeApp.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Prism.Resource.Layout.design_navigation_item_subheader = global::CoffeApp.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Prism.Resource.Layout.design_navigation_menu = global::CoffeApp.Droid.Resource.Layout.design_navigation_menu;
+			global::Prism.Resource.Layout.design_navigation_menu_item = global::CoffeApp.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Prism.Resource.Layout.design_text_input_password_icon = global::CoffeApp.Droid.Resource.Layout.design_text_input_password_icon;
+			global::Prism.Resource.Layout.FlyoutContent = global::CoffeApp.Droid.Resource.Layout.FlyoutContent;
+			global::Prism.Resource.Layout.notification_action = global::CoffeApp.Droid.Resource.Layout.notification_action;
+			global::Prism.Resource.Layout.notification_action_tombstone = global::CoffeApp.Droid.Resource.Layout.notification_action_tombstone;
+			global::Prism.Resource.Layout.notification_media_action = global::CoffeApp.Droid.Resource.Layout.notification_media_action;
+			global::Prism.Resource.Layout.notification_media_cancel_action = global::CoffeApp.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Prism.Resource.Layout.notification_template_big_media = global::CoffeApp.Droid.Resource.Layout.notification_template_big_media;
+			global::Prism.Resource.Layout.notification_template_big_media_custom = global::CoffeApp.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Prism.Resource.Layout.notification_template_big_media_narrow = global::CoffeApp.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Prism.Resource.Layout.notification_template_big_media_narrow_custom = global::CoffeApp.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Prism.Resource.Layout.notification_template_custom_big = global::CoffeApp.Droid.Resource.Layout.notification_template_custom_big;
+			global::Prism.Resource.Layout.notification_template_icon_group = global::CoffeApp.Droid.Resource.Layout.notification_template_icon_group;
+			global::Prism.Resource.Layout.notification_template_lines_media = global::CoffeApp.Droid.Resource.Layout.notification_template_lines_media;
+			global::Prism.Resource.Layout.notification_template_media = global::CoffeApp.Droid.Resource.Layout.notification_template_media;
+			global::Prism.Resource.Layout.notification_template_media_custom = global::CoffeApp.Droid.Resource.Layout.notification_template_media_custom;
+			global::Prism.Resource.Layout.notification_template_part_chronometer = global::CoffeApp.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Prism.Resource.Layout.notification_template_part_time = global::CoffeApp.Droid.Resource.Layout.notification_template_part_time;
+			global::Prism.Resource.Layout.RootLayout = global::CoffeApp.Droid.Resource.Layout.RootLayout;
+			global::Prism.Resource.Layout.select_dialog_item_material = global::CoffeApp.Droid.Resource.Layout.select_dialog_item_material;
+			global::Prism.Resource.Layout.select_dialog_multichoice_material = global::CoffeApp.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Prism.Resource.Layout.select_dialog_singlechoice_material = global::CoffeApp.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Prism.Resource.Layout.ShellContent = global::CoffeApp.Droid.Resource.Layout.ShellContent;
+			global::Prism.Resource.Layout.support_simple_spinner_dropdown_item = global::CoffeApp.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Prism.Resource.String.abc_action_bar_home_description = global::CoffeApp.Droid.Resource.String.abc_action_bar_home_description;
+			global::Prism.Resource.String.abc_action_bar_up_description = global::CoffeApp.Droid.Resource.String.abc_action_bar_up_description;
+			global::Prism.Resource.String.abc_action_menu_overflow_description = global::CoffeApp.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Prism.Resource.String.abc_action_mode_done = global::CoffeApp.Droid.Resource.String.abc_action_mode_done;
+			global::Prism.Resource.String.abc_activitychooserview_choose_application = global::CoffeApp.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Prism.Resource.String.abc_activity_chooser_view_see_all = global::CoffeApp.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Prism.Resource.String.abc_capital_off = global::CoffeApp.Droid.Resource.String.abc_capital_off;
+			global::Prism.Resource.String.abc_capital_on = global::CoffeApp.Droid.Resource.String.abc_capital_on;
+			global::Prism.Resource.String.abc_font_family_body_1_material = global::CoffeApp.Droid.Resource.String.abc_font_family_body_1_material;
+			global::Prism.Resource.String.abc_font_family_body_2_material = global::CoffeApp.Droid.Resource.String.abc_font_family_body_2_material;
+			global::Prism.Resource.String.abc_font_family_button_material = global::CoffeApp.Droid.Resource.String.abc_font_family_button_material;
+			global::Prism.Resource.String.abc_font_family_caption_material = global::CoffeApp.Droid.Resource.String.abc_font_family_caption_material;
+			global::Prism.Resource.String.abc_font_family_display_1_material = global::CoffeApp.Droid.Resource.String.abc_font_family_display_1_material;
+			global::Prism.Resource.String.abc_font_family_display_2_material = global::CoffeApp.Droid.Resource.String.abc_font_family_display_2_material;
+			global::Prism.Resource.String.abc_font_family_display_3_material = global::CoffeApp.Droid.Resource.String.abc_font_family_display_3_material;
+			global::Prism.Resource.String.abc_font_family_display_4_material = global::CoffeApp.Droid.Resource.String.abc_font_family_display_4_material;
+			global::Prism.Resource.String.abc_font_family_headline_material = global::CoffeApp.Droid.Resource.String.abc_font_family_headline_material;
+			global::Prism.Resource.String.abc_font_family_menu_material = global::CoffeApp.Droid.Resource.String.abc_font_family_menu_material;
+			global::Prism.Resource.String.abc_font_family_subhead_material = global::CoffeApp.Droid.Resource.String.abc_font_family_subhead_material;
+			global::Prism.Resource.String.abc_font_family_title_material = global::CoffeApp.Droid.Resource.String.abc_font_family_title_material;
+			global::Prism.Resource.String.abc_searchview_description_clear = global::CoffeApp.Droid.Resource.String.abc_searchview_description_clear;
+			global::Prism.Resource.String.abc_searchview_description_query = global::CoffeApp.Droid.Resource.String.abc_searchview_description_query;
+			global::Prism.Resource.String.abc_searchview_description_search = global::CoffeApp.Droid.Resource.String.abc_searchview_description_search;
+			global::Prism.Resource.String.abc_searchview_description_submit = global::CoffeApp.Droid.Resource.String.abc_searchview_description_submit;
+			global::Prism.Resource.String.abc_searchview_description_voice = global::CoffeApp.Droid.Resource.String.abc_searchview_description_voice;
+			global::Prism.Resource.String.abc_search_hint = global::CoffeApp.Droid.Resource.String.abc_search_hint;
+			global::Prism.Resource.String.abc_shareactionprovider_share_with = global::CoffeApp.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Prism.Resource.String.abc_shareactionprovider_share_with_application = global::CoffeApp.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Prism.Resource.String.abc_toolbar_collapse_description = global::CoffeApp.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Prism.Resource.String.appbar_scrolling_view_behavior = global::CoffeApp.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Prism.Resource.String.bottom_sheet_behavior = global::CoffeApp.Droid.Resource.String.bottom_sheet_behavior;
+			global::Prism.Resource.String.character_counter_pattern = global::CoffeApp.Droid.Resource.String.character_counter_pattern;
+			global::Prism.Resource.String.password_toggle_content_description = global::CoffeApp.Droid.Resource.String.password_toggle_content_description;
+			global::Prism.Resource.String.path_password_eye = global::CoffeApp.Droid.Resource.String.path_password_eye;
+			global::Prism.Resource.String.path_password_eye_mask_strike_through = global::CoffeApp.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::Prism.Resource.String.path_password_eye_mask_visible = global::CoffeApp.Droid.Resource.String.path_password_eye_mask_visible;
+			global::Prism.Resource.String.path_password_strike_through = global::CoffeApp.Droid.Resource.String.path_password_strike_through;
+			global::Prism.Resource.String.search_menu_title = global::CoffeApp.Droid.Resource.String.search_menu_title;
+			global::Prism.Resource.String.status_bar_notification_info_overflow = global::CoffeApp.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Prism.Resource.Style.AlertDialog_AppCompat = global::CoffeApp.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Prism.Resource.Style.AlertDialog_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Prism.Resource.Style.Animation_AppCompat_Dialog = global::CoffeApp.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Prism.Resource.Style.Animation_AppCompat_DropDownUp = global::CoffeApp.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Prism.Resource.Style.Animation_AppCompat_Tooltip = global::CoffeApp.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Prism.Resource.Style.Animation_Design_BottomSheetDialog = global::CoffeApp.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Prism.Resource.Style.Base_AlertDialog_AppCompat = global::CoffeApp.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Prism.Resource.Style.Base_AlertDialog_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Prism.Resource.Style.Base_Animation_AppCompat_Dialog = global::CoffeApp.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::CoffeApp.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Prism.Resource.Style.Base_Animation_AppCompat_Tooltip = global::CoffeApp.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Prism.Resource.Style.Base_CardView = global::CoffeApp.Droid.Resource.Style.Base_CardView;
+			global::Prism.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::CoffeApp.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Prism.Resource.Style.Base_DialogWindowTitle_AppCompat = global::CoffeApp.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Button = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Large = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Small = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Title = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Prism.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Prism.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Prism.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::CoffeApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat = global::CoffeApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::CoffeApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::CoffeApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::CoffeApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::CoffeApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::CoffeApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Prism.Resource.Style.Base_Theme_AppCompat = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Dialog = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::CoffeApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Prism.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::CoffeApp.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_V21_Theme_AppCompat = global::CoffeApp.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::CoffeApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_V21_Theme_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::CoffeApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Prism.Resource.Style.Base_V22_Theme_AppCompat = global::CoffeApp.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V22_Theme_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V23_Theme_AppCompat = global::CoffeApp.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V23_Theme_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V26_Theme_AppCompat = global::CoffeApp.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V26_Theme_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::CoffeApp.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Prism.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::CoffeApp.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_V7_Theme_AppCompat = global::CoffeApp.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::CoffeApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_V7_Theme_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::CoffeApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Prism.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::CoffeApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Prism.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::CoffeApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Prism.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::CoffeApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionButton = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionMode = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_Small = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_EditText = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ImageButton = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListView = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_RatingBar = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_SearchView = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_SeekBar = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Spinner = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Toolbar = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::CoffeApp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Prism.Resource.Style.Base_Widget_Design_TabLayout = global::CoffeApp.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Prism.Resource.Style.CardView = global::CoffeApp.Droid.Resource.Style.CardView;
+			global::Prism.Resource.Style.CardView_Dark = global::CoffeApp.Droid.Resource.Style.CardView_Dark;
+			global::Prism.Resource.Style.CardView_Light = global::CoffeApp.Droid.Resource.Style.CardView_Light;
+			global::Prism.Resource.Style.Platform_AppCompat = global::CoffeApp.Droid.Resource.Style.Platform_AppCompat;
+			global::Prism.Resource.Style.Platform_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Prism.Resource.Style.Platform_ThemeOverlay_AppCompat = global::CoffeApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Prism.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::CoffeApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Prism.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Prism.Resource.Style.Platform_V21_AppCompat = global::CoffeApp.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Prism.Resource.Style.Platform_V21_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Prism.Resource.Style.Platform_V25_AppCompat = global::CoffeApp.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Prism.Resource.Style.Platform_V25_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Prism.Resource.Style.Platform_Widget_AppCompat_Spinner = global::CoffeApp.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Prism.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::CoffeApp.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::CoffeApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::CoffeApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::CoffeApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::CoffeApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::CoffeApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::CoffeApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::CoffeApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::CoffeApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::CoffeApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::CoffeApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::CoffeApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Prism.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::CoffeApp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Prism.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::CoffeApp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Prism.Resource.Style.TextAppearance_AppCompat = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Body1 = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Body2 = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Button = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Caption = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Display1 = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Display2 = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Display3 = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Display4 = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Headline = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Inverse = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Large = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Medium = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Menu = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Small = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Subhead = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Title = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Tooltip = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::CoffeApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification = global::CoffeApp.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Info = global::CoffeApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::CoffeApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::CoffeApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::CoffeApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Media = global::CoffeApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Time = global::CoffeApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::CoffeApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Title = global::CoffeApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::CoffeApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Prism.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::CoffeApp.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Prism.Resource.Style.TextAppearance_Design_Counter = global::CoffeApp.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Prism.Resource.Style.TextAppearance_Design_Counter_Overflow = global::CoffeApp.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Prism.Resource.Style.TextAppearance_Design_Error = global::CoffeApp.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Prism.Resource.Style.TextAppearance_Design_Hint = global::CoffeApp.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Prism.Resource.Style.TextAppearance_Design_Snackbar_Message = global::CoffeApp.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Prism.Resource.Style.TextAppearance_Design_Tab = global::CoffeApp.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Prism.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CoffeApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Prism.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CoffeApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::CoffeApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat = global::CoffeApp.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::CoffeApp.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Dark = global::CoffeApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::CoffeApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::CoffeApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::CoffeApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Prism.Resource.Style.Theme_AppCompat = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat;
+			global::Prism.Resource.Style.Theme_AppCompat_CompactMenu = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Prism.Resource.Style.Theme_AppCompat_Dialog = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Prism.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Prism.Resource.Style.Theme_AppCompat_Dialog_Alert = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Prism.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Prism.Resource.Style.Theme_AppCompat_Light = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_Dialog = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Prism.Resource.Style.Theme_AppCompat_NoActionBar = global::CoffeApp.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Prism.Resource.Style.Theme_Design = global::CoffeApp.Droid.Resource.Style.Theme_Design;
+			global::Prism.Resource.Style.Theme_Design_BottomSheetDialog = global::CoffeApp.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Prism.Resource.Style.Theme_Design_Light = global::CoffeApp.Droid.Resource.Style.Theme_Design_Light;
+			global::Prism.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::CoffeApp.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Prism.Resource.Style.Theme_Design_Light_NoActionBar = global::CoffeApp.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Prism.Resource.Style.Theme_Design_NoActionBar = global::CoffeApp.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionButton = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionMode = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Prism.Resource.Style.Widget_AppCompat_ActivityChooserView = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Prism.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Prism.Resource.Style.Widget_AppCompat_Button = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Prism.Resource.Style.Widget_AppCompat_ButtonBar = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_Borderless = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_Colored = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_Small = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Prism.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Prism.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Prism.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Prism.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Prism.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Prism.Resource.Style.Widget_AppCompat_EditText = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Prism.Resource.Style.Widget_AppCompat_ImageButton = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionButton = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_SearchView = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ListMenuView = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Prism.Resource.Style.Widget_AppCompat_ListPopupWindow = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Prism.Resource.Style.Widget_AppCompat_ListView = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Prism.Resource.Style.Widget_AppCompat_ListView_DropDown = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Prism.Resource.Style.Widget_AppCompat_ListView_Menu = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Prism.Resource.Style.Widget_AppCompat_PopupMenu = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Prism.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Widget_AppCompat_PopupWindow = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Prism.Resource.Style.Widget_AppCompat_ProgressBar = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Prism.Resource.Style.Widget_AppCompat_RatingBar = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Prism.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Prism.Resource.Style.Widget_AppCompat_RatingBar_Small = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Prism.Resource.Style.Widget_AppCompat_SearchView = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Prism.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_SeekBar = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Prism.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Prism.Resource.Style.Widget_AppCompat_Spinner = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Prism.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Prism.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Prism.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Prism.Resource.Style.Widget_AppCompat_Toolbar = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Prism.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::CoffeApp.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Prism.Resource.Style.Widget_Compat_NotificationActionContainer = global::CoffeApp.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Prism.Resource.Style.Widget_Compat_NotificationActionText = global::CoffeApp.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Prism.Resource.Style.Widget_Design_AppBarLayout = global::CoffeApp.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Prism.Resource.Style.Widget_Design_BottomNavigationView = global::CoffeApp.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Prism.Resource.Style.Widget_Design_BottomSheet_Modal = global::CoffeApp.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Prism.Resource.Style.Widget_Design_CollapsingToolbar = global::CoffeApp.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Prism.Resource.Style.Widget_Design_FloatingActionButton = global::CoffeApp.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Prism.Resource.Style.Widget_Design_NavigationView = global::CoffeApp.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Prism.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::CoffeApp.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Prism.Resource.Style.Widget_Design_Snackbar = global::CoffeApp.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Prism.Resource.Style.Widget_Design_TabLayout = global::CoffeApp.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Prism.Resource.Style.Widget_Design_TextInputLayout = global::CoffeApp.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Prism.Resource.Styleable.ActionBar = global::CoffeApp.Droid.Resource.Styleable.ActionBar;
+			global::Prism.Resource.Styleable.ActionBarLayout = global::CoffeApp.Droid.Resource.Styleable.ActionBarLayout;
+			global::Prism.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::CoffeApp.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Prism.Resource.Styleable.ActionBar_background = global::CoffeApp.Droid.Resource.Styleable.ActionBar_background;
+			global::Prism.Resource.Styleable.ActionBar_backgroundSplit = global::CoffeApp.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Prism.Resource.Styleable.ActionBar_backgroundStacked = global::CoffeApp.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetEnd = global::CoffeApp.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::CoffeApp.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetLeft = global::CoffeApp.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetRight = global::CoffeApp.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetStart = global::CoffeApp.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::CoffeApp.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Prism.Resource.Styleable.ActionBar_customNavigationLayout = global::CoffeApp.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Prism.Resource.Styleable.ActionBar_displayOptions = global::CoffeApp.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Prism.Resource.Styleable.ActionBar_divider = global::CoffeApp.Droid.Resource.Styleable.ActionBar_divider;
+			global::Prism.Resource.Styleable.ActionBar_elevation = global::CoffeApp.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Prism.Resource.Styleable.ActionBar_height = global::CoffeApp.Droid.Resource.Styleable.ActionBar_height;
+			global::Prism.Resource.Styleable.ActionBar_hideOnContentScroll = global::CoffeApp.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Prism.Resource.Styleable.ActionBar_homeAsUpIndicator = global::CoffeApp.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Prism.Resource.Styleable.ActionBar_homeLayout = global::CoffeApp.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Prism.Resource.Styleable.ActionBar_icon = global::CoffeApp.Droid.Resource.Styleable.ActionBar_icon;
+			global::Prism.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::CoffeApp.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Prism.Resource.Styleable.ActionBar_itemPadding = global::CoffeApp.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Prism.Resource.Styleable.ActionBar_logo = global::CoffeApp.Droid.Resource.Styleable.ActionBar_logo;
+			global::Prism.Resource.Styleable.ActionBar_navigationMode = global::CoffeApp.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Prism.Resource.Styleable.ActionBar_popupTheme = global::CoffeApp.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Prism.Resource.Styleable.ActionBar_progressBarPadding = global::CoffeApp.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Prism.Resource.Styleable.ActionBar_progressBarStyle = global::CoffeApp.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Prism.Resource.Styleable.ActionBar_subtitle = global::CoffeApp.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Prism.Resource.Styleable.ActionBar_subtitleTextStyle = global::CoffeApp.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Prism.Resource.Styleable.ActionBar_title = global::CoffeApp.Droid.Resource.Styleable.ActionBar_title;
+			global::Prism.Resource.Styleable.ActionBar_titleTextStyle = global::CoffeApp.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Prism.Resource.Styleable.ActionMenuItemView = global::CoffeApp.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Prism.Resource.Styleable.ActionMenuItemView_android_minWidth = global::CoffeApp.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Prism.Resource.Styleable.ActionMenuView = global::CoffeApp.Droid.Resource.Styleable.ActionMenuView;
+			global::Prism.Resource.Styleable.ActionMode = global::CoffeApp.Droid.Resource.Styleable.ActionMode;
+			global::Prism.Resource.Styleable.ActionMode_background = global::CoffeApp.Droid.Resource.Styleable.ActionMode_background;
+			global::Prism.Resource.Styleable.ActionMode_backgroundSplit = global::CoffeApp.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Prism.Resource.Styleable.ActionMode_closeItemLayout = global::CoffeApp.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Prism.Resource.Styleable.ActionMode_height = global::CoffeApp.Droid.Resource.Styleable.ActionMode_height;
+			global::Prism.Resource.Styleable.ActionMode_subtitleTextStyle = global::CoffeApp.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Prism.Resource.Styleable.ActionMode_titleTextStyle = global::CoffeApp.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Prism.Resource.Styleable.ActivityChooserView = global::CoffeApp.Droid.Resource.Styleable.ActivityChooserView;
+			global::Prism.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::CoffeApp.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Prism.Resource.Styleable.ActivityChooserView_initialActivityCount = global::CoffeApp.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Prism.Resource.Styleable.AlertDialog = global::CoffeApp.Droid.Resource.Styleable.AlertDialog;
+			global::Prism.Resource.Styleable.AlertDialog_android_layout = global::CoffeApp.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Prism.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::CoffeApp.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Prism.Resource.Styleable.AlertDialog_listItemLayout = global::CoffeApp.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Prism.Resource.Styleable.AlertDialog_listLayout = global::CoffeApp.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Prism.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::CoffeApp.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Prism.Resource.Styleable.AlertDialog_showTitle = global::CoffeApp.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Prism.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::CoffeApp.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Prism.Resource.Styleable.AppBarLayout = global::CoffeApp.Droid.Resource.Styleable.AppBarLayout;
+			global::Prism.Resource.Styleable.AppBarLayoutStates = global::CoffeApp.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Prism.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::CoffeApp.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Prism.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::CoffeApp.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Prism.Resource.Styleable.AppBarLayout_android_background = global::CoffeApp.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Prism.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::CoffeApp.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Prism.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::CoffeApp.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Prism.Resource.Styleable.AppBarLayout_elevation = global::CoffeApp.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Prism.Resource.Styleable.AppBarLayout_expanded = global::CoffeApp.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Prism.Resource.Styleable.AppBarLayout_Layout = global::CoffeApp.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::Prism.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::CoffeApp.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Prism.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::CoffeApp.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Prism.Resource.Styleable.AppCompatImageView = global::CoffeApp.Droid.Resource.Styleable.AppCompatImageView;
+			global::Prism.Resource.Styleable.AppCompatImageView_android_src = global::CoffeApp.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Prism.Resource.Styleable.AppCompatImageView_srcCompat = global::CoffeApp.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Prism.Resource.Styleable.AppCompatImageView_tint = global::CoffeApp.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::Prism.Resource.Styleable.AppCompatImageView_tintMode = global::CoffeApp.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Prism.Resource.Styleable.AppCompatSeekBar = global::CoffeApp.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Prism.Resource.Styleable.AppCompatSeekBar_android_thumb = global::CoffeApp.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Prism.Resource.Styleable.AppCompatSeekBar_tickMark = global::CoffeApp.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Prism.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::CoffeApp.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Prism.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::CoffeApp.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Prism.Resource.Styleable.AppCompatTextHelper = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Prism.Resource.Styleable.AppCompatTextView = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextView;
+			global::Prism.Resource.Styleable.AppCompatTextView_android_textAppearance = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Prism.Resource.Styleable.AppCompatTextView_fontFamily = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Prism.Resource.Styleable.AppCompatTextView_textAllCaps = global::CoffeApp.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Prism.Resource.Styleable.AppCompatTheme = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarDivider = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarSize = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarTheme = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeBackground = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Prism.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Prism.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Prism.Resource.Styleable.AppCompatTheme_checkboxStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorAccent = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorControlActivated = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorControlNormal = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorError = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorPrimary = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Prism.Resource.Styleable.AppCompatTheme_controlBackground = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Prism.Resource.Styleable.AppCompatTheme_dialogTheme = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Prism.Resource.Styleable.AppCompatTheme_dividerVertical = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Prism.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Prism.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_editTextBackground = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_editTextColor = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Prism.Resource.Styleable.AppCompatTheme_editTextStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Prism.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Prism.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Prism.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Prism.Resource.Styleable.AppCompatTheme_panelBackground = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Prism.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Prism.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Prism.Resource.Styleable.AppCompatTheme_searchViewStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_seekBarStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Prism.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_spinnerStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_switchStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Prism.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Prism.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Prism.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_toolbarStyle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Prism.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowActionBar = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowNoTitle = global::CoffeApp.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Prism.Resource.Styleable.BottomNavigationView = global::CoffeApp.Droid.Resource.Styleable.BottomNavigationView;
+			global::Prism.Resource.Styleable.BottomNavigationView_elevation = global::CoffeApp.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::Prism.Resource.Styleable.BottomNavigationView_itemBackground = global::CoffeApp.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Prism.Resource.Styleable.BottomNavigationView_itemIconTint = global::CoffeApp.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Prism.Resource.Styleable.BottomNavigationView_itemTextColor = global::CoffeApp.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Prism.Resource.Styleable.BottomNavigationView_menu = global::CoffeApp.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout = global::CoffeApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::CoffeApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::CoffeApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::CoffeApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Prism.Resource.Styleable.ButtonBarLayout = global::CoffeApp.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Prism.Resource.Styleable.ButtonBarLayout_allowStacking = global::CoffeApp.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Prism.Resource.Styleable.CardView = global::CoffeApp.Droid.Resource.Styleable.CardView;
+			global::Prism.Resource.Styleable.CardView_android_minHeight = global::CoffeApp.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Prism.Resource.Styleable.CardView_android_minWidth = global::CoffeApp.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Prism.Resource.Styleable.CardView_cardBackgroundColor = global::CoffeApp.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Prism.Resource.Styleable.CardView_cardCornerRadius = global::CoffeApp.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Prism.Resource.Styleable.CardView_cardElevation = global::CoffeApp.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Prism.Resource.Styleable.CardView_cardMaxElevation = global::CoffeApp.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Prism.Resource.Styleable.CardView_cardPreventCornerOverlap = global::CoffeApp.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Prism.Resource.Styleable.CardView_cardUseCompatPadding = global::CoffeApp.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Prism.Resource.Styleable.CardView_contentPadding = global::CoffeApp.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Prism.Resource.Styleable.CardView_contentPaddingBottom = global::CoffeApp.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Prism.Resource.Styleable.CardView_contentPaddingLeft = global::CoffeApp.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Prism.Resource.Styleable.CardView_contentPaddingRight = global::CoffeApp.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Prism.Resource.Styleable.CardView_contentPaddingTop = global::CoffeApp.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_Layout = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_title = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::CoffeApp.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Prism.Resource.Styleable.ColorStateListItem = global::CoffeApp.Droid.Resource.Styleable.ColorStateListItem;
+			global::Prism.Resource.Styleable.ColorStateListItem_alpha = global::CoffeApp.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Prism.Resource.Styleable.ColorStateListItem_android_alpha = global::CoffeApp.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Prism.Resource.Styleable.ColorStateListItem_android_color = global::CoffeApp.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Prism.Resource.Styleable.CompoundButton = global::CoffeApp.Droid.Resource.Styleable.CompoundButton;
+			global::Prism.Resource.Styleable.CompoundButton_android_button = global::CoffeApp.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Prism.Resource.Styleable.CompoundButton_buttonTint = global::CoffeApp.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Prism.Resource.Styleable.CompoundButton_buttonTintMode = global::CoffeApp.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Prism.Resource.Styleable.CoordinatorLayout = global::CoffeApp.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Prism.Resource.Styleable.CoordinatorLayout_keylines = global::CoffeApp.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout = global::CoffeApp.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::CoffeApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::CoffeApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::CoffeApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::CoffeApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::CoffeApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::CoffeApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::CoffeApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Prism.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::CoffeApp.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Prism.Resource.Styleable.DesignTheme = global::CoffeApp.Droid.Resource.Styleable.DesignTheme;
+			global::Prism.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::CoffeApp.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Prism.Resource.Styleable.DesignTheme_bottomSheetStyle = global::CoffeApp.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Prism.Resource.Styleable.DrawerArrowToggle = global::CoffeApp.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::CoffeApp.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::CoffeApp.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_barLength = global::CoffeApp.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_color = global::CoffeApp.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_drawableSize = global::CoffeApp.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::CoffeApp.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_spinBars = global::CoffeApp.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_thickness = global::CoffeApp.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Prism.Resource.Styleable.FloatingActionButton = global::CoffeApp.Droid.Resource.Styleable.FloatingActionButton;
+			global::Prism.Resource.Styleable.FloatingActionButton_backgroundTint = global::CoffeApp.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Prism.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::CoffeApp.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Prism.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::CoffeApp.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Prism.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::CoffeApp.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Prism.Resource.Styleable.FloatingActionButton_borderWidth = global::CoffeApp.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Prism.Resource.Styleable.FloatingActionButton_elevation = global::CoffeApp.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Prism.Resource.Styleable.FloatingActionButton_fabSize = global::CoffeApp.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Prism.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::CoffeApp.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Prism.Resource.Styleable.FloatingActionButton_rippleColor = global::CoffeApp.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Prism.Resource.Styleable.FloatingActionButton_useCompatPadding = global::CoffeApp.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Prism.Resource.Styleable.FontFamily = global::CoffeApp.Droid.Resource.Styleable.FontFamily;
+			global::Prism.Resource.Styleable.FontFamilyFont = global::CoffeApp.Droid.Resource.Styleable.FontFamilyFont;
+			global::Prism.Resource.Styleable.FontFamilyFont_android_font = global::CoffeApp.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Prism.Resource.Styleable.FontFamilyFont_android_fontStyle = global::CoffeApp.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Prism.Resource.Styleable.FontFamilyFont_android_fontWeight = global::CoffeApp.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Prism.Resource.Styleable.FontFamilyFont_font = global::CoffeApp.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Prism.Resource.Styleable.FontFamilyFont_fontStyle = global::CoffeApp.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Prism.Resource.Styleable.FontFamilyFont_fontWeight = global::CoffeApp.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderAuthority = global::CoffeApp.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderCerts = global::CoffeApp.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::CoffeApp.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::CoffeApp.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderPackage = global::CoffeApp.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderQuery = global::CoffeApp.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Prism.Resource.Styleable.ForegroundLinearLayout = global::CoffeApp.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Prism.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::CoffeApp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Prism.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::CoffeApp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Prism.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::CoffeApp.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Prism.Resource.Styleable.LinearLayoutCompat = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_gravity = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_orientation = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_divider = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_showDividers = global::CoffeApp.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Prism.Resource.Styleable.ListPopupWindow = global::CoffeApp.Droid.Resource.Styleable.ListPopupWindow;
+			global::Prism.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::CoffeApp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Prism.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::CoffeApp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Prism.Resource.Styleable.MenuGroup = global::CoffeApp.Droid.Resource.Styleable.MenuGroup;
+			global::Prism.Resource.Styleable.MenuGroup_android_checkableBehavior = global::CoffeApp.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Prism.Resource.Styleable.MenuGroup_android_enabled = global::CoffeApp.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Prism.Resource.Styleable.MenuGroup_android_id = global::CoffeApp.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Prism.Resource.Styleable.MenuGroup_android_menuCategory = global::CoffeApp.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Prism.Resource.Styleable.MenuGroup_android_orderInCategory = global::CoffeApp.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Prism.Resource.Styleable.MenuGroup_android_visible = global::CoffeApp.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Prism.Resource.Styleable.MenuItem = global::CoffeApp.Droid.Resource.Styleable.MenuItem;
+			global::Prism.Resource.Styleable.MenuItem_actionLayout = global::CoffeApp.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Prism.Resource.Styleable.MenuItem_actionProviderClass = global::CoffeApp.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Prism.Resource.Styleable.MenuItem_actionViewClass = global::CoffeApp.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Prism.Resource.Styleable.MenuItem_alphabeticModifiers = global::CoffeApp.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Prism.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::CoffeApp.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Prism.Resource.Styleable.MenuItem_android_checkable = global::CoffeApp.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Prism.Resource.Styleable.MenuItem_android_checked = global::CoffeApp.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Prism.Resource.Styleable.MenuItem_android_enabled = global::CoffeApp.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Prism.Resource.Styleable.MenuItem_android_icon = global::CoffeApp.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Prism.Resource.Styleable.MenuItem_android_id = global::CoffeApp.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Prism.Resource.Styleable.MenuItem_android_menuCategory = global::CoffeApp.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Prism.Resource.Styleable.MenuItem_android_numericShortcut = global::CoffeApp.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Prism.Resource.Styleable.MenuItem_android_onClick = global::CoffeApp.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Prism.Resource.Styleable.MenuItem_android_orderInCategory = global::CoffeApp.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Prism.Resource.Styleable.MenuItem_android_title = global::CoffeApp.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Prism.Resource.Styleable.MenuItem_android_titleCondensed = global::CoffeApp.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Prism.Resource.Styleable.MenuItem_android_visible = global::CoffeApp.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Prism.Resource.Styleable.MenuItem_contentDescription = global::CoffeApp.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::Prism.Resource.Styleable.MenuItem_iconTint = global::CoffeApp.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::Prism.Resource.Styleable.MenuItem_iconTintMode = global::CoffeApp.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::Prism.Resource.Styleable.MenuItem_numericModifiers = global::CoffeApp.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::Prism.Resource.Styleable.MenuItem_showAsAction = global::CoffeApp.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Prism.Resource.Styleable.MenuItem_tooltipText = global::CoffeApp.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::Prism.Resource.Styleable.MenuView = global::CoffeApp.Droid.Resource.Styleable.MenuView;
+			global::Prism.Resource.Styleable.MenuView_android_headerBackground = global::CoffeApp.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Prism.Resource.Styleable.MenuView_android_horizontalDivider = global::CoffeApp.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Prism.Resource.Styleable.MenuView_android_itemBackground = global::CoffeApp.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Prism.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::CoffeApp.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Prism.Resource.Styleable.MenuView_android_itemTextAppearance = global::CoffeApp.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Prism.Resource.Styleable.MenuView_android_verticalDivider = global::CoffeApp.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Prism.Resource.Styleable.MenuView_android_windowAnimationStyle = global::CoffeApp.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Prism.Resource.Styleable.MenuView_preserveIconSpacing = global::CoffeApp.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Prism.Resource.Styleable.MenuView_subMenuArrow = global::CoffeApp.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Prism.Resource.Styleable.NavigationView = global::CoffeApp.Droid.Resource.Styleable.NavigationView;
+			global::Prism.Resource.Styleable.NavigationView_android_background = global::CoffeApp.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Prism.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::CoffeApp.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Prism.Resource.Styleable.NavigationView_android_maxWidth = global::CoffeApp.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Prism.Resource.Styleable.NavigationView_elevation = global::CoffeApp.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Prism.Resource.Styleable.NavigationView_headerLayout = global::CoffeApp.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Prism.Resource.Styleable.NavigationView_itemBackground = global::CoffeApp.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Prism.Resource.Styleable.NavigationView_itemIconTint = global::CoffeApp.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Prism.Resource.Styleable.NavigationView_itemTextAppearance = global::CoffeApp.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Prism.Resource.Styleable.NavigationView_itemTextColor = global::CoffeApp.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Prism.Resource.Styleable.NavigationView_menu = global::CoffeApp.Droid.Resource.Styleable.NavigationView_menu;
+			global::Prism.Resource.Styleable.PopupWindow = global::CoffeApp.Droid.Resource.Styleable.PopupWindow;
+			global::Prism.Resource.Styleable.PopupWindowBackgroundState = global::CoffeApp.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Prism.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::CoffeApp.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Prism.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::CoffeApp.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Prism.Resource.Styleable.PopupWindow_android_popupBackground = global::CoffeApp.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Prism.Resource.Styleable.PopupWindow_overlapAnchor = global::CoffeApp.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Prism.Resource.Styleable.RecycleListView = global::CoffeApp.Droid.Resource.Styleable.RecycleListView;
+			global::Prism.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::CoffeApp.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Prism.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::CoffeApp.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Prism.Resource.Styleable.RecyclerView = global::CoffeApp.Droid.Resource.Styleable.RecyclerView;
+			global::Prism.Resource.Styleable.RecyclerView_android_descendantFocusability = global::CoffeApp.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Prism.Resource.Styleable.RecyclerView_android_orientation = global::CoffeApp.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollEnabled = global::CoffeApp.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::CoffeApp.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::CoffeApp.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::CoffeApp.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::CoffeApp.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Prism.Resource.Styleable.RecyclerView_layoutManager = global::CoffeApp.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Prism.Resource.Styleable.RecyclerView_reverseLayout = global::CoffeApp.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Prism.Resource.Styleable.RecyclerView_spanCount = global::CoffeApp.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Prism.Resource.Styleable.RecyclerView_stackFromEnd = global::CoffeApp.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Prism.Resource.Styleable.ScrimInsetsFrameLayout = global::CoffeApp.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Prism.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::CoffeApp.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Prism.Resource.Styleable.ScrollingViewBehavior_Layout = global::CoffeApp.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Prism.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::CoffeApp.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Prism.Resource.Styleable.SearchView = global::CoffeApp.Droid.Resource.Styleable.SearchView;
+			global::Prism.Resource.Styleable.SearchView_android_focusable = global::CoffeApp.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Prism.Resource.Styleable.SearchView_android_imeOptions = global::CoffeApp.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Prism.Resource.Styleable.SearchView_android_inputType = global::CoffeApp.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Prism.Resource.Styleable.SearchView_android_maxWidth = global::CoffeApp.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Prism.Resource.Styleable.SearchView_closeIcon = global::CoffeApp.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Prism.Resource.Styleable.SearchView_commitIcon = global::CoffeApp.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Prism.Resource.Styleable.SearchView_defaultQueryHint = global::CoffeApp.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Prism.Resource.Styleable.SearchView_goIcon = global::CoffeApp.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Prism.Resource.Styleable.SearchView_iconifiedByDefault = global::CoffeApp.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Prism.Resource.Styleable.SearchView_layout = global::CoffeApp.Droid.Resource.Styleable.SearchView_layout;
+			global::Prism.Resource.Styleable.SearchView_queryBackground = global::CoffeApp.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Prism.Resource.Styleable.SearchView_queryHint = global::CoffeApp.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Prism.Resource.Styleable.SearchView_searchHintIcon = global::CoffeApp.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Prism.Resource.Styleable.SearchView_searchIcon = global::CoffeApp.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Prism.Resource.Styleable.SearchView_submitBackground = global::CoffeApp.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Prism.Resource.Styleable.SearchView_suggestionRowLayout = global::CoffeApp.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Prism.Resource.Styleable.SearchView_voiceIcon = global::CoffeApp.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Prism.Resource.Styleable.SnackbarLayout = global::CoffeApp.Droid.Resource.Styleable.SnackbarLayout;
+			global::Prism.Resource.Styleable.SnackbarLayout_android_maxWidth = global::CoffeApp.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Prism.Resource.Styleable.SnackbarLayout_elevation = global::CoffeApp.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Prism.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::CoffeApp.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Prism.Resource.Styleable.Spinner = global::CoffeApp.Droid.Resource.Styleable.Spinner;
+			global::Prism.Resource.Styleable.Spinner_android_dropDownWidth = global::CoffeApp.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Prism.Resource.Styleable.Spinner_android_entries = global::CoffeApp.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Prism.Resource.Styleable.Spinner_android_popupBackground = global::CoffeApp.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Prism.Resource.Styleable.Spinner_android_prompt = global::CoffeApp.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Prism.Resource.Styleable.Spinner_popupTheme = global::CoffeApp.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Prism.Resource.Styleable.SwitchCompat = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat;
+			global::Prism.Resource.Styleable.SwitchCompat_android_textOff = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Prism.Resource.Styleable.SwitchCompat_android_textOn = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Prism.Resource.Styleable.SwitchCompat_android_thumb = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Prism.Resource.Styleable.SwitchCompat_showText = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Prism.Resource.Styleable.SwitchCompat_splitTrack = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Prism.Resource.Styleable.SwitchCompat_switchMinWidth = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Prism.Resource.Styleable.SwitchCompat_switchPadding = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Prism.Resource.Styleable.SwitchCompat_switchTextAppearance = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Prism.Resource.Styleable.SwitchCompat_thumbTextPadding = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Prism.Resource.Styleable.SwitchCompat_thumbTint = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Prism.Resource.Styleable.SwitchCompat_thumbTintMode = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Prism.Resource.Styleable.SwitchCompat_track = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Prism.Resource.Styleable.SwitchCompat_trackTint = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Prism.Resource.Styleable.SwitchCompat_trackTintMode = global::CoffeApp.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Prism.Resource.Styleable.TabItem = global::CoffeApp.Droid.Resource.Styleable.TabItem;
+			global::Prism.Resource.Styleable.TabItem_android_icon = global::CoffeApp.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Prism.Resource.Styleable.TabItem_android_layout = global::CoffeApp.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Prism.Resource.Styleable.TabItem_android_text = global::CoffeApp.Droid.Resource.Styleable.TabItem_android_text;
+			global::Prism.Resource.Styleable.TabLayout = global::CoffeApp.Droid.Resource.Styleable.TabLayout;
+			global::Prism.Resource.Styleable.TabLayout_tabBackground = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Prism.Resource.Styleable.TabLayout_tabContentStart = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Prism.Resource.Styleable.TabLayout_tabGravity = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Prism.Resource.Styleable.TabLayout_tabIndicatorColor = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Prism.Resource.Styleable.TabLayout_tabIndicatorHeight = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Prism.Resource.Styleable.TabLayout_tabMaxWidth = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Prism.Resource.Styleable.TabLayout_tabMinWidth = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Prism.Resource.Styleable.TabLayout_tabMode = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Prism.Resource.Styleable.TabLayout_tabPadding = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Prism.Resource.Styleable.TabLayout_tabPaddingBottom = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Prism.Resource.Styleable.TabLayout_tabPaddingEnd = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Prism.Resource.Styleable.TabLayout_tabPaddingStart = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Prism.Resource.Styleable.TabLayout_tabPaddingTop = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Prism.Resource.Styleable.TabLayout_tabSelectedTextColor = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Prism.Resource.Styleable.TabLayout_tabTextAppearance = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Prism.Resource.Styleable.TabLayout_tabTextColor = global::CoffeApp.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Prism.Resource.Styleable.TextAppearance = global::CoffeApp.Droid.Resource.Styleable.TextAppearance;
+			global::Prism.Resource.Styleable.TextAppearance_android_fontFamily = global::CoffeApp.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Prism.Resource.Styleable.TextAppearance_android_shadowColor = global::CoffeApp.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Prism.Resource.Styleable.TextAppearance_android_shadowDx = global::CoffeApp.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Prism.Resource.Styleable.TextAppearance_android_shadowDy = global::CoffeApp.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Prism.Resource.Styleable.TextAppearance_android_shadowRadius = global::CoffeApp.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Prism.Resource.Styleable.TextAppearance_android_textColor = global::CoffeApp.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Prism.Resource.Styleable.TextAppearance_android_textColorHint = global::CoffeApp.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Prism.Resource.Styleable.TextAppearance_android_textColorLink = global::CoffeApp.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Prism.Resource.Styleable.TextAppearance_android_textSize = global::CoffeApp.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Prism.Resource.Styleable.TextAppearance_android_textStyle = global::CoffeApp.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Prism.Resource.Styleable.TextAppearance_android_typeface = global::CoffeApp.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Prism.Resource.Styleable.TextAppearance_fontFamily = global::CoffeApp.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::Prism.Resource.Styleable.TextAppearance_textAllCaps = global::CoffeApp.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Prism.Resource.Styleable.TextInputLayout = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout;
+			global::Prism.Resource.Styleable.TextInputLayout_android_hint = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Prism.Resource.Styleable.TextInputLayout_android_textColorHint = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Prism.Resource.Styleable.TextInputLayout_counterEnabled = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_counterMaxLength = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Prism.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_counterTextAppearance = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_errorEnabled = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_errorTextAppearance = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_hintEnabled = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_hintTextAppearance = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleTint = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::CoffeApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Prism.Resource.Styleable.Toolbar = global::CoffeApp.Droid.Resource.Styleable.Toolbar;
+			global::Prism.Resource.Styleable.Toolbar_android_gravity = global::CoffeApp.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Prism.Resource.Styleable.Toolbar_android_minHeight = global::CoffeApp.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Prism.Resource.Styleable.Toolbar_buttonGravity = global::CoffeApp.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Prism.Resource.Styleable.Toolbar_collapseContentDescription = global::CoffeApp.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Prism.Resource.Styleable.Toolbar_collapseIcon = global::CoffeApp.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetEnd = global::CoffeApp.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::CoffeApp.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetLeft = global::CoffeApp.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetRight = global::CoffeApp.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetStart = global::CoffeApp.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::CoffeApp.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Prism.Resource.Styleable.Toolbar_logo = global::CoffeApp.Droid.Resource.Styleable.Toolbar_logo;
+			global::Prism.Resource.Styleable.Toolbar_logoDescription = global::CoffeApp.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Prism.Resource.Styleable.Toolbar_maxButtonHeight = global::CoffeApp.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Prism.Resource.Styleable.Toolbar_navigationContentDescription = global::CoffeApp.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Prism.Resource.Styleable.Toolbar_navigationIcon = global::CoffeApp.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Prism.Resource.Styleable.Toolbar_popupTheme = global::CoffeApp.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Prism.Resource.Styleable.Toolbar_subtitle = global::CoffeApp.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Prism.Resource.Styleable.Toolbar_subtitleTextAppearance = global::CoffeApp.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Prism.Resource.Styleable.Toolbar_subtitleTextColor = global::CoffeApp.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Prism.Resource.Styleable.Toolbar_title = global::CoffeApp.Droid.Resource.Styleable.Toolbar_title;
+			global::Prism.Resource.Styleable.Toolbar_titleMargin = global::CoffeApp.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Prism.Resource.Styleable.Toolbar_titleMarginBottom = global::CoffeApp.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Prism.Resource.Styleable.Toolbar_titleMarginEnd = global::CoffeApp.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Prism.Resource.Styleable.Toolbar_titleMargins = global::CoffeApp.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Prism.Resource.Styleable.Toolbar_titleMarginStart = global::CoffeApp.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Prism.Resource.Styleable.Toolbar_titleMarginTop = global::CoffeApp.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Prism.Resource.Styleable.Toolbar_titleTextAppearance = global::CoffeApp.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Prism.Resource.Styleable.Toolbar_titleTextColor = global::CoffeApp.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Prism.Resource.Styleable.View = global::CoffeApp.Droid.Resource.Styleable.View;
+			global::Prism.Resource.Styleable.ViewBackgroundHelper = global::CoffeApp.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Prism.Resource.Styleable.ViewBackgroundHelper_android_background = global::CoffeApp.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Prism.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::CoffeApp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Prism.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::CoffeApp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Prism.Resource.Styleable.ViewStubCompat = global::CoffeApp.Droid.Resource.Styleable.ViewStubCompat;
+			global::Prism.Resource.Styleable.ViewStubCompat_android_id = global::CoffeApp.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Prism.Resource.Styleable.ViewStubCompat_android_inflatedId = global::CoffeApp.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Prism.Resource.Styleable.ViewStubCompat_android_layout = global::CoffeApp.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Prism.Resource.Styleable.View_android_focusable = global::CoffeApp.Droid.Resource.Styleable.View_android_focusable;
+			global::Prism.Resource.Styleable.View_android_theme = global::CoffeApp.Droid.Resource.Styleable.View_android_theme;
+			global::Prism.Resource.Styleable.View_paddingEnd = global::CoffeApp.Droid.Resource.Styleable.View_paddingEnd;
+			global::Prism.Resource.Styleable.View_paddingStart = global::CoffeApp.Droid.Resource.Styleable.View_paddingStart;
+			global::Prism.Resource.Styleable.View_theme = global::CoffeApp.Droid.Resource.Styleable.View_theme;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::CoffeApp.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::CoffeApp.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::CoffeApp.Droid.Resource.Attribute.font;
@@ -9435,173 +11396,189 @@ namespace CoffeApp.Droid
 			}
 		}
 		
-		public partial class String
+		public partial class Raw
 		{
 			
 			// aapt resource value: 0x7F0D0000
-			public const int abc_action_bar_home_description = 2131558400;
+			public const int oldbrickyard_video = 2131558400;
 			
-			// aapt resource value: 0x7F0D0001
-			public const int abc_action_bar_up_description = 2131558401;
+			static Raw()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
 			
-			// aapt resource value: 0x7F0D0002
-			public const int abc_action_menu_overflow_description = 2131558402;
+			private Raw()
+			{
+			}
+		}
+		
+		public partial class String
+		{
 			
-			// aapt resource value: 0x7F0D0003
-			public const int abc_action_mode_done = 2131558403;
+			// aapt resource value: 0x7F0E0000
+			public const int abc_action_bar_home_description = 2131623936;
 			
-			// aapt resource value: 0x7F0D0005
-			public const int abc_activitychooserview_choose_application = 2131558405;
+			// aapt resource value: 0x7F0E0001
+			public const int abc_action_bar_up_description = 2131623937;
 			
-			// aapt resource value: 0x7F0D0004
-			public const int abc_activity_chooser_view_see_all = 2131558404;
+			// aapt resource value: 0x7F0E0002
+			public const int abc_action_menu_overflow_description = 2131623938;
 			
-			// aapt resource value: 0x7F0D0006
-			public const int abc_capital_off = 2131558406;
+			// aapt resource value: 0x7F0E0003
+			public const int abc_action_mode_done = 2131623939;
 			
-			// aapt resource value: 0x7F0D0007
-			public const int abc_capital_on = 2131558407;
+			// aapt resource value: 0x7F0E0005
+			public const int abc_activitychooserview_choose_application = 2131623941;
 			
-			// aapt resource value: 0x7F0D0008
-			public const int abc_font_family_body_1_material = 2131558408;
+			// aapt resource value: 0x7F0E0004
+			public const int abc_activity_chooser_view_see_all = 2131623940;
 			
-			// aapt resource value: 0x7F0D0009
-			public const int abc_font_family_body_2_material = 2131558409;
+			// aapt resource value: 0x7F0E0006
+			public const int abc_capital_off = 2131623942;
 			
-			// aapt resource value: 0x7F0D000A
-			public const int abc_font_family_button_material = 2131558410;
+			// aapt resource value: 0x7F0E0007
+			public const int abc_capital_on = 2131623943;
 			
-			// aapt resource value: 0x7F0D000B
-			public const int abc_font_family_caption_material = 2131558411;
+			// aapt resource value: 0x7F0E0008
+			public const int abc_font_family_body_1_material = 2131623944;
 			
-			// aapt resource value: 0x7F0D000C
-			public const int abc_font_family_display_1_material = 2131558412;
+			// aapt resource value: 0x7F0E0009
+			public const int abc_font_family_body_2_material = 2131623945;
 			
-			// aapt resource value: 0x7F0D000D
-			public const int abc_font_family_display_2_material = 2131558413;
+			// aapt resource value: 0x7F0E000A
+			public const int abc_font_family_button_material = 2131623946;
 			
-			// aapt resource value: 0x7F0D000E
-			public const int abc_font_family_display_3_material = 2131558414;
+			// aapt resource value: 0x7F0E000B
+			public const int abc_font_family_caption_material = 2131623947;
 			
-			// aapt resource value: 0x7F0D000F
-			public const int abc_font_family_display_4_material = 2131558415;
+			// aapt resource value: 0x7F0E000C
+			public const int abc_font_family_display_1_material = 2131623948;
 			
-			// aapt resource value: 0x7F0D0010
-			public const int abc_font_family_headline_material = 2131558416;
+			// aapt resource value: 0x7F0E000D
+			public const int abc_font_family_display_2_material = 2131623949;
 			
-			// aapt resource value: 0x7F0D0011
-			public const int abc_font_family_menu_material = 2131558417;
+			// aapt resource value: 0x7F0E000E
+			public const int abc_font_family_display_3_material = 2131623950;
 			
-			// aapt resource value: 0x7F0D0012
-			public const int abc_font_family_subhead_material = 2131558418;
+			// aapt resource value: 0x7F0E000F
+			public const int abc_font_family_display_4_material = 2131623951;
 			
-			// aapt resource value: 0x7F0D0013
-			public const int abc_font_family_title_material = 2131558419;
+			// aapt resource value: 0x7F0E0010
+			public const int abc_font_family_headline_material = 2131623952;
 			
-			// aapt resource value: 0x7F0D0014
-			public const int abc_menu_alt_shortcut_label = 2131558420;
+			// aapt resource value: 0x7F0E0011
+			public const int abc_font_family_menu_material = 2131623953;
 			
-			// aapt resource value: 0x7F0D0015
-			public const int abc_menu_ctrl_shortcut_label = 2131558421;
+			// aapt resource value: 0x7F0E0012
+			public const int abc_font_family_subhead_material = 2131623954;
 			
-			// aapt resource value: 0x7F0D0016
-			public const int abc_menu_delete_shortcut_label = 2131558422;
+			// aapt resource value: 0x7F0E0013
+			public const int abc_font_family_title_material = 2131623955;
 			
-			// aapt resource value: 0x7F0D0017
-			public const int abc_menu_enter_shortcut_label = 2131558423;
+			// aapt resource value: 0x7F0E0014
+			public const int abc_menu_alt_shortcut_label = 2131623956;
 			
-			// aapt resource value: 0x7F0D0018
-			public const int abc_menu_function_shortcut_label = 2131558424;
+			// aapt resource value: 0x7F0E0015
+			public const int abc_menu_ctrl_shortcut_label = 2131623957;
 			
-			// aapt resource value: 0x7F0D0019
-			public const int abc_menu_meta_shortcut_label = 2131558425;
+			// aapt resource value: 0x7F0E0016
+			public const int abc_menu_delete_shortcut_label = 2131623958;
 			
-			// aapt resource value: 0x7F0D001A
-			public const int abc_menu_shift_shortcut_label = 2131558426;
+			// aapt resource value: 0x7F0E0017
+			public const int abc_menu_enter_shortcut_label = 2131623959;
 			
-			// aapt resource value: 0x7F0D001B
-			public const int abc_menu_space_shortcut_label = 2131558427;
+			// aapt resource value: 0x7F0E0018
+			public const int abc_menu_function_shortcut_label = 2131623960;
 			
-			// aapt resource value: 0x7F0D001C
-			public const int abc_menu_sym_shortcut_label = 2131558428;
+			// aapt resource value: 0x7F0E0019
+			public const int abc_menu_meta_shortcut_label = 2131623961;
 			
-			// aapt resource value: 0x7F0D001D
-			public const int abc_prepend_shortcut_label = 2131558429;
+			// aapt resource value: 0x7F0E001A
+			public const int abc_menu_shift_shortcut_label = 2131623962;
 			
-			// aapt resource value: 0x7F0D001F
-			public const int abc_searchview_description_clear = 2131558431;
+			// aapt resource value: 0x7F0E001B
+			public const int abc_menu_space_shortcut_label = 2131623963;
 			
-			// aapt resource value: 0x7F0D0020
-			public const int abc_searchview_description_query = 2131558432;
+			// aapt resource value: 0x7F0E001C
+			public const int abc_menu_sym_shortcut_label = 2131623964;
 			
-			// aapt resource value: 0x7F0D0021
-			public const int abc_searchview_description_search = 2131558433;
+			// aapt resource value: 0x7F0E001D
+			public const int abc_prepend_shortcut_label = 2131623965;
 			
-			// aapt resource value: 0x7F0D0022
-			public const int abc_searchview_description_submit = 2131558434;
+			// aapt resource value: 0x7F0E001F
+			public const int abc_searchview_description_clear = 2131623967;
 			
-			// aapt resource value: 0x7F0D0023
-			public const int abc_searchview_description_voice = 2131558435;
+			// aapt resource value: 0x7F0E0020
+			public const int abc_searchview_description_query = 2131623968;
 			
-			// aapt resource value: 0x7F0D001E
-			public const int abc_search_hint = 2131558430;
+			// aapt resource value: 0x7F0E0021
+			public const int abc_searchview_description_search = 2131623969;
 			
-			// aapt resource value: 0x7F0D0024
-			public const int abc_shareactionprovider_share_with = 2131558436;
+			// aapt resource value: 0x7F0E0022
+			public const int abc_searchview_description_submit = 2131623970;
 			
-			// aapt resource value: 0x7F0D0025
-			public const int abc_shareactionprovider_share_with_application = 2131558437;
+			// aapt resource value: 0x7F0E0023
+			public const int abc_searchview_description_voice = 2131623971;
 			
-			// aapt resource value: 0x7F0D0026
-			public const int abc_toolbar_collapse_description = 2131558438;
+			// aapt resource value: 0x7F0E001E
+			public const int abc_search_hint = 2131623966;
 			
-			// aapt resource value: 0x7F0D0027
-			public const int appbar_scrolling_view_behavior = 2131558439;
+			// aapt resource value: 0x7F0E0024
+			public const int abc_shareactionprovider_share_with = 2131623972;
 			
-			// aapt resource value: 0x7F0D0028
-			public const int bottom_sheet_behavior = 2131558440;
+			// aapt resource value: 0x7F0E0025
+			public const int abc_shareactionprovider_share_with_application = 2131623973;
 			
-			// aapt resource value: 0x7F0D0029
-			public const int character_counter_content_description = 2131558441;
+			// aapt resource value: 0x7F0E0026
+			public const int abc_toolbar_collapse_description = 2131623974;
 			
-			// aapt resource value: 0x7F0D002A
-			public const int character_counter_pattern = 2131558442;
+			// aapt resource value: 0x7F0E0027
+			public const int appbar_scrolling_view_behavior = 2131623975;
 			
-			// aapt resource value: 0x7F0D002B
-			public const int fab_transformation_scrim_behavior = 2131558443;
+			// aapt resource value: 0x7F0E0028
+			public const int bottom_sheet_behavior = 2131623976;
 			
-			// aapt resource value: 0x7F0D002C
-			public const int fab_transformation_sheet_behavior = 2131558444;
+			// aapt resource value: 0x7F0E0029
+			public const int character_counter_content_description = 2131623977;
 			
-			// aapt resource value: 0x7F0D002D
-			public const int hide_bottom_view_on_scroll_behavior = 2131558445;
+			// aapt resource value: 0x7F0E002A
+			public const int character_counter_pattern = 2131623978;
 			
-			// aapt resource value: 0x7F0D002E
-			public const int mtrl_chip_close_icon_content_description = 2131558446;
+			// aapt resource value: 0x7F0E002B
+			public const int fab_transformation_scrim_behavior = 2131623979;
 			
-			// aapt resource value: 0x7F0D002F
-			public const int overflow_tab_title = 2131558447;
+			// aapt resource value: 0x7F0E002C
+			public const int fab_transformation_sheet_behavior = 2131623980;
 			
-			// aapt resource value: 0x7F0D0030
-			public const int password_toggle_content_description = 2131558448;
+			// aapt resource value: 0x7F0E002D
+			public const int hide_bottom_view_on_scroll_behavior = 2131623981;
 			
-			// aapt resource value: 0x7F0D0031
-			public const int path_password_eye = 2131558449;
+			// aapt resource value: 0x7F0E002E
+			public const int mtrl_chip_close_icon_content_description = 2131623982;
 			
-			// aapt resource value: 0x7F0D0032
-			public const int path_password_eye_mask_strike_through = 2131558450;
+			// aapt resource value: 0x7F0E002F
+			public const int overflow_tab_title = 2131623983;
 			
-			// aapt resource value: 0x7F0D0033
-			public const int path_password_eye_mask_visible = 2131558451;
+			// aapt resource value: 0x7F0E0030
+			public const int password_toggle_content_description = 2131623984;
 			
-			// aapt resource value: 0x7F0D0034
-			public const int path_password_strike_through = 2131558452;
+			// aapt resource value: 0x7F0E0031
+			public const int path_password_eye = 2131623985;
 			
-			// aapt resource value: 0x7F0D0035
-			public const int search_menu_title = 2131558453;
+			// aapt resource value: 0x7F0E0032
+			public const int path_password_eye_mask_strike_through = 2131623986;
 			
-			// aapt resource value: 0x7F0D0036
-			public const int status_bar_notification_info_overflow = 2131558454;
+			// aapt resource value: 0x7F0E0033
+			public const int path_password_eye_mask_visible = 2131623987;
+			
+			// aapt resource value: 0x7F0E0034
+			public const int path_password_strike_through = 2131623988;
+			
+			// aapt resource value: 0x7F0E0035
+			public const int search_menu_title = 2131623989;
+			
+			// aapt resource value: 0x7F0E0036
+			public const int status_bar_notification_info_overflow = 2131623990;
 			
 			static String()
 			{
@@ -9616,1520 +11593,1520 @@ namespace CoffeApp.Droid
 		public partial class Style
 		{
 			
-			// aapt resource value: 0x7F0E0000
-			public const int AlertDialog_AppCompat = 2131623936;
+			// aapt resource value: 0x7F0F0000
+			public const int AlertDialog_AppCompat = 2131689472;
 			
-			// aapt resource value: 0x7F0E0001
-			public const int AlertDialog_AppCompat_Light = 2131623937;
+			// aapt resource value: 0x7F0F0001
+			public const int AlertDialog_AppCompat_Light = 2131689473;
 			
-			// aapt resource value: 0x7F0E0002
-			public const int Animation_AppCompat_Dialog = 2131623938;
+			// aapt resource value: 0x7F0F0002
+			public const int Animation_AppCompat_Dialog = 2131689474;
 			
-			// aapt resource value: 0x7F0E0003
-			public const int Animation_AppCompat_DropDownUp = 2131623939;
+			// aapt resource value: 0x7F0F0003
+			public const int Animation_AppCompat_DropDownUp = 2131689475;
 			
-			// aapt resource value: 0x7F0E0004
-			public const int Animation_AppCompat_Tooltip = 2131623940;
+			// aapt resource value: 0x7F0F0004
+			public const int Animation_AppCompat_Tooltip = 2131689476;
 			
-			// aapt resource value: 0x7F0E0005
-			public const int Animation_Design_BottomSheetDialog = 2131623941;
+			// aapt resource value: 0x7F0F0005
+			public const int Animation_Design_BottomSheetDialog = 2131689477;
 			
-			// aapt resource value: 0x7F0E0006
-			public const int AppCompatDialogStyle = 2131623942;
+			// aapt resource value: 0x7F0F0006
+			public const int AppCompatDialogStyle = 2131689478;
 			
-			// aapt resource value: 0x7F0E0007
-			public const int Base_AlertDialog_AppCompat = 2131623943;
+			// aapt resource value: 0x7F0F0007
+			public const int Base_AlertDialog_AppCompat = 2131689479;
 			
-			// aapt resource value: 0x7F0E0008
-			public const int Base_AlertDialog_AppCompat_Light = 2131623944;
+			// aapt resource value: 0x7F0F0008
+			public const int Base_AlertDialog_AppCompat_Light = 2131689480;
 			
-			// aapt resource value: 0x7F0E0009
-			public const int Base_Animation_AppCompat_Dialog = 2131623945;
+			// aapt resource value: 0x7F0F0009
+			public const int Base_Animation_AppCompat_Dialog = 2131689481;
 			
-			// aapt resource value: 0x7F0E000A
-			public const int Base_Animation_AppCompat_DropDownUp = 2131623946;
+			// aapt resource value: 0x7F0F000A
+			public const int Base_Animation_AppCompat_DropDownUp = 2131689482;
 			
-			// aapt resource value: 0x7F0E000B
-			public const int Base_Animation_AppCompat_Tooltip = 2131623947;
+			// aapt resource value: 0x7F0F000B
+			public const int Base_Animation_AppCompat_Tooltip = 2131689483;
 			
-			// aapt resource value: 0x7F0E000C
-			public const int Base_CardView = 2131623948;
+			// aapt resource value: 0x7F0F000C
+			public const int Base_CardView = 2131689484;
 			
-			// aapt resource value: 0x7F0E000E
-			public const int Base_DialogWindowTitleBackground_AppCompat = 2131623950;
+			// aapt resource value: 0x7F0F000E
+			public const int Base_DialogWindowTitleBackground_AppCompat = 2131689486;
 			
-			// aapt resource value: 0x7F0E000D
-			public const int Base_DialogWindowTitle_AppCompat = 2131623949;
+			// aapt resource value: 0x7F0F000D
+			public const int Base_DialogWindowTitle_AppCompat = 2131689485;
 			
-			// aapt resource value: 0x7F0E000F
-			public const int Base_TextAppearance_AppCompat = 2131623951;
+			// aapt resource value: 0x7F0F000F
+			public const int Base_TextAppearance_AppCompat = 2131689487;
 			
-			// aapt resource value: 0x7F0E0010
-			public const int Base_TextAppearance_AppCompat_Body1 = 2131623952;
+			// aapt resource value: 0x7F0F0010
+			public const int Base_TextAppearance_AppCompat_Body1 = 2131689488;
 			
-			// aapt resource value: 0x7F0E0011
-			public const int Base_TextAppearance_AppCompat_Body2 = 2131623953;
+			// aapt resource value: 0x7F0F0011
+			public const int Base_TextAppearance_AppCompat_Body2 = 2131689489;
 			
-			// aapt resource value: 0x7F0E0012
-			public const int Base_TextAppearance_AppCompat_Button = 2131623954;
+			// aapt resource value: 0x7F0F0012
+			public const int Base_TextAppearance_AppCompat_Button = 2131689490;
 			
-			// aapt resource value: 0x7F0E0013
-			public const int Base_TextAppearance_AppCompat_Caption = 2131623955;
+			// aapt resource value: 0x7F0F0013
+			public const int Base_TextAppearance_AppCompat_Caption = 2131689491;
 			
-			// aapt resource value: 0x7F0E0014
-			public const int Base_TextAppearance_AppCompat_Display1 = 2131623956;
+			// aapt resource value: 0x7F0F0014
+			public const int Base_TextAppearance_AppCompat_Display1 = 2131689492;
 			
-			// aapt resource value: 0x7F0E0015
-			public const int Base_TextAppearance_AppCompat_Display2 = 2131623957;
+			// aapt resource value: 0x7F0F0015
+			public const int Base_TextAppearance_AppCompat_Display2 = 2131689493;
 			
-			// aapt resource value: 0x7F0E0016
-			public const int Base_TextAppearance_AppCompat_Display3 = 2131623958;
+			// aapt resource value: 0x7F0F0016
+			public const int Base_TextAppearance_AppCompat_Display3 = 2131689494;
 			
-			// aapt resource value: 0x7F0E0017
-			public const int Base_TextAppearance_AppCompat_Display4 = 2131623959;
+			// aapt resource value: 0x7F0F0017
+			public const int Base_TextAppearance_AppCompat_Display4 = 2131689495;
 			
-			// aapt resource value: 0x7F0E0018
-			public const int Base_TextAppearance_AppCompat_Headline = 2131623960;
+			// aapt resource value: 0x7F0F0018
+			public const int Base_TextAppearance_AppCompat_Headline = 2131689496;
 			
-			// aapt resource value: 0x7F0E0019
-			public const int Base_TextAppearance_AppCompat_Inverse = 2131623961;
+			// aapt resource value: 0x7F0F0019
+			public const int Base_TextAppearance_AppCompat_Inverse = 2131689497;
 			
-			// aapt resource value: 0x7F0E001A
-			public const int Base_TextAppearance_AppCompat_Large = 2131623962;
+			// aapt resource value: 0x7F0F001A
+			public const int Base_TextAppearance_AppCompat_Large = 2131689498;
 			
-			// aapt resource value: 0x7F0E001B
-			public const int Base_TextAppearance_AppCompat_Large_Inverse = 2131623963;
+			// aapt resource value: 0x7F0F001B
+			public const int Base_TextAppearance_AppCompat_Large_Inverse = 2131689499;
 			
-			// aapt resource value: 0x7F0E001C
-			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131623964;
+			// aapt resource value: 0x7F0F001C
+			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689500;
 			
-			// aapt resource value: 0x7F0E001D
-			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131623965;
+			// aapt resource value: 0x7F0F001D
+			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689501;
 			
-			// aapt resource value: 0x7F0E001E
-			public const int Base_TextAppearance_AppCompat_Medium = 2131623966;
+			// aapt resource value: 0x7F0F001E
+			public const int Base_TextAppearance_AppCompat_Medium = 2131689502;
 			
-			// aapt resource value: 0x7F0E001F
-			public const int Base_TextAppearance_AppCompat_Medium_Inverse = 2131623967;
+			// aapt resource value: 0x7F0F001F
+			public const int Base_TextAppearance_AppCompat_Medium_Inverse = 2131689503;
 			
-			// aapt resource value: 0x7F0E0020
-			public const int Base_TextAppearance_AppCompat_Menu = 2131623968;
+			// aapt resource value: 0x7F0F0020
+			public const int Base_TextAppearance_AppCompat_Menu = 2131689504;
 			
-			// aapt resource value: 0x7F0E0021
-			public const int Base_TextAppearance_AppCompat_SearchResult = 2131623969;
+			// aapt resource value: 0x7F0F0021
+			public const int Base_TextAppearance_AppCompat_SearchResult = 2131689505;
 			
-			// aapt resource value: 0x7F0E0022
-			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2131623970;
+			// aapt resource value: 0x7F0F0022
+			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2131689506;
 			
-			// aapt resource value: 0x7F0E0023
-			public const int Base_TextAppearance_AppCompat_SearchResult_Title = 2131623971;
+			// aapt resource value: 0x7F0F0023
+			public const int Base_TextAppearance_AppCompat_SearchResult_Title = 2131689507;
 			
-			// aapt resource value: 0x7F0E0024
-			public const int Base_TextAppearance_AppCompat_Small = 2131623972;
+			// aapt resource value: 0x7F0F0024
+			public const int Base_TextAppearance_AppCompat_Small = 2131689508;
 			
-			// aapt resource value: 0x7F0E0025
-			public const int Base_TextAppearance_AppCompat_Small_Inverse = 2131623973;
+			// aapt resource value: 0x7F0F0025
+			public const int Base_TextAppearance_AppCompat_Small_Inverse = 2131689509;
 			
-			// aapt resource value: 0x7F0E0026
-			public const int Base_TextAppearance_AppCompat_Subhead = 2131623974;
+			// aapt resource value: 0x7F0F0026
+			public const int Base_TextAppearance_AppCompat_Subhead = 2131689510;
 			
-			// aapt resource value: 0x7F0E0027
-			public const int Base_TextAppearance_AppCompat_Subhead_Inverse = 2131623975;
+			// aapt resource value: 0x7F0F0027
+			public const int Base_TextAppearance_AppCompat_Subhead_Inverse = 2131689511;
 			
-			// aapt resource value: 0x7F0E0028
-			public const int Base_TextAppearance_AppCompat_Title = 2131623976;
+			// aapt resource value: 0x7F0F0028
+			public const int Base_TextAppearance_AppCompat_Title = 2131689512;
 			
-			// aapt resource value: 0x7F0E0029
-			public const int Base_TextAppearance_AppCompat_Title_Inverse = 2131623977;
+			// aapt resource value: 0x7F0F0029
+			public const int Base_TextAppearance_AppCompat_Title_Inverse = 2131689513;
 			
-			// aapt resource value: 0x7F0E002A
-			public const int Base_TextAppearance_AppCompat_Tooltip = 2131623978;
+			// aapt resource value: 0x7F0F002A
+			public const int Base_TextAppearance_AppCompat_Tooltip = 2131689514;
 			
-			// aapt resource value: 0x7F0E002B
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131623979;
+			// aapt resource value: 0x7F0F002B
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689515;
 			
-			// aapt resource value: 0x7F0E002C
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131623980;
+			// aapt resource value: 0x7F0F002C
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689516;
 			
-			// aapt resource value: 0x7F0E002D
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131623981;
+			// aapt resource value: 0x7F0F002D
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689517;
 			
-			// aapt resource value: 0x7F0E002E
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title = 2131623982;
+			// aapt resource value: 0x7F0F002E
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689518;
 			
-			// aapt resource value: 0x7F0E002F
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131623983;
+			// aapt resource value: 0x7F0F002F
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689519;
 			
-			// aapt resource value: 0x7F0E0030
-			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131623984;
+			// aapt resource value: 0x7F0F0030
+			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689520;
 			
-			// aapt resource value: 0x7F0E0031
-			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Title = 2131623985;
+			// aapt resource value: 0x7F0F0031
+			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689521;
 			
-			// aapt resource value: 0x7F0E0032
-			public const int Base_TextAppearance_AppCompat_Widget_Button = 2131623986;
+			// aapt resource value: 0x7F0F0032
+			public const int Base_TextAppearance_AppCompat_Widget_Button = 2131689522;
 			
-			// aapt resource value: 0x7F0E0033
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131623987;
+			// aapt resource value: 0x7F0F0033
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689523;
 			
-			// aapt resource value: 0x7F0E0034
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2131623988;
+			// aapt resource value: 0x7F0F0034
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2131689524;
 			
-			// aapt resource value: 0x7F0E0035
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2131623989;
+			// aapt resource value: 0x7F0F0035
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2131689525;
 			
-			// aapt resource value: 0x7F0E0036
-			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2131623990;
+			// aapt resource value: 0x7F0F0036
+			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2131689526;
 			
-			// aapt resource value: 0x7F0E0037
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131623991;
+			// aapt resource value: 0x7F0F0037
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689527;
 			
-			// aapt resource value: 0x7F0E0038
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131623992;
+			// aapt resource value: 0x7F0F0038
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689528;
 			
-			// aapt resource value: 0x7F0E0039
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131623993;
+			// aapt resource value: 0x7F0F0039
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689529;
 			
-			// aapt resource value: 0x7F0E003A
-			public const int Base_TextAppearance_AppCompat_Widget_Switch = 2131623994;
+			// aapt resource value: 0x7F0F003A
+			public const int Base_TextAppearance_AppCompat_Widget_Switch = 2131689530;
 			
-			// aapt resource value: 0x7F0E003B
-			public const int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131623995;
+			// aapt resource value: 0x7F0F003B
+			public const int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689531;
 			
-			// aapt resource value: 0x7F0E003C
-			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131623996;
+			// aapt resource value: 0x7F0F003C
+			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689532;
 			
-			// aapt resource value: 0x7F0E003D
-			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131623997;
+			// aapt resource value: 0x7F0F003D
+			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689533;
 			
-			// aapt resource value: 0x7F0E003E
-			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2131623998;
+			// aapt resource value: 0x7F0F003E
+			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689534;
 			
-			// aapt resource value: 0x7F0E005E
-			public const int Base_ThemeOverlay_AppCompat = 2131624030;
+			// aapt resource value: 0x7F0F005E
+			public const int Base_ThemeOverlay_AppCompat = 2131689566;
 			
-			// aapt resource value: 0x7F0E005F
-			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131624031;
+			// aapt resource value: 0x7F0F005F
+			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131689567;
 			
-			// aapt resource value: 0x7F0E0060
-			public const int Base_ThemeOverlay_AppCompat_Dark = 2131624032;
+			// aapt resource value: 0x7F0F0060
+			public const int Base_ThemeOverlay_AppCompat_Dark = 2131689568;
 			
-			// aapt resource value: 0x7F0E0061
-			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131624033;
+			// aapt resource value: 0x7F0F0061
+			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131689569;
 			
-			// aapt resource value: 0x7F0E0062
-			public const int Base_ThemeOverlay_AppCompat_Dialog = 2131624034;
+			// aapt resource value: 0x7F0F0062
+			public const int Base_ThemeOverlay_AppCompat_Dialog = 2131689570;
 			
-			// aapt resource value: 0x7F0E0063
-			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2131624035;
+			// aapt resource value: 0x7F0F0063
+			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2131689571;
 			
-			// aapt resource value: 0x7F0E0064
-			public const int Base_ThemeOverlay_AppCompat_Light = 2131624036;
+			// aapt resource value: 0x7F0F0064
+			public const int Base_ThemeOverlay_AppCompat_Light = 2131689572;
 			
-			// aapt resource value: 0x7F0E0065
-			public const int Base_ThemeOverlay_MaterialComponents_Dialog = 2131624037;
+			// aapt resource value: 0x7F0F0065
+			public const int Base_ThemeOverlay_MaterialComponents_Dialog = 2131689573;
 			
-			// aapt resource value: 0x7F0E0066
-			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131624038;
+			// aapt resource value: 0x7F0F0066
+			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689574;
 			
-			// aapt resource value: 0x7F0E003F
-			public const int Base_Theme_AppCompat = 2131623999;
+			// aapt resource value: 0x7F0F003F
+			public const int Base_Theme_AppCompat = 2131689535;
 			
-			// aapt resource value: 0x7F0E0040
-			public const int Base_Theme_AppCompat_CompactMenu = 2131624000;
+			// aapt resource value: 0x7F0F0040
+			public const int Base_Theme_AppCompat_CompactMenu = 2131689536;
 			
-			// aapt resource value: 0x7F0E0041
-			public const int Base_Theme_AppCompat_Dialog = 2131624001;
+			// aapt resource value: 0x7F0F0041
+			public const int Base_Theme_AppCompat_Dialog = 2131689537;
 			
-			// aapt resource value: 0x7F0E0045
-			public const int Base_Theme_AppCompat_DialogWhenLarge = 2131624005;
+			// aapt resource value: 0x7F0F0045
+			public const int Base_Theme_AppCompat_DialogWhenLarge = 2131689541;
 			
-			// aapt resource value: 0x7F0E0042
-			public const int Base_Theme_AppCompat_Dialog_Alert = 2131624002;
+			// aapt resource value: 0x7F0F0042
+			public const int Base_Theme_AppCompat_Dialog_Alert = 2131689538;
 			
-			// aapt resource value: 0x7F0E0043
-			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131624003;
+			// aapt resource value: 0x7F0F0043
+			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131689539;
 			
-			// aapt resource value: 0x7F0E0044
-			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2131624004;
+			// aapt resource value: 0x7F0F0044
+			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2131689540;
 			
-			// aapt resource value: 0x7F0E0046
-			public const int Base_Theme_AppCompat_Light = 2131624006;
+			// aapt resource value: 0x7F0F0046
+			public const int Base_Theme_AppCompat_Light = 2131689542;
 			
-			// aapt resource value: 0x7F0E0047
-			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131624007;
+			// aapt resource value: 0x7F0F0047
+			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131689543;
 			
-			// aapt resource value: 0x7F0E0048
-			public const int Base_Theme_AppCompat_Light_Dialog = 2131624008;
+			// aapt resource value: 0x7F0F0048
+			public const int Base_Theme_AppCompat_Light_Dialog = 2131689544;
 			
-			// aapt resource value: 0x7F0E004C
-			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131624012;
+			// aapt resource value: 0x7F0F004C
+			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131689548;
 			
-			// aapt resource value: 0x7F0E0049
-			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2131624009;
+			// aapt resource value: 0x7F0F0049
+			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2131689545;
 			
-			// aapt resource value: 0x7F0E004A
-			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131624010;
+			// aapt resource value: 0x7F0F004A
+			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131689546;
 			
-			// aapt resource value: 0x7F0E004B
-			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2131624011;
+			// aapt resource value: 0x7F0F004B
+			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2131689547;
 			
-			// aapt resource value: 0x7F0E004D
-			public const int Base_Theme_MaterialComponents = 2131624013;
+			// aapt resource value: 0x7F0F004D
+			public const int Base_Theme_MaterialComponents = 2131689549;
 			
-			// aapt resource value: 0x7F0E004E
-			public const int Base_Theme_MaterialComponents_Bridge = 2131624014;
+			// aapt resource value: 0x7F0F004E
+			public const int Base_Theme_MaterialComponents_Bridge = 2131689550;
 			
-			// aapt resource value: 0x7F0E004F
-			public const int Base_Theme_MaterialComponents_CompactMenu = 2131624015;
+			// aapt resource value: 0x7F0F004F
+			public const int Base_Theme_MaterialComponents_CompactMenu = 2131689551;
 			
-			// aapt resource value: 0x7F0E0050
-			public const int Base_Theme_MaterialComponents_Dialog = 2131624016;
+			// aapt resource value: 0x7F0F0050
+			public const int Base_Theme_MaterialComponents_Dialog = 2131689552;
 			
-			// aapt resource value: 0x7F0E0054
-			public const int Base_Theme_MaterialComponents_DialogWhenLarge = 2131624020;
+			// aapt resource value: 0x7F0F0054
+			public const int Base_Theme_MaterialComponents_DialogWhenLarge = 2131689556;
 			
-			// aapt resource value: 0x7F0E0051
-			public const int Base_Theme_MaterialComponents_Dialog_Alert = 2131624017;
+			// aapt resource value: 0x7F0F0051
+			public const int Base_Theme_MaterialComponents_Dialog_Alert = 2131689553;
 			
-			// aapt resource value: 0x7F0E0052
-			public const int Base_Theme_MaterialComponents_Dialog_FixedSize = 2131624018;
+			// aapt resource value: 0x7F0F0052
+			public const int Base_Theme_MaterialComponents_Dialog_FixedSize = 2131689554;
 			
-			// aapt resource value: 0x7F0E0053
-			public const int Base_Theme_MaterialComponents_Dialog_MinWidth = 2131624019;
+			// aapt resource value: 0x7F0F0053
+			public const int Base_Theme_MaterialComponents_Dialog_MinWidth = 2131689555;
 			
-			// aapt resource value: 0x7F0E0055
-			public const int Base_Theme_MaterialComponents_Light = 2131624021;
+			// aapt resource value: 0x7F0F0055
+			public const int Base_Theme_MaterialComponents_Light = 2131689557;
 			
-			// aapt resource value: 0x7F0E0056
-			public const int Base_Theme_MaterialComponents_Light_Bridge = 2131624022;
+			// aapt resource value: 0x7F0F0056
+			public const int Base_Theme_MaterialComponents_Light_Bridge = 2131689558;
 			
-			// aapt resource value: 0x7F0E0057
-			public const int Base_Theme_MaterialComponents_Light_DarkActionBar = 2131624023;
+			// aapt resource value: 0x7F0F0057
+			public const int Base_Theme_MaterialComponents_Light_DarkActionBar = 2131689559;
 			
-			// aapt resource value: 0x7F0E0058
-			public const int Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131624024;
+			// aapt resource value: 0x7F0F0058
+			public const int Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689560;
 			
-			// aapt resource value: 0x7F0E0059
-			public const int Base_Theme_MaterialComponents_Light_Dialog = 2131624025;
+			// aapt resource value: 0x7F0F0059
+			public const int Base_Theme_MaterialComponents_Light_Dialog = 2131689561;
 			
-			// aapt resource value: 0x7F0E005D
-			public const int Base_Theme_MaterialComponents_Light_DialogWhenLarge = 2131624029;
+			// aapt resource value: 0x7F0F005D
+			public const int Base_Theme_MaterialComponents_Light_DialogWhenLarge = 2131689565;
 			
-			// aapt resource value: 0x7F0E005A
-			public const int Base_Theme_MaterialComponents_Light_Dialog_Alert = 2131624026;
+			// aapt resource value: 0x7F0F005A
+			public const int Base_Theme_MaterialComponents_Light_Dialog_Alert = 2131689562;
 			
-			// aapt resource value: 0x7F0E005B
-			public const int Base_Theme_MaterialComponents_Light_Dialog_FixedSize = 2131624027;
+			// aapt resource value: 0x7F0F005B
+			public const int Base_Theme_MaterialComponents_Light_Dialog_FixedSize = 2131689563;
 			
-			// aapt resource value: 0x7F0E005C
-			public const int Base_Theme_MaterialComponents_Light_Dialog_MinWidth = 2131624028;
+			// aapt resource value: 0x7F0F005C
+			public const int Base_Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689564;
 			
-			// aapt resource value: 0x7F0E006E
-			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog = 2131624046;
+			// aapt resource value: 0x7F0F006E
+			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog = 2131689582;
 			
-			// aapt resource value: 0x7F0E006F
-			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131624047;
+			// aapt resource value: 0x7F0F006F
+			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689583;
 			
-			// aapt resource value: 0x7F0E0067
-			public const int Base_V14_Theme_MaterialComponents = 2131624039;
+			// aapt resource value: 0x7F0F0067
+			public const int Base_V14_Theme_MaterialComponents = 2131689575;
 			
-			// aapt resource value: 0x7F0E0068
-			public const int Base_V14_Theme_MaterialComponents_Bridge = 2131624040;
+			// aapt resource value: 0x7F0F0068
+			public const int Base_V14_Theme_MaterialComponents_Bridge = 2131689576;
 			
-			// aapt resource value: 0x7F0E0069
-			public const int Base_V14_Theme_MaterialComponents_Dialog = 2131624041;
+			// aapt resource value: 0x7F0F0069
+			public const int Base_V14_Theme_MaterialComponents_Dialog = 2131689577;
 			
-			// aapt resource value: 0x7F0E006A
-			public const int Base_V14_Theme_MaterialComponents_Light = 2131624042;
+			// aapt resource value: 0x7F0F006A
+			public const int Base_V14_Theme_MaterialComponents_Light = 2131689578;
 			
-			// aapt resource value: 0x7F0E006B
-			public const int Base_V14_Theme_MaterialComponents_Light_Bridge = 2131624043;
+			// aapt resource value: 0x7F0F006B
+			public const int Base_V14_Theme_MaterialComponents_Light_Bridge = 2131689579;
 			
-			// aapt resource value: 0x7F0E006C
-			public const int Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131624044;
+			// aapt resource value: 0x7F0F006C
+			public const int Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689580;
 			
-			// aapt resource value: 0x7F0E006D
-			public const int Base_V14_Theme_MaterialComponents_Light_Dialog = 2131624045;
+			// aapt resource value: 0x7F0F006D
+			public const int Base_V14_Theme_MaterialComponents_Light_Dialog = 2131689581;
 			
-			// aapt resource value: 0x7F0E0074
-			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2131624052;
+			// aapt resource value: 0x7F0F0074
+			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2131689588;
 			
-			// aapt resource value: 0x7F0E0070
-			public const int Base_V21_Theme_AppCompat = 2131624048;
+			// aapt resource value: 0x7F0F0070
+			public const int Base_V21_Theme_AppCompat = 2131689584;
 			
-			// aapt resource value: 0x7F0E0071
-			public const int Base_V21_Theme_AppCompat_Dialog = 2131624049;
+			// aapt resource value: 0x7F0F0071
+			public const int Base_V21_Theme_AppCompat_Dialog = 2131689585;
 			
-			// aapt resource value: 0x7F0E0072
-			public const int Base_V21_Theme_AppCompat_Light = 2131624050;
+			// aapt resource value: 0x7F0F0072
+			public const int Base_V21_Theme_AppCompat_Light = 2131689586;
 			
-			// aapt resource value: 0x7F0E0073
-			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2131624051;
+			// aapt resource value: 0x7F0F0073
+			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2131689587;
 			
-			// aapt resource value: 0x7F0E0075
-			public const int Base_V22_Theme_AppCompat = 2131624053;
+			// aapt resource value: 0x7F0F0075
+			public const int Base_V22_Theme_AppCompat = 2131689589;
 			
-			// aapt resource value: 0x7F0E0076
-			public const int Base_V22_Theme_AppCompat_Light = 2131624054;
+			// aapt resource value: 0x7F0F0076
+			public const int Base_V22_Theme_AppCompat_Light = 2131689590;
 			
-			// aapt resource value: 0x7F0E0077
-			public const int Base_V23_Theme_AppCompat = 2131624055;
+			// aapt resource value: 0x7F0F0077
+			public const int Base_V23_Theme_AppCompat = 2131689591;
 			
-			// aapt resource value: 0x7F0E0078
-			public const int Base_V23_Theme_AppCompat_Light = 2131624056;
+			// aapt resource value: 0x7F0F0078
+			public const int Base_V23_Theme_AppCompat_Light = 2131689592;
 			
-			// aapt resource value: 0x7F0E0079
-			public const int Base_V26_Theme_AppCompat = 2131624057;
+			// aapt resource value: 0x7F0F0079
+			public const int Base_V26_Theme_AppCompat = 2131689593;
 			
-			// aapt resource value: 0x7F0E007A
-			public const int Base_V26_Theme_AppCompat_Light = 2131624058;
+			// aapt resource value: 0x7F0F007A
+			public const int Base_V26_Theme_AppCompat_Light = 2131689594;
 			
-			// aapt resource value: 0x7F0E007B
-			public const int Base_V26_Widget_AppCompat_Toolbar = 2131624059;
+			// aapt resource value: 0x7F0F007B
+			public const int Base_V26_Widget_AppCompat_Toolbar = 2131689595;
 			
-			// aapt resource value: 0x7F0E007C
-			public const int Base_V28_Theme_AppCompat = 2131624060;
+			// aapt resource value: 0x7F0F007C
+			public const int Base_V28_Theme_AppCompat = 2131689596;
 			
-			// aapt resource value: 0x7F0E007D
-			public const int Base_V28_Theme_AppCompat_Light = 2131624061;
+			// aapt resource value: 0x7F0F007D
+			public const int Base_V28_Theme_AppCompat_Light = 2131689597;
 			
-			// aapt resource value: 0x7F0E0082
-			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131624066;
+			// aapt resource value: 0x7F0F0082
+			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131689602;
 			
-			// aapt resource value: 0x7F0E007E
-			public const int Base_V7_Theme_AppCompat = 2131624062;
+			// aapt resource value: 0x7F0F007E
+			public const int Base_V7_Theme_AppCompat = 2131689598;
 			
-			// aapt resource value: 0x7F0E007F
-			public const int Base_V7_Theme_AppCompat_Dialog = 2131624063;
+			// aapt resource value: 0x7F0F007F
+			public const int Base_V7_Theme_AppCompat_Dialog = 2131689599;
 			
-			// aapt resource value: 0x7F0E0080
-			public const int Base_V7_Theme_AppCompat_Light = 2131624064;
+			// aapt resource value: 0x7F0F0080
+			public const int Base_V7_Theme_AppCompat_Light = 2131689600;
 			
-			// aapt resource value: 0x7F0E0081
-			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131624065;
+			// aapt resource value: 0x7F0F0081
+			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131689601;
 			
-			// aapt resource value: 0x7F0E0083
-			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2131624067;
+			// aapt resource value: 0x7F0F0083
+			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2131689603;
 			
-			// aapt resource value: 0x7F0E0084
-			public const int Base_V7_Widget_AppCompat_EditText = 2131624068;
+			// aapt resource value: 0x7F0F0084
+			public const int Base_V7_Widget_AppCompat_EditText = 2131689604;
 			
-			// aapt resource value: 0x7F0E0085
-			public const int Base_V7_Widget_AppCompat_Toolbar = 2131624069;
+			// aapt resource value: 0x7F0F0085
+			public const int Base_V7_Widget_AppCompat_Toolbar = 2131689605;
 			
-			// aapt resource value: 0x7F0E0086
-			public const int Base_Widget_AppCompat_ActionBar = 2131624070;
+			// aapt resource value: 0x7F0F0086
+			public const int Base_Widget_AppCompat_ActionBar = 2131689606;
 			
-			// aapt resource value: 0x7F0E0087
-			public const int Base_Widget_AppCompat_ActionBar_Solid = 2131624071;
+			// aapt resource value: 0x7F0F0087
+			public const int Base_Widget_AppCompat_ActionBar_Solid = 2131689607;
 			
-			// aapt resource value: 0x7F0E0088
-			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2131624072;
+			// aapt resource value: 0x7F0F0088
+			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2131689608;
 			
-			// aapt resource value: 0x7F0E0089
-			public const int Base_Widget_AppCompat_ActionBar_TabText = 2131624073;
+			// aapt resource value: 0x7F0F0089
+			public const int Base_Widget_AppCompat_ActionBar_TabText = 2131689609;
 			
-			// aapt resource value: 0x7F0E008A
-			public const int Base_Widget_AppCompat_ActionBar_TabView = 2131624074;
+			// aapt resource value: 0x7F0F008A
+			public const int Base_Widget_AppCompat_ActionBar_TabView = 2131689610;
 			
-			// aapt resource value: 0x7F0E008B
-			public const int Base_Widget_AppCompat_ActionButton = 2131624075;
+			// aapt resource value: 0x7F0F008B
+			public const int Base_Widget_AppCompat_ActionButton = 2131689611;
 			
-			// aapt resource value: 0x7F0E008C
-			public const int Base_Widget_AppCompat_ActionButton_CloseMode = 2131624076;
+			// aapt resource value: 0x7F0F008C
+			public const int Base_Widget_AppCompat_ActionButton_CloseMode = 2131689612;
 			
-			// aapt resource value: 0x7F0E008D
-			public const int Base_Widget_AppCompat_ActionButton_Overflow = 2131624077;
+			// aapt resource value: 0x7F0F008D
+			public const int Base_Widget_AppCompat_ActionButton_Overflow = 2131689613;
 			
-			// aapt resource value: 0x7F0E008E
-			public const int Base_Widget_AppCompat_ActionMode = 2131624078;
+			// aapt resource value: 0x7F0F008E
+			public const int Base_Widget_AppCompat_ActionMode = 2131689614;
 			
-			// aapt resource value: 0x7F0E008F
-			public const int Base_Widget_AppCompat_ActivityChooserView = 2131624079;
+			// aapt resource value: 0x7F0F008F
+			public const int Base_Widget_AppCompat_ActivityChooserView = 2131689615;
 			
-			// aapt resource value: 0x7F0E0090
-			public const int Base_Widget_AppCompat_AutoCompleteTextView = 2131624080;
+			// aapt resource value: 0x7F0F0090
+			public const int Base_Widget_AppCompat_AutoCompleteTextView = 2131689616;
 			
-			// aapt resource value: 0x7F0E0091
-			public const int Base_Widget_AppCompat_Button = 2131624081;
+			// aapt resource value: 0x7F0F0091
+			public const int Base_Widget_AppCompat_Button = 2131689617;
 			
-			// aapt resource value: 0x7F0E0097
-			public const int Base_Widget_AppCompat_ButtonBar = 2131624087;
+			// aapt resource value: 0x7F0F0097
+			public const int Base_Widget_AppCompat_ButtonBar = 2131689623;
 			
-			// aapt resource value: 0x7F0E0098
-			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131624088;
+			// aapt resource value: 0x7F0F0098
+			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131689624;
 			
-			// aapt resource value: 0x7F0E0092
-			public const int Base_Widget_AppCompat_Button_Borderless = 2131624082;
+			// aapt resource value: 0x7F0F0092
+			public const int Base_Widget_AppCompat_Button_Borderless = 2131689618;
 			
-			// aapt resource value: 0x7F0E0093
-			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2131624083;
+			// aapt resource value: 0x7F0F0093
+			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2131689619;
 			
-			// aapt resource value: 0x7F0E0094
-			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131624084;
+			// aapt resource value: 0x7F0F0094
+			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689620;
 			
-			// aapt resource value: 0x7F0E0095
-			public const int Base_Widget_AppCompat_Button_Colored = 2131624085;
+			// aapt resource value: 0x7F0F0095
+			public const int Base_Widget_AppCompat_Button_Colored = 2131689621;
 			
-			// aapt resource value: 0x7F0E0096
-			public const int Base_Widget_AppCompat_Button_Small = 2131624086;
+			// aapt resource value: 0x7F0F0096
+			public const int Base_Widget_AppCompat_Button_Small = 2131689622;
 			
-			// aapt resource value: 0x7F0E0099
-			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2131624089;
+			// aapt resource value: 0x7F0F0099
+			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2131689625;
 			
-			// aapt resource value: 0x7F0E009A
-			public const int Base_Widget_AppCompat_CompoundButton_RadioButton = 2131624090;
+			// aapt resource value: 0x7F0F009A
+			public const int Base_Widget_AppCompat_CompoundButton_RadioButton = 2131689626;
 			
-			// aapt resource value: 0x7F0E009B
-			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2131624091;
+			// aapt resource value: 0x7F0F009B
+			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2131689627;
 			
-			// aapt resource value: 0x7F0E009C
-			public const int Base_Widget_AppCompat_DrawerArrowToggle = 2131624092;
+			// aapt resource value: 0x7F0F009C
+			public const int Base_Widget_AppCompat_DrawerArrowToggle = 2131689628;
 			
-			// aapt resource value: 0x7F0E009D
-			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2131624093;
+			// aapt resource value: 0x7F0F009D
+			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2131689629;
 			
-			// aapt resource value: 0x7F0E009E
-			public const int Base_Widget_AppCompat_DropDownItem_Spinner = 2131624094;
+			// aapt resource value: 0x7F0F009E
+			public const int Base_Widget_AppCompat_DropDownItem_Spinner = 2131689630;
 			
-			// aapt resource value: 0x7F0E009F
-			public const int Base_Widget_AppCompat_EditText = 2131624095;
+			// aapt resource value: 0x7F0F009F
+			public const int Base_Widget_AppCompat_EditText = 2131689631;
 			
-			// aapt resource value: 0x7F0E00A0
-			public const int Base_Widget_AppCompat_ImageButton = 2131624096;
+			// aapt resource value: 0x7F0F00A0
+			public const int Base_Widget_AppCompat_ImageButton = 2131689632;
 			
-			// aapt resource value: 0x7F0E00A1
-			public const int Base_Widget_AppCompat_Light_ActionBar = 2131624097;
+			// aapt resource value: 0x7F0F00A1
+			public const int Base_Widget_AppCompat_Light_ActionBar = 2131689633;
 			
-			// aapt resource value: 0x7F0E00A2
-			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2131624098;
+			// aapt resource value: 0x7F0F00A2
+			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2131689634;
 			
-			// aapt resource value: 0x7F0E00A3
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2131624099;
+			// aapt resource value: 0x7F0F00A3
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2131689635;
 			
-			// aapt resource value: 0x7F0E00A4
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabText = 2131624100;
+			// aapt resource value: 0x7F0F00A4
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabText = 2131689636;
 			
-			// aapt resource value: 0x7F0E00A5
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131624101;
+			// aapt resource value: 0x7F0F00A5
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689637;
 			
-			// aapt resource value: 0x7F0E00A6
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabView = 2131624102;
+			// aapt resource value: 0x7F0F00A6
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabView = 2131689638;
 			
-			// aapt resource value: 0x7F0E00A7
-			public const int Base_Widget_AppCompat_Light_PopupMenu = 2131624103;
+			// aapt resource value: 0x7F0F00A7
+			public const int Base_Widget_AppCompat_Light_PopupMenu = 2131689639;
 			
-			// aapt resource value: 0x7F0E00A8
-			public const int Base_Widget_AppCompat_Light_PopupMenu_Overflow = 2131624104;
+			// aapt resource value: 0x7F0F00A8
+			public const int Base_Widget_AppCompat_Light_PopupMenu_Overflow = 2131689640;
 			
-			// aapt resource value: 0x7F0E00A9
-			public const int Base_Widget_AppCompat_ListMenuView = 2131624105;
+			// aapt resource value: 0x7F0F00A9
+			public const int Base_Widget_AppCompat_ListMenuView = 2131689641;
 			
-			// aapt resource value: 0x7F0E00AA
-			public const int Base_Widget_AppCompat_ListPopupWindow = 2131624106;
+			// aapt resource value: 0x7F0F00AA
+			public const int Base_Widget_AppCompat_ListPopupWindow = 2131689642;
 			
-			// aapt resource value: 0x7F0E00AB
-			public const int Base_Widget_AppCompat_ListView = 2131624107;
+			// aapt resource value: 0x7F0F00AB
+			public const int Base_Widget_AppCompat_ListView = 2131689643;
 			
-			// aapt resource value: 0x7F0E00AC
-			public const int Base_Widget_AppCompat_ListView_DropDown = 2131624108;
+			// aapt resource value: 0x7F0F00AC
+			public const int Base_Widget_AppCompat_ListView_DropDown = 2131689644;
 			
-			// aapt resource value: 0x7F0E00AD
-			public const int Base_Widget_AppCompat_ListView_Menu = 2131624109;
+			// aapt resource value: 0x7F0F00AD
+			public const int Base_Widget_AppCompat_ListView_Menu = 2131689645;
 			
-			// aapt resource value: 0x7F0E00AE
-			public const int Base_Widget_AppCompat_PopupMenu = 2131624110;
+			// aapt resource value: 0x7F0F00AE
+			public const int Base_Widget_AppCompat_PopupMenu = 2131689646;
 			
-			// aapt resource value: 0x7F0E00AF
-			public const int Base_Widget_AppCompat_PopupMenu_Overflow = 2131624111;
+			// aapt resource value: 0x7F0F00AF
+			public const int Base_Widget_AppCompat_PopupMenu_Overflow = 2131689647;
 			
-			// aapt resource value: 0x7F0E00B0
-			public const int Base_Widget_AppCompat_PopupWindow = 2131624112;
+			// aapt resource value: 0x7F0F00B0
+			public const int Base_Widget_AppCompat_PopupWindow = 2131689648;
 			
-			// aapt resource value: 0x7F0E00B1
-			public const int Base_Widget_AppCompat_ProgressBar = 2131624113;
+			// aapt resource value: 0x7F0F00B1
+			public const int Base_Widget_AppCompat_ProgressBar = 2131689649;
 			
-			// aapt resource value: 0x7F0E00B2
-			public const int Base_Widget_AppCompat_ProgressBar_Horizontal = 2131624114;
+			// aapt resource value: 0x7F0F00B2
+			public const int Base_Widget_AppCompat_ProgressBar_Horizontal = 2131689650;
 			
-			// aapt resource value: 0x7F0E00B3
-			public const int Base_Widget_AppCompat_RatingBar = 2131624115;
+			// aapt resource value: 0x7F0F00B3
+			public const int Base_Widget_AppCompat_RatingBar = 2131689651;
 			
-			// aapt resource value: 0x7F0E00B4
-			public const int Base_Widget_AppCompat_RatingBar_Indicator = 2131624116;
+			// aapt resource value: 0x7F0F00B4
+			public const int Base_Widget_AppCompat_RatingBar_Indicator = 2131689652;
 			
-			// aapt resource value: 0x7F0E00B5
-			public const int Base_Widget_AppCompat_RatingBar_Small = 2131624117;
+			// aapt resource value: 0x7F0F00B5
+			public const int Base_Widget_AppCompat_RatingBar_Small = 2131689653;
 			
-			// aapt resource value: 0x7F0E00B6
-			public const int Base_Widget_AppCompat_SearchView = 2131624118;
+			// aapt resource value: 0x7F0F00B6
+			public const int Base_Widget_AppCompat_SearchView = 2131689654;
 			
-			// aapt resource value: 0x7F0E00B7
-			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2131624119;
+			// aapt resource value: 0x7F0F00B7
+			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2131689655;
 			
-			// aapt resource value: 0x7F0E00B8
-			public const int Base_Widget_AppCompat_SeekBar = 2131624120;
+			// aapt resource value: 0x7F0F00B8
+			public const int Base_Widget_AppCompat_SeekBar = 2131689656;
 			
-			// aapt resource value: 0x7F0E00B9
-			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2131624121;
+			// aapt resource value: 0x7F0F00B9
+			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2131689657;
 			
-			// aapt resource value: 0x7F0E00BA
-			public const int Base_Widget_AppCompat_Spinner = 2131624122;
+			// aapt resource value: 0x7F0F00BA
+			public const int Base_Widget_AppCompat_Spinner = 2131689658;
 			
-			// aapt resource value: 0x7F0E00BB
-			public const int Base_Widget_AppCompat_Spinner_Underlined = 2131624123;
+			// aapt resource value: 0x7F0F00BB
+			public const int Base_Widget_AppCompat_Spinner_Underlined = 2131689659;
 			
-			// aapt resource value: 0x7F0E00BC
-			public const int Base_Widget_AppCompat_TextView_SpinnerItem = 2131624124;
+			// aapt resource value: 0x7F0F00BC
+			public const int Base_Widget_AppCompat_TextView_SpinnerItem = 2131689660;
 			
-			// aapt resource value: 0x7F0E00BD
-			public const int Base_Widget_AppCompat_Toolbar = 2131624125;
+			// aapt resource value: 0x7F0F00BD
+			public const int Base_Widget_AppCompat_Toolbar = 2131689661;
 			
-			// aapt resource value: 0x7F0E00BE
-			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2131624126;
+			// aapt resource value: 0x7F0F00BE
+			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2131689662;
 			
-			// aapt resource value: 0x7F0E00BF
-			public const int Base_Widget_Design_TabLayout = 2131624127;
+			// aapt resource value: 0x7F0F00BF
+			public const int Base_Widget_Design_TabLayout = 2131689663;
 			
-			// aapt resource value: 0x7F0E00C0
-			public const int Base_Widget_MaterialComponents_Chip = 2131624128;
+			// aapt resource value: 0x7F0F00C0
+			public const int Base_Widget_MaterialComponents_Chip = 2131689664;
 			
-			// aapt resource value: 0x7F0E00C1
-			public const int Base_Widget_MaterialComponents_TextInputEditText = 2131624129;
+			// aapt resource value: 0x7F0F00C1
+			public const int Base_Widget_MaterialComponents_TextInputEditText = 2131689665;
 			
-			// aapt resource value: 0x7F0E00C2
-			public const int Base_Widget_MaterialComponents_TextInputLayout = 2131624130;
+			// aapt resource value: 0x7F0F00C2
+			public const int Base_Widget_MaterialComponents_TextInputLayout = 2131689666;
 			
-			// aapt resource value: 0x7F0E00C3
-			public const int CardView = 2131624131;
+			// aapt resource value: 0x7F0F00C3
+			public const int CardView = 2131689667;
 			
-			// aapt resource value: 0x7F0E00C4
-			public const int CardView_Dark = 2131624132;
+			// aapt resource value: 0x7F0F00C4
+			public const int CardView_Dark = 2131689668;
 			
-			// aapt resource value: 0x7F0E00C5
-			public const int CardView_Light = 2131624133;
+			// aapt resource value: 0x7F0F00C5
+			public const int CardView_Light = 2131689669;
 			
-			// aapt resource value: 0x7F0E01F7
-			public const int collectionViewScrollBars = 2131624439;
+			// aapt resource value: 0x7F0F01F7
+			public const int collectionViewScrollBars = 2131689975;
 			
-			// aapt resource value: 0x7F0E01F8
-			public const int collectionViewTheme = 2131624440;
+			// aapt resource value: 0x7F0F01F8
+			public const int collectionViewTheme = 2131689976;
 			
-			// aapt resource value: 0x7F0E00C6
-			public const int MainTheme = 2131624134;
+			// aapt resource value: 0x7F0F00C6
+			public const int MainTheme = 2131689670;
 			
-			// aapt resource value: 0x7F0E00C7
-			public const int MainTheme_Base = 2131624135;
+			// aapt resource value: 0x7F0F00C7
+			public const int MainTheme_Base = 2131689671;
 			
-			// aapt resource value: 0x7F0E00C8
-			public const int Platform_AppCompat = 2131624136;
+			// aapt resource value: 0x7F0F00C8
+			public const int Platform_AppCompat = 2131689672;
 			
-			// aapt resource value: 0x7F0E00C9
-			public const int Platform_AppCompat_Light = 2131624137;
+			// aapt resource value: 0x7F0F00C9
+			public const int Platform_AppCompat_Light = 2131689673;
 			
-			// aapt resource value: 0x7F0E00CA
-			public const int Platform_MaterialComponents = 2131624138;
+			// aapt resource value: 0x7F0F00CA
+			public const int Platform_MaterialComponents = 2131689674;
 			
-			// aapt resource value: 0x7F0E00CB
-			public const int Platform_MaterialComponents_Dialog = 2131624139;
+			// aapt resource value: 0x7F0F00CB
+			public const int Platform_MaterialComponents_Dialog = 2131689675;
 			
-			// aapt resource value: 0x7F0E00CC
-			public const int Platform_MaterialComponents_Light = 2131624140;
+			// aapt resource value: 0x7F0F00CC
+			public const int Platform_MaterialComponents_Light = 2131689676;
 			
-			// aapt resource value: 0x7F0E00CD
-			public const int Platform_MaterialComponents_Light_Dialog = 2131624141;
+			// aapt resource value: 0x7F0F00CD
+			public const int Platform_MaterialComponents_Light_Dialog = 2131689677;
 			
-			// aapt resource value: 0x7F0E00CE
-			public const int Platform_ThemeOverlay_AppCompat = 2131624142;
+			// aapt resource value: 0x7F0F00CE
+			public const int Platform_ThemeOverlay_AppCompat = 2131689678;
 			
-			// aapt resource value: 0x7F0E00CF
-			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131624143;
+			// aapt resource value: 0x7F0F00CF
+			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131689679;
 			
-			// aapt resource value: 0x7F0E00D0
-			public const int Platform_ThemeOverlay_AppCompat_Light = 2131624144;
+			// aapt resource value: 0x7F0F00D0
+			public const int Platform_ThemeOverlay_AppCompat_Light = 2131689680;
 			
-			// aapt resource value: 0x7F0E00D1
-			public const int Platform_V21_AppCompat = 2131624145;
+			// aapt resource value: 0x7F0F00D1
+			public const int Platform_V21_AppCompat = 2131689681;
 			
-			// aapt resource value: 0x7F0E00D2
-			public const int Platform_V21_AppCompat_Light = 2131624146;
+			// aapt resource value: 0x7F0F00D2
+			public const int Platform_V21_AppCompat_Light = 2131689682;
 			
-			// aapt resource value: 0x7F0E00D3
-			public const int Platform_V25_AppCompat = 2131624147;
+			// aapt resource value: 0x7F0F00D3
+			public const int Platform_V25_AppCompat = 2131689683;
 			
-			// aapt resource value: 0x7F0E00D4
-			public const int Platform_V25_AppCompat_Light = 2131624148;
+			// aapt resource value: 0x7F0F00D4
+			public const int Platform_V25_AppCompat_Light = 2131689684;
 			
-			// aapt resource value: 0x7F0E00D5
-			public const int Platform_Widget_AppCompat_Spinner = 2131624149;
+			// aapt resource value: 0x7F0F00D5
+			public const int Platform_Widget_AppCompat_Spinner = 2131689685;
 			
-			// aapt resource value: 0x7F0E00D6
-			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131624150;
+			// aapt resource value: 0x7F0F00D6
+			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131689686;
 			
-			// aapt resource value: 0x7F0E00D7
-			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131624151;
+			// aapt resource value: 0x7F0F00D7
+			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131689687;
 			
-			// aapt resource value: 0x7F0E00D8
-			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131624152;
+			// aapt resource value: 0x7F0F00D8
+			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131689688;
 			
-			// aapt resource value: 0x7F0E00D9
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131624153;
+			// aapt resource value: 0x7F0F00D9
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131689689;
 			
-			// aapt resource value: 0x7F0E00DA
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131624154;
+			// aapt resource value: 0x7F0F00DA
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131689690;
 			
-			// aapt resource value: 0x7F0E00DB
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131624155;
+			// aapt resource value: 0x7F0F00DB
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131689691;
 			
-			// aapt resource value: 0x7F0E00DC
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131624156;
+			// aapt resource value: 0x7F0F00DC
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131689692;
 			
-			// aapt resource value: 0x7F0E00DD
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131624157;
+			// aapt resource value: 0x7F0F00DD
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131689693;
 			
-			// aapt resource value: 0x7F0E00DE
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131624158;
+			// aapt resource value: 0x7F0F00DE
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131689694;
 			
-			// aapt resource value: 0x7F0E00E4
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131624164;
+			// aapt resource value: 0x7F0F00E4
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689700;
 			
-			// aapt resource value: 0x7F0E00DF
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131624159;
+			// aapt resource value: 0x7F0F00DF
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689695;
 			
-			// aapt resource value: 0x7F0E00E0
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131624160;
+			// aapt resource value: 0x7F0F00E0
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689696;
 			
-			// aapt resource value: 0x7F0E00E1
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131624161;
+			// aapt resource value: 0x7F0F00E1
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689697;
 			
-			// aapt resource value: 0x7F0E00E2
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131624162;
+			// aapt resource value: 0x7F0F00E2
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689698;
 			
-			// aapt resource value: 0x7F0E00E3
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131624163;
+			// aapt resource value: 0x7F0F00E3
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689699;
 			
-			// aapt resource value: 0x7F0E00E5
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131624165;
+			// aapt resource value: 0x7F0F00E5
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131689701;
 			
-			// aapt resource value: 0x7F0E00E6
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131624166;
+			// aapt resource value: 0x7F0F00E6
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131689702;
 			
-			// aapt resource value: 0x7F0E00E7
-			public const int TextAppearance_AppCompat = 2131624167;
+			// aapt resource value: 0x7F0F00E7
+			public const int TextAppearance_AppCompat = 2131689703;
 			
-			// aapt resource value: 0x7F0E00E8
-			public const int TextAppearance_AppCompat_Body1 = 2131624168;
+			// aapt resource value: 0x7F0F00E8
+			public const int TextAppearance_AppCompat_Body1 = 2131689704;
 			
-			// aapt resource value: 0x7F0E00E9
-			public const int TextAppearance_AppCompat_Body2 = 2131624169;
+			// aapt resource value: 0x7F0F00E9
+			public const int TextAppearance_AppCompat_Body2 = 2131689705;
 			
-			// aapt resource value: 0x7F0E00EA
-			public const int TextAppearance_AppCompat_Button = 2131624170;
+			// aapt resource value: 0x7F0F00EA
+			public const int TextAppearance_AppCompat_Button = 2131689706;
 			
-			// aapt resource value: 0x7F0E00EB
-			public const int TextAppearance_AppCompat_Caption = 2131624171;
+			// aapt resource value: 0x7F0F00EB
+			public const int TextAppearance_AppCompat_Caption = 2131689707;
 			
-			// aapt resource value: 0x7F0E00EC
-			public const int TextAppearance_AppCompat_Display1 = 2131624172;
+			// aapt resource value: 0x7F0F00EC
+			public const int TextAppearance_AppCompat_Display1 = 2131689708;
 			
-			// aapt resource value: 0x7F0E00ED
-			public const int TextAppearance_AppCompat_Display2 = 2131624173;
+			// aapt resource value: 0x7F0F00ED
+			public const int TextAppearance_AppCompat_Display2 = 2131689709;
 			
-			// aapt resource value: 0x7F0E00EE
-			public const int TextAppearance_AppCompat_Display3 = 2131624174;
+			// aapt resource value: 0x7F0F00EE
+			public const int TextAppearance_AppCompat_Display3 = 2131689710;
 			
-			// aapt resource value: 0x7F0E00EF
-			public const int TextAppearance_AppCompat_Display4 = 2131624175;
+			// aapt resource value: 0x7F0F00EF
+			public const int TextAppearance_AppCompat_Display4 = 2131689711;
 			
-			// aapt resource value: 0x7F0E00F0
-			public const int TextAppearance_AppCompat_Headline = 2131624176;
+			// aapt resource value: 0x7F0F00F0
+			public const int TextAppearance_AppCompat_Headline = 2131689712;
 			
-			// aapt resource value: 0x7F0E00F1
-			public const int TextAppearance_AppCompat_Inverse = 2131624177;
+			// aapt resource value: 0x7F0F00F1
+			public const int TextAppearance_AppCompat_Inverse = 2131689713;
 			
-			// aapt resource value: 0x7F0E00F2
-			public const int TextAppearance_AppCompat_Large = 2131624178;
+			// aapt resource value: 0x7F0F00F2
+			public const int TextAppearance_AppCompat_Large = 2131689714;
 			
-			// aapt resource value: 0x7F0E00F3
-			public const int TextAppearance_AppCompat_Large_Inverse = 2131624179;
+			// aapt resource value: 0x7F0F00F3
+			public const int TextAppearance_AppCompat_Large_Inverse = 2131689715;
 			
-			// aapt resource value: 0x7F0E00F4
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131624180;
+			// aapt resource value: 0x7F0F00F4
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131689716;
 			
-			// aapt resource value: 0x7F0E00F5
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131624181;
+			// aapt resource value: 0x7F0F00F5
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131689717;
 			
-			// aapt resource value: 0x7F0E00F6
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131624182;
+			// aapt resource value: 0x7F0F00F6
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689718;
 			
-			// aapt resource value: 0x7F0E00F7
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131624183;
+			// aapt resource value: 0x7F0F00F7
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689719;
 			
-			// aapt resource value: 0x7F0E00F8
-			public const int TextAppearance_AppCompat_Medium = 2131624184;
+			// aapt resource value: 0x7F0F00F8
+			public const int TextAppearance_AppCompat_Medium = 2131689720;
 			
-			// aapt resource value: 0x7F0E00F9
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2131624185;
+			// aapt resource value: 0x7F0F00F9
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2131689721;
 			
-			// aapt resource value: 0x7F0E00FA
-			public const int TextAppearance_AppCompat_Menu = 2131624186;
+			// aapt resource value: 0x7F0F00FA
+			public const int TextAppearance_AppCompat_Menu = 2131689722;
 			
-			// aapt resource value: 0x7F0E00FB
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131624187;
+			// aapt resource value: 0x7F0F00FB
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131689723;
 			
-			// aapt resource value: 0x7F0E00FC
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2131624188;
+			// aapt resource value: 0x7F0F00FC
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2131689724;
 			
-			// aapt resource value: 0x7F0E00FD
-			public const int TextAppearance_AppCompat_Small = 2131624189;
+			// aapt resource value: 0x7F0F00FD
+			public const int TextAppearance_AppCompat_Small = 2131689725;
 			
-			// aapt resource value: 0x7F0E00FE
-			public const int TextAppearance_AppCompat_Small_Inverse = 2131624190;
+			// aapt resource value: 0x7F0F00FE
+			public const int TextAppearance_AppCompat_Small_Inverse = 2131689726;
 			
-			// aapt resource value: 0x7F0E00FF
-			public const int TextAppearance_AppCompat_Subhead = 2131624191;
+			// aapt resource value: 0x7F0F00FF
+			public const int TextAppearance_AppCompat_Subhead = 2131689727;
 			
-			// aapt resource value: 0x7F0E0100
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131624192;
+			// aapt resource value: 0x7F0F0100
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131689728;
 			
-			// aapt resource value: 0x7F0E0101
-			public const int TextAppearance_AppCompat_Title = 2131624193;
+			// aapt resource value: 0x7F0F0101
+			public const int TextAppearance_AppCompat_Title = 2131689729;
 			
-			// aapt resource value: 0x7F0E0102
-			public const int TextAppearance_AppCompat_Title_Inverse = 2131624194;
+			// aapt resource value: 0x7F0F0102
+			public const int TextAppearance_AppCompat_Title_Inverse = 2131689730;
 			
-			// aapt resource value: 0x7F0E0103
-			public const int TextAppearance_AppCompat_Tooltip = 2131624195;
+			// aapt resource value: 0x7F0F0103
+			public const int TextAppearance_AppCompat_Tooltip = 2131689731;
 			
-			// aapt resource value: 0x7F0E0104
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131624196;
+			// aapt resource value: 0x7F0F0104
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689732;
 			
-			// aapt resource value: 0x7F0E0105
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131624197;
+			// aapt resource value: 0x7F0F0105
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689733;
 			
-			// aapt resource value: 0x7F0E0106
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131624198;
+			// aapt resource value: 0x7F0F0106
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689734;
 			
-			// aapt resource value: 0x7F0E0107
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131624199;
+			// aapt resource value: 0x7F0F0107
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689735;
 			
-			// aapt resource value: 0x7F0E0108
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131624200;
+			// aapt resource value: 0x7F0F0108
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689736;
 			
-			// aapt resource value: 0x7F0E0109
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131624201;
+			// aapt resource value: 0x7F0F0109
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689737;
 			
-			// aapt resource value: 0x7F0E010A
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131624202;
+			// aapt resource value: 0x7F0F010A
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131689738;
 			
-			// aapt resource value: 0x7F0E010B
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131624203;
+			// aapt resource value: 0x7F0F010B
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689739;
 			
-			// aapt resource value: 0x7F0E010C
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131624204;
+			// aapt resource value: 0x7F0F010C
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131689740;
 			
-			// aapt resource value: 0x7F0E010D
-			public const int TextAppearance_AppCompat_Widget_Button = 2131624205;
+			// aapt resource value: 0x7F0F010D
+			public const int TextAppearance_AppCompat_Widget_Button = 2131689741;
 			
-			// aapt resource value: 0x7F0E010E
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131624206;
+			// aapt resource value: 0x7F0F010E
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689742;
 			
-			// aapt resource value: 0x7F0E010F
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131624207;
+			// aapt resource value: 0x7F0F010F
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131689743;
 			
-			// aapt resource value: 0x7F0E0110
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131624208;
+			// aapt resource value: 0x7F0F0110
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131689744;
 			
-			// aapt resource value: 0x7F0E0111
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131624209;
+			// aapt resource value: 0x7F0F0111
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131689745;
 			
-			// aapt resource value: 0x7F0E0112
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131624210;
+			// aapt resource value: 0x7F0F0112
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689746;
 			
-			// aapt resource value: 0x7F0E0113
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131624211;
+			// aapt resource value: 0x7F0F0113
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689747;
 			
-			// aapt resource value: 0x7F0E0114
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131624212;
+			// aapt resource value: 0x7F0F0114
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689748;
 			
-			// aapt resource value: 0x7F0E0115
-			public const int TextAppearance_AppCompat_Widget_Switch = 2131624213;
+			// aapt resource value: 0x7F0F0115
+			public const int TextAppearance_AppCompat_Widget_Switch = 2131689749;
 			
-			// aapt resource value: 0x7F0E0116
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131624214;
+			// aapt resource value: 0x7F0F0116
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689750;
 			
-			// aapt resource value: 0x7F0E0117
-			public const int TextAppearance_Compat_Notification = 2131624215;
+			// aapt resource value: 0x7F0F0117
+			public const int TextAppearance_Compat_Notification = 2131689751;
 			
-			// aapt resource value: 0x7F0E0118
-			public const int TextAppearance_Compat_Notification_Info = 2131624216;
+			// aapt resource value: 0x7F0F0118
+			public const int TextAppearance_Compat_Notification_Info = 2131689752;
 			
-			// aapt resource value: 0x7F0E0119
-			public const int TextAppearance_Compat_Notification_Info_Media = 2131624217;
+			// aapt resource value: 0x7F0F0119
+			public const int TextAppearance_Compat_Notification_Info_Media = 2131689753;
 			
-			// aapt resource value: 0x7F0E011A
-			public const int TextAppearance_Compat_Notification_Line2 = 2131624218;
+			// aapt resource value: 0x7F0F011A
+			public const int TextAppearance_Compat_Notification_Line2 = 2131689754;
 			
-			// aapt resource value: 0x7F0E011B
-			public const int TextAppearance_Compat_Notification_Line2_Media = 2131624219;
+			// aapt resource value: 0x7F0F011B
+			public const int TextAppearance_Compat_Notification_Line2_Media = 2131689755;
 			
-			// aapt resource value: 0x7F0E011C
-			public const int TextAppearance_Compat_Notification_Media = 2131624220;
+			// aapt resource value: 0x7F0F011C
+			public const int TextAppearance_Compat_Notification_Media = 2131689756;
 			
-			// aapt resource value: 0x7F0E011D
-			public const int TextAppearance_Compat_Notification_Time = 2131624221;
+			// aapt resource value: 0x7F0F011D
+			public const int TextAppearance_Compat_Notification_Time = 2131689757;
 			
-			// aapt resource value: 0x7F0E011E
-			public const int TextAppearance_Compat_Notification_Time_Media = 2131624222;
+			// aapt resource value: 0x7F0F011E
+			public const int TextAppearance_Compat_Notification_Time_Media = 2131689758;
 			
-			// aapt resource value: 0x7F0E011F
-			public const int TextAppearance_Compat_Notification_Title = 2131624223;
+			// aapt resource value: 0x7F0F011F
+			public const int TextAppearance_Compat_Notification_Title = 2131689759;
 			
-			// aapt resource value: 0x7F0E0120
-			public const int TextAppearance_Compat_Notification_Title_Media = 2131624224;
+			// aapt resource value: 0x7F0F0120
+			public const int TextAppearance_Compat_Notification_Title_Media = 2131689760;
 			
-			// aapt resource value: 0x7F0E0121
-			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131624225;
+			// aapt resource value: 0x7F0F0121
+			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689761;
 			
-			// aapt resource value: 0x7F0E0122
-			public const int TextAppearance_Design_Counter = 2131624226;
+			// aapt resource value: 0x7F0F0122
+			public const int TextAppearance_Design_Counter = 2131689762;
 			
-			// aapt resource value: 0x7F0E0123
-			public const int TextAppearance_Design_Counter_Overflow = 2131624227;
+			// aapt resource value: 0x7F0F0123
+			public const int TextAppearance_Design_Counter_Overflow = 2131689763;
 			
-			// aapt resource value: 0x7F0E0124
-			public const int TextAppearance_Design_Error = 2131624228;
+			// aapt resource value: 0x7F0F0124
+			public const int TextAppearance_Design_Error = 2131689764;
 			
-			// aapt resource value: 0x7F0E0125
-			public const int TextAppearance_Design_HelperText = 2131624229;
+			// aapt resource value: 0x7F0F0125
+			public const int TextAppearance_Design_HelperText = 2131689765;
 			
-			// aapt resource value: 0x7F0E0126
-			public const int TextAppearance_Design_Hint = 2131624230;
+			// aapt resource value: 0x7F0F0126
+			public const int TextAppearance_Design_Hint = 2131689766;
 			
-			// aapt resource value: 0x7F0E0127
-			public const int TextAppearance_Design_Snackbar_Message = 2131624231;
+			// aapt resource value: 0x7F0F0127
+			public const int TextAppearance_Design_Snackbar_Message = 2131689767;
 			
-			// aapt resource value: 0x7F0E0128
-			public const int TextAppearance_Design_Tab = 2131624232;
+			// aapt resource value: 0x7F0F0128
+			public const int TextAppearance_Design_Tab = 2131689768;
 			
-			// aapt resource value: 0x7F0E0129
-			public const int TextAppearance_MaterialComponents_Body1 = 2131624233;
+			// aapt resource value: 0x7F0F0129
+			public const int TextAppearance_MaterialComponents_Body1 = 2131689769;
 			
-			// aapt resource value: 0x7F0E012A
-			public const int TextAppearance_MaterialComponents_Body2 = 2131624234;
+			// aapt resource value: 0x7F0F012A
+			public const int TextAppearance_MaterialComponents_Body2 = 2131689770;
 			
-			// aapt resource value: 0x7F0E012B
-			public const int TextAppearance_MaterialComponents_Button = 2131624235;
+			// aapt resource value: 0x7F0F012B
+			public const int TextAppearance_MaterialComponents_Button = 2131689771;
 			
-			// aapt resource value: 0x7F0E012C
-			public const int TextAppearance_MaterialComponents_Caption = 2131624236;
+			// aapt resource value: 0x7F0F012C
+			public const int TextAppearance_MaterialComponents_Caption = 2131689772;
 			
-			// aapt resource value: 0x7F0E012D
-			public const int TextAppearance_MaterialComponents_Chip = 2131624237;
+			// aapt resource value: 0x7F0F012D
+			public const int TextAppearance_MaterialComponents_Chip = 2131689773;
 			
-			// aapt resource value: 0x7F0E012E
-			public const int TextAppearance_MaterialComponents_Headline1 = 2131624238;
+			// aapt resource value: 0x7F0F012E
+			public const int TextAppearance_MaterialComponents_Headline1 = 2131689774;
 			
-			// aapt resource value: 0x7F0E012F
-			public const int TextAppearance_MaterialComponents_Headline2 = 2131624239;
+			// aapt resource value: 0x7F0F012F
+			public const int TextAppearance_MaterialComponents_Headline2 = 2131689775;
 			
-			// aapt resource value: 0x7F0E0130
-			public const int TextAppearance_MaterialComponents_Headline3 = 2131624240;
+			// aapt resource value: 0x7F0F0130
+			public const int TextAppearance_MaterialComponents_Headline3 = 2131689776;
 			
-			// aapt resource value: 0x7F0E0131
-			public const int TextAppearance_MaterialComponents_Headline4 = 2131624241;
+			// aapt resource value: 0x7F0F0131
+			public const int TextAppearance_MaterialComponents_Headline4 = 2131689777;
 			
-			// aapt resource value: 0x7F0E0132
-			public const int TextAppearance_MaterialComponents_Headline5 = 2131624242;
+			// aapt resource value: 0x7F0F0132
+			public const int TextAppearance_MaterialComponents_Headline5 = 2131689778;
 			
-			// aapt resource value: 0x7F0E0133
-			public const int TextAppearance_MaterialComponents_Headline6 = 2131624243;
+			// aapt resource value: 0x7F0F0133
+			public const int TextAppearance_MaterialComponents_Headline6 = 2131689779;
 			
-			// aapt resource value: 0x7F0E0134
-			public const int TextAppearance_MaterialComponents_Overline = 2131624244;
+			// aapt resource value: 0x7F0F0134
+			public const int TextAppearance_MaterialComponents_Overline = 2131689780;
 			
-			// aapt resource value: 0x7F0E0135
-			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131624245;
+			// aapt resource value: 0x7F0F0135
+			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689781;
 			
-			// aapt resource value: 0x7F0E0136
-			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131624246;
+			// aapt resource value: 0x7F0F0136
+			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689782;
 			
-			// aapt resource value: 0x7F0E0137
-			public const int TextAppearance_MaterialComponents_Tab = 2131624247;
+			// aapt resource value: 0x7F0F0137
+			public const int TextAppearance_MaterialComponents_Tab = 2131689783;
 			
-			// aapt resource value: 0x7F0E0138
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131624248;
+			// aapt resource value: 0x7F0F0138
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689784;
 			
-			// aapt resource value: 0x7F0E0139
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131624249;
+			// aapt resource value: 0x7F0F0139
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689785;
 			
-			// aapt resource value: 0x7F0E013A
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131624250;
+			// aapt resource value: 0x7F0F013A
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689786;
 			
-			// aapt resource value: 0x7F0E016B
-			public const int ThemeOverlay_AppCompat = 2131624299;
+			// aapt resource value: 0x7F0F016B
+			public const int ThemeOverlay_AppCompat = 2131689835;
 			
-			// aapt resource value: 0x7F0E016C
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131624300;
+			// aapt resource value: 0x7F0F016C
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131689836;
 			
-			// aapt resource value: 0x7F0E016D
-			public const int ThemeOverlay_AppCompat_Dark = 2131624301;
+			// aapt resource value: 0x7F0F016D
+			public const int ThemeOverlay_AppCompat_Dark = 2131689837;
 			
-			// aapt resource value: 0x7F0E016E
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131624302;
+			// aapt resource value: 0x7F0F016E
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689838;
 			
-			// aapt resource value: 0x7F0E016F
-			public const int ThemeOverlay_AppCompat_Dialog = 2131624303;
+			// aapt resource value: 0x7F0F016F
+			public const int ThemeOverlay_AppCompat_Dialog = 2131689839;
 			
-			// aapt resource value: 0x7F0E0170
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131624304;
+			// aapt resource value: 0x7F0F0170
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689840;
 			
-			// aapt resource value: 0x7F0E0171
-			public const int ThemeOverlay_AppCompat_Light = 2131624305;
+			// aapt resource value: 0x7F0F0171
+			public const int ThemeOverlay_AppCompat_Light = 2131689841;
 			
-			// aapt resource value: 0x7F0E0172
-			public const int ThemeOverlay_MaterialComponents = 2131624306;
+			// aapt resource value: 0x7F0F0172
+			public const int ThemeOverlay_MaterialComponents = 2131689842;
 			
-			// aapt resource value: 0x7F0E0173
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131624307;
+			// aapt resource value: 0x7F0F0173
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689843;
 			
-			// aapt resource value: 0x7F0E0174
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131624308;
+			// aapt resource value: 0x7F0F0174
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131689844;
 			
-			// aapt resource value: 0x7F0E0175
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131624309;
+			// aapt resource value: 0x7F0F0175
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689845;
 			
-			// aapt resource value: 0x7F0E0176
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131624310;
+			// aapt resource value: 0x7F0F0176
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689846;
 			
-			// aapt resource value: 0x7F0E0177
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131624311;
+			// aapt resource value: 0x7F0F0177
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689847;
 			
-			// aapt resource value: 0x7F0E0178
-			public const int ThemeOverlay_MaterialComponents_Light = 2131624312;
+			// aapt resource value: 0x7F0F0178
+			public const int ThemeOverlay_MaterialComponents_Light = 2131689848;
 			
-			// aapt resource value: 0x7F0E0179
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131624313;
+			// aapt resource value: 0x7F0F0179
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689849;
 			
-			// aapt resource value: 0x7F0E017A
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131624314;
+			// aapt resource value: 0x7F0F017A
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689850;
 			
-			// aapt resource value: 0x7F0E017B
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624315;
+			// aapt resource value: 0x7F0F017B
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689851;
 			
-			// aapt resource value: 0x7F0E017C
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131624316;
+			// aapt resource value: 0x7F0F017C
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689852;
 			
-			// aapt resource value: 0x7F0E017D
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624317;
+			// aapt resource value: 0x7F0F017D
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689853;
 			
-			// aapt resource value: 0x7F0E013B
-			public const int Theme_AppCompat = 2131624251;
+			// aapt resource value: 0x7F0F013B
+			public const int Theme_AppCompat = 2131689787;
 			
-			// aapt resource value: 0x7F0E013C
-			public const int Theme_AppCompat_CompactMenu = 2131624252;
+			// aapt resource value: 0x7F0F013C
+			public const int Theme_AppCompat_CompactMenu = 2131689788;
 			
-			// aapt resource value: 0x7F0E013D
-			public const int Theme_AppCompat_DayNight = 2131624253;
+			// aapt resource value: 0x7F0F013D
+			public const int Theme_AppCompat_DayNight = 2131689789;
 			
-			// aapt resource value: 0x7F0E013E
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131624254;
+			// aapt resource value: 0x7F0F013E
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689790;
 			
-			// aapt resource value: 0x7F0E013F
-			public const int Theme_AppCompat_DayNight_Dialog = 2131624255;
+			// aapt resource value: 0x7F0F013F
+			public const int Theme_AppCompat_DayNight_Dialog = 2131689791;
 			
-			// aapt resource value: 0x7F0E0142
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131624258;
+			// aapt resource value: 0x7F0F0142
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689794;
 			
-			// aapt resource value: 0x7F0E0140
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131624256;
+			// aapt resource value: 0x7F0F0140
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689792;
 			
-			// aapt resource value: 0x7F0E0141
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131624257;
+			// aapt resource value: 0x7F0F0141
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689793;
 			
-			// aapt resource value: 0x7F0E0143
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131624259;
+			// aapt resource value: 0x7F0F0143
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689795;
 			
-			// aapt resource value: 0x7F0E0144
-			public const int Theme_AppCompat_Dialog = 2131624260;
+			// aapt resource value: 0x7F0F0144
+			public const int Theme_AppCompat_Dialog = 2131689796;
 			
-			// aapt resource value: 0x7F0E0147
-			public const int Theme_AppCompat_DialogWhenLarge = 2131624263;
+			// aapt resource value: 0x7F0F0147
+			public const int Theme_AppCompat_DialogWhenLarge = 2131689799;
 			
-			// aapt resource value: 0x7F0E0145
-			public const int Theme_AppCompat_Dialog_Alert = 2131624261;
+			// aapt resource value: 0x7F0F0145
+			public const int Theme_AppCompat_Dialog_Alert = 2131689797;
 			
-			// aapt resource value: 0x7F0E0146
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131624262;
+			// aapt resource value: 0x7F0F0146
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131689798;
 			
-			// aapt resource value: 0x7F0E0148
-			public const int Theme_AppCompat_Light = 2131624264;
+			// aapt resource value: 0x7F0F0148
+			public const int Theme_AppCompat_Light = 2131689800;
 			
-			// aapt resource value: 0x7F0E0149
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131624265;
+			// aapt resource value: 0x7F0F0149
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131689801;
 			
-			// aapt resource value: 0x7F0E014A
-			public const int Theme_AppCompat_Light_Dialog = 2131624266;
+			// aapt resource value: 0x7F0F014A
+			public const int Theme_AppCompat_Light_Dialog = 2131689802;
 			
-			// aapt resource value: 0x7F0E014D
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131624269;
+			// aapt resource value: 0x7F0F014D
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689805;
 			
-			// aapt resource value: 0x7F0E014B
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131624267;
+			// aapt resource value: 0x7F0F014B
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689803;
 			
-			// aapt resource value: 0x7F0E014C
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131624268;
+			// aapt resource value: 0x7F0F014C
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689804;
 			
-			// aapt resource value: 0x7F0E014E
-			public const int Theme_AppCompat_Light_NoActionBar = 2131624270;
+			// aapt resource value: 0x7F0F014E
+			public const int Theme_AppCompat_Light_NoActionBar = 2131689806;
 			
-			// aapt resource value: 0x7F0E014F
-			public const int Theme_AppCompat_NoActionBar = 2131624271;
+			// aapt resource value: 0x7F0F014F
+			public const int Theme_AppCompat_NoActionBar = 2131689807;
 			
-			// aapt resource value: 0x7F0E0150
-			public const int Theme_Design = 2131624272;
+			// aapt resource value: 0x7F0F0150
+			public const int Theme_Design = 2131689808;
 			
-			// aapt resource value: 0x7F0E0151
-			public const int Theme_Design_BottomSheetDialog = 2131624273;
+			// aapt resource value: 0x7F0F0151
+			public const int Theme_Design_BottomSheetDialog = 2131689809;
 			
-			// aapt resource value: 0x7F0E0152
-			public const int Theme_Design_Light = 2131624274;
+			// aapt resource value: 0x7F0F0152
+			public const int Theme_Design_Light = 2131689810;
 			
-			// aapt resource value: 0x7F0E0153
-			public const int Theme_Design_Light_BottomSheetDialog = 2131624275;
+			// aapt resource value: 0x7F0F0153
+			public const int Theme_Design_Light_BottomSheetDialog = 2131689811;
 			
-			// aapt resource value: 0x7F0E0154
-			public const int Theme_Design_Light_NoActionBar = 2131624276;
+			// aapt resource value: 0x7F0F0154
+			public const int Theme_Design_Light_NoActionBar = 2131689812;
 			
-			// aapt resource value: 0x7F0E0155
-			public const int Theme_Design_NoActionBar = 2131624277;
+			// aapt resource value: 0x7F0F0155
+			public const int Theme_Design_NoActionBar = 2131689813;
 			
-			// aapt resource value: 0x7F0E0156
-			public const int Theme_MaterialComponents = 2131624278;
+			// aapt resource value: 0x7F0F0156
+			public const int Theme_MaterialComponents = 2131689814;
 			
-			// aapt resource value: 0x7F0E0157
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131624279;
+			// aapt resource value: 0x7F0F0157
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689815;
 			
-			// aapt resource value: 0x7F0E0158
-			public const int Theme_MaterialComponents_Bridge = 2131624280;
+			// aapt resource value: 0x7F0F0158
+			public const int Theme_MaterialComponents_Bridge = 2131689816;
 			
-			// aapt resource value: 0x7F0E0159
-			public const int Theme_MaterialComponents_CompactMenu = 2131624281;
+			// aapt resource value: 0x7F0F0159
+			public const int Theme_MaterialComponents_CompactMenu = 2131689817;
 			
-			// aapt resource value: 0x7F0E015A
-			public const int Theme_MaterialComponents_Dialog = 2131624282;
+			// aapt resource value: 0x7F0F015A
+			public const int Theme_MaterialComponents_Dialog = 2131689818;
 			
-			// aapt resource value: 0x7F0E015D
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131624285;
+			// aapt resource value: 0x7F0F015D
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689821;
 			
-			// aapt resource value: 0x7F0E015B
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131624283;
+			// aapt resource value: 0x7F0F015B
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131689819;
 			
-			// aapt resource value: 0x7F0E015C
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131624284;
+			// aapt resource value: 0x7F0F015C
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689820;
 			
-			// aapt resource value: 0x7F0E015E
-			public const int Theme_MaterialComponents_Light = 2131624286;
+			// aapt resource value: 0x7F0F015E
+			public const int Theme_MaterialComponents_Light = 2131689822;
 			
-			// aapt resource value: 0x7F0E015F
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131624287;
+			// aapt resource value: 0x7F0F015F
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689823;
 			
-			// aapt resource value: 0x7F0E0160
-			public const int Theme_MaterialComponents_Light_Bridge = 2131624288;
+			// aapt resource value: 0x7F0F0160
+			public const int Theme_MaterialComponents_Light_Bridge = 2131689824;
 			
-			// aapt resource value: 0x7F0E0161
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131624289;
+			// aapt resource value: 0x7F0F0161
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689825;
 			
-			// aapt resource value: 0x7F0E0162
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131624290;
+			// aapt resource value: 0x7F0F0162
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689826;
 			
-			// aapt resource value: 0x7F0E0163
-			public const int Theme_MaterialComponents_Light_Dialog = 2131624291;
+			// aapt resource value: 0x7F0F0163
+			public const int Theme_MaterialComponents_Light_Dialog = 2131689827;
 			
-			// aapt resource value: 0x7F0E0166
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131624294;
+			// aapt resource value: 0x7F0F0166
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689830;
 			
-			// aapt resource value: 0x7F0E0164
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131624292;
+			// aapt resource value: 0x7F0F0164
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689828;
 			
-			// aapt resource value: 0x7F0E0165
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131624293;
+			// aapt resource value: 0x7F0F0165
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689829;
 			
-			// aapt resource value: 0x7F0E0167
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131624295;
+			// aapt resource value: 0x7F0F0167
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689831;
 			
-			// aapt resource value: 0x7F0E0168
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131624296;
+			// aapt resource value: 0x7F0F0168
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689832;
 			
-			// aapt resource value: 0x7F0E0169
-			public const int Theme_MaterialComponents_NoActionBar = 2131624297;
+			// aapt resource value: 0x7F0F0169
+			public const int Theme_MaterialComponents_NoActionBar = 2131689833;
 			
-			// aapt resource value: 0x7F0E016A
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131624298;
+			// aapt resource value: 0x7F0F016A
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689834;
 			
-			// aapt resource value: 0x7F0E017E
-			public const int Widget_AppCompat_ActionBar = 2131624318;
+			// aapt resource value: 0x7F0F017E
+			public const int Widget_AppCompat_ActionBar = 2131689854;
 			
-			// aapt resource value: 0x7F0E017F
-			public const int Widget_AppCompat_ActionBar_Solid = 2131624319;
+			// aapt resource value: 0x7F0F017F
+			public const int Widget_AppCompat_ActionBar_Solid = 2131689855;
 			
-			// aapt resource value: 0x7F0E0180
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131624320;
+			// aapt resource value: 0x7F0F0180
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131689856;
 			
-			// aapt resource value: 0x7F0E0181
-			public const int Widget_AppCompat_ActionBar_TabText = 2131624321;
+			// aapt resource value: 0x7F0F0181
+			public const int Widget_AppCompat_ActionBar_TabText = 2131689857;
 			
-			// aapt resource value: 0x7F0E0182
-			public const int Widget_AppCompat_ActionBar_TabView = 2131624322;
+			// aapt resource value: 0x7F0F0182
+			public const int Widget_AppCompat_ActionBar_TabView = 2131689858;
 			
-			// aapt resource value: 0x7F0E0183
-			public const int Widget_AppCompat_ActionButton = 2131624323;
+			// aapt resource value: 0x7F0F0183
+			public const int Widget_AppCompat_ActionButton = 2131689859;
 			
-			// aapt resource value: 0x7F0E0184
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131624324;
+			// aapt resource value: 0x7F0F0184
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131689860;
 			
-			// aapt resource value: 0x7F0E0185
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131624325;
+			// aapt resource value: 0x7F0F0185
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131689861;
 			
-			// aapt resource value: 0x7F0E0186
-			public const int Widget_AppCompat_ActionMode = 2131624326;
+			// aapt resource value: 0x7F0F0186
+			public const int Widget_AppCompat_ActionMode = 2131689862;
 			
-			// aapt resource value: 0x7F0E0187
-			public const int Widget_AppCompat_ActivityChooserView = 2131624327;
+			// aapt resource value: 0x7F0F0187
+			public const int Widget_AppCompat_ActivityChooserView = 2131689863;
 			
-			// aapt resource value: 0x7F0E0188
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131624328;
+			// aapt resource value: 0x7F0F0188
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131689864;
 			
-			// aapt resource value: 0x7F0E0189
-			public const int Widget_AppCompat_Button = 2131624329;
+			// aapt resource value: 0x7F0F0189
+			public const int Widget_AppCompat_Button = 2131689865;
 			
-			// aapt resource value: 0x7F0E018F
-			public const int Widget_AppCompat_ButtonBar = 2131624335;
+			// aapt resource value: 0x7F0F018F
+			public const int Widget_AppCompat_ButtonBar = 2131689871;
 			
-			// aapt resource value: 0x7F0E0190
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131624336;
+			// aapt resource value: 0x7F0F0190
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131689872;
 			
-			// aapt resource value: 0x7F0E018A
-			public const int Widget_AppCompat_Button_Borderless = 2131624330;
+			// aapt resource value: 0x7F0F018A
+			public const int Widget_AppCompat_Button_Borderless = 2131689866;
 			
-			// aapt resource value: 0x7F0E018B
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131624331;
+			// aapt resource value: 0x7F0F018B
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131689867;
 			
-			// aapt resource value: 0x7F0E018C
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131624332;
+			// aapt resource value: 0x7F0F018C
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689868;
 			
-			// aapt resource value: 0x7F0E018D
-			public const int Widget_AppCompat_Button_Colored = 2131624333;
+			// aapt resource value: 0x7F0F018D
+			public const int Widget_AppCompat_Button_Colored = 2131689869;
 			
-			// aapt resource value: 0x7F0E018E
-			public const int Widget_AppCompat_Button_Small = 2131624334;
+			// aapt resource value: 0x7F0F018E
+			public const int Widget_AppCompat_Button_Small = 2131689870;
 			
-			// aapt resource value: 0x7F0E0191
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131624337;
+			// aapt resource value: 0x7F0F0191
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131689873;
 			
-			// aapt resource value: 0x7F0E0192
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131624338;
+			// aapt resource value: 0x7F0F0192
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131689874;
 			
-			// aapt resource value: 0x7F0E0193
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131624339;
+			// aapt resource value: 0x7F0F0193
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131689875;
 			
-			// aapt resource value: 0x7F0E0194
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131624340;
+			// aapt resource value: 0x7F0F0194
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131689876;
 			
-			// aapt resource value: 0x7F0E0195
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131624341;
+			// aapt resource value: 0x7F0F0195
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131689877;
 			
-			// aapt resource value: 0x7F0E0196
-			public const int Widget_AppCompat_EditText = 2131624342;
+			// aapt resource value: 0x7F0F0196
+			public const int Widget_AppCompat_EditText = 2131689878;
 			
-			// aapt resource value: 0x7F0E0197
-			public const int Widget_AppCompat_ImageButton = 2131624343;
+			// aapt resource value: 0x7F0F0197
+			public const int Widget_AppCompat_ImageButton = 2131689879;
 			
-			// aapt resource value: 0x7F0E0198
-			public const int Widget_AppCompat_Light_ActionBar = 2131624344;
+			// aapt resource value: 0x7F0F0198
+			public const int Widget_AppCompat_Light_ActionBar = 2131689880;
 			
-			// aapt resource value: 0x7F0E0199
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131624345;
+			// aapt resource value: 0x7F0F0199
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131689881;
 			
-			// aapt resource value: 0x7F0E019A
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131624346;
+			// aapt resource value: 0x7F0F019A
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131689882;
 			
-			// aapt resource value: 0x7F0E019B
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131624347;
+			// aapt resource value: 0x7F0F019B
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131689883;
 			
-			// aapt resource value: 0x7F0E019C
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131624348;
+			// aapt resource value: 0x7F0F019C
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131689884;
 			
-			// aapt resource value: 0x7F0E019D
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131624349;
+			// aapt resource value: 0x7F0F019D
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131689885;
 			
-			// aapt resource value: 0x7F0E019E
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131624350;
+			// aapt resource value: 0x7F0F019E
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689886;
 			
-			// aapt resource value: 0x7F0E019F
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131624351;
+			// aapt resource value: 0x7F0F019F
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131689887;
 			
-			// aapt resource value: 0x7F0E01A0
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131624352;
+			// aapt resource value: 0x7F0F01A0
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131689888;
 			
-			// aapt resource value: 0x7F0E01A1
-			public const int Widget_AppCompat_Light_ActionButton = 2131624353;
+			// aapt resource value: 0x7F0F01A1
+			public const int Widget_AppCompat_Light_ActionButton = 2131689889;
 			
-			// aapt resource value: 0x7F0E01A2
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131624354;
+			// aapt resource value: 0x7F0F01A2
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131689890;
 			
-			// aapt resource value: 0x7F0E01A3
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131624355;
+			// aapt resource value: 0x7F0F01A3
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131689891;
 			
-			// aapt resource value: 0x7F0E01A4
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131624356;
+			// aapt resource value: 0x7F0F01A4
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131689892;
 			
-			// aapt resource value: 0x7F0E01A5
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131624357;
+			// aapt resource value: 0x7F0F01A5
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131689893;
 			
-			// aapt resource value: 0x7F0E01A6
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131624358;
+			// aapt resource value: 0x7F0F01A6
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131689894;
 			
-			// aapt resource value: 0x7F0E01A7
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131624359;
+			// aapt resource value: 0x7F0F01A7
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131689895;
 			
-			// aapt resource value: 0x7F0E01A8
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131624360;
+			// aapt resource value: 0x7F0F01A8
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131689896;
 			
-			// aapt resource value: 0x7F0E01A9
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131624361;
+			// aapt resource value: 0x7F0F01A9
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131689897;
 			
-			// aapt resource value: 0x7F0E01AA
-			public const int Widget_AppCompat_Light_PopupMenu = 2131624362;
+			// aapt resource value: 0x7F0F01AA
+			public const int Widget_AppCompat_Light_PopupMenu = 2131689898;
 			
-			// aapt resource value: 0x7F0E01AB
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131624363;
+			// aapt resource value: 0x7F0F01AB
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131689899;
 			
-			// aapt resource value: 0x7F0E01AC
-			public const int Widget_AppCompat_Light_SearchView = 2131624364;
+			// aapt resource value: 0x7F0F01AC
+			public const int Widget_AppCompat_Light_SearchView = 2131689900;
 			
-			// aapt resource value: 0x7F0E01AD
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131624365;
+			// aapt resource value: 0x7F0F01AD
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131689901;
 			
-			// aapt resource value: 0x7F0E01AE
-			public const int Widget_AppCompat_ListMenuView = 2131624366;
+			// aapt resource value: 0x7F0F01AE
+			public const int Widget_AppCompat_ListMenuView = 2131689902;
 			
-			// aapt resource value: 0x7F0E01AF
-			public const int Widget_AppCompat_ListPopupWindow = 2131624367;
+			// aapt resource value: 0x7F0F01AF
+			public const int Widget_AppCompat_ListPopupWindow = 2131689903;
 			
-			// aapt resource value: 0x7F0E01B0
-			public const int Widget_AppCompat_ListView = 2131624368;
+			// aapt resource value: 0x7F0F01B0
+			public const int Widget_AppCompat_ListView = 2131689904;
 			
-			// aapt resource value: 0x7F0E01B1
-			public const int Widget_AppCompat_ListView_DropDown = 2131624369;
+			// aapt resource value: 0x7F0F01B1
+			public const int Widget_AppCompat_ListView_DropDown = 2131689905;
 			
-			// aapt resource value: 0x7F0E01B2
-			public const int Widget_AppCompat_ListView_Menu = 2131624370;
+			// aapt resource value: 0x7F0F01B2
+			public const int Widget_AppCompat_ListView_Menu = 2131689906;
 			
-			// aapt resource value: 0x7F0E01B3
-			public const int Widget_AppCompat_PopupMenu = 2131624371;
+			// aapt resource value: 0x7F0F01B3
+			public const int Widget_AppCompat_PopupMenu = 2131689907;
 			
-			// aapt resource value: 0x7F0E01B4
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131624372;
+			// aapt resource value: 0x7F0F01B4
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131689908;
 			
-			// aapt resource value: 0x7F0E01B5
-			public const int Widget_AppCompat_PopupWindow = 2131624373;
+			// aapt resource value: 0x7F0F01B5
+			public const int Widget_AppCompat_PopupWindow = 2131689909;
 			
-			// aapt resource value: 0x7F0E01B6
-			public const int Widget_AppCompat_ProgressBar = 2131624374;
+			// aapt resource value: 0x7F0F01B6
+			public const int Widget_AppCompat_ProgressBar = 2131689910;
 			
-			// aapt resource value: 0x7F0E01B7
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131624375;
+			// aapt resource value: 0x7F0F01B7
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131689911;
 			
-			// aapt resource value: 0x7F0E01B8
-			public const int Widget_AppCompat_RatingBar = 2131624376;
+			// aapt resource value: 0x7F0F01B8
+			public const int Widget_AppCompat_RatingBar = 2131689912;
 			
-			// aapt resource value: 0x7F0E01B9
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131624377;
+			// aapt resource value: 0x7F0F01B9
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131689913;
 			
-			// aapt resource value: 0x7F0E01BA
-			public const int Widget_AppCompat_RatingBar_Small = 2131624378;
+			// aapt resource value: 0x7F0F01BA
+			public const int Widget_AppCompat_RatingBar_Small = 2131689914;
 			
-			// aapt resource value: 0x7F0E01BB
-			public const int Widget_AppCompat_SearchView = 2131624379;
+			// aapt resource value: 0x7F0F01BB
+			public const int Widget_AppCompat_SearchView = 2131689915;
 			
-			// aapt resource value: 0x7F0E01BC
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131624380;
+			// aapt resource value: 0x7F0F01BC
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131689916;
 			
-			// aapt resource value: 0x7F0E01BD
-			public const int Widget_AppCompat_SeekBar = 2131624381;
+			// aapt resource value: 0x7F0F01BD
+			public const int Widget_AppCompat_SeekBar = 2131689917;
 			
-			// aapt resource value: 0x7F0E01BE
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131624382;
+			// aapt resource value: 0x7F0F01BE
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131689918;
 			
-			// aapt resource value: 0x7F0E01BF
-			public const int Widget_AppCompat_Spinner = 2131624383;
+			// aapt resource value: 0x7F0F01BF
+			public const int Widget_AppCompat_Spinner = 2131689919;
 			
-			// aapt resource value: 0x7F0E01C0
-			public const int Widget_AppCompat_Spinner_DropDown = 2131624384;
+			// aapt resource value: 0x7F0F01C0
+			public const int Widget_AppCompat_Spinner_DropDown = 2131689920;
 			
-			// aapt resource value: 0x7F0E01C1
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131624385;
+			// aapt resource value: 0x7F0F01C1
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131689921;
 			
-			// aapt resource value: 0x7F0E01C2
-			public const int Widget_AppCompat_Spinner_Underlined = 2131624386;
+			// aapt resource value: 0x7F0F01C2
+			public const int Widget_AppCompat_Spinner_Underlined = 2131689922;
 			
-			// aapt resource value: 0x7F0E01C3
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131624387;
+			// aapt resource value: 0x7F0F01C3
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131689923;
 			
-			// aapt resource value: 0x7F0E01C4
-			public const int Widget_AppCompat_Toolbar = 2131624388;
+			// aapt resource value: 0x7F0F01C4
+			public const int Widget_AppCompat_Toolbar = 2131689924;
 			
-			// aapt resource value: 0x7F0E01C5
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131624389;
+			// aapt resource value: 0x7F0F01C5
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131689925;
 			
-			// aapt resource value: 0x7F0E01C6
-			public const int Widget_Compat_NotificationActionContainer = 2131624390;
+			// aapt resource value: 0x7F0F01C6
+			public const int Widget_Compat_NotificationActionContainer = 2131689926;
 			
-			// aapt resource value: 0x7F0E01C7
-			public const int Widget_Compat_NotificationActionText = 2131624391;
+			// aapt resource value: 0x7F0F01C7
+			public const int Widget_Compat_NotificationActionText = 2131689927;
 			
-			// aapt resource value: 0x7F0E01C8
-			public const int Widget_Design_AppBarLayout = 2131624392;
+			// aapt resource value: 0x7F0F01C8
+			public const int Widget_Design_AppBarLayout = 2131689928;
 			
-			// aapt resource value: 0x7F0E01C9
-			public const int Widget_Design_BottomNavigationView = 2131624393;
+			// aapt resource value: 0x7F0F01C9
+			public const int Widget_Design_BottomNavigationView = 2131689929;
 			
-			// aapt resource value: 0x7F0E01CA
-			public const int Widget_Design_BottomSheet_Modal = 2131624394;
+			// aapt resource value: 0x7F0F01CA
+			public const int Widget_Design_BottomSheet_Modal = 2131689930;
 			
-			// aapt resource value: 0x7F0E01CB
-			public const int Widget_Design_CollapsingToolbar = 2131624395;
+			// aapt resource value: 0x7F0F01CB
+			public const int Widget_Design_CollapsingToolbar = 2131689931;
 			
-			// aapt resource value: 0x7F0E01CC
-			public const int Widget_Design_FloatingActionButton = 2131624396;
+			// aapt resource value: 0x7F0F01CC
+			public const int Widget_Design_FloatingActionButton = 2131689932;
 			
-			// aapt resource value: 0x7F0E01CD
-			public const int Widget_Design_NavigationView = 2131624397;
+			// aapt resource value: 0x7F0F01CD
+			public const int Widget_Design_NavigationView = 2131689933;
 			
-			// aapt resource value: 0x7F0E01CE
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131624398;
+			// aapt resource value: 0x7F0F01CE
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131689934;
 			
-			// aapt resource value: 0x7F0E01CF
-			public const int Widget_Design_Snackbar = 2131624399;
+			// aapt resource value: 0x7F0F01CF
+			public const int Widget_Design_Snackbar = 2131689935;
 			
-			// aapt resource value: 0x7F0E01D0
-			public const int Widget_Design_TabLayout = 2131624400;
+			// aapt resource value: 0x7F0F01D0
+			public const int Widget_Design_TabLayout = 2131689936;
 			
-			// aapt resource value: 0x7F0E01D1
-			public const int Widget_Design_TextInputLayout = 2131624401;
+			// aapt resource value: 0x7F0F01D1
+			public const int Widget_Design_TextInputLayout = 2131689937;
 			
-			// aapt resource value: 0x7F0E01D2
-			public const int Widget_MaterialComponents_BottomAppBar = 2131624402;
+			// aapt resource value: 0x7F0F01D2
+			public const int Widget_MaterialComponents_BottomAppBar = 2131689938;
 			
-			// aapt resource value: 0x7F0E01D3
-			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131624403;
+			// aapt resource value: 0x7F0F01D3
+			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131689939;
 			
-			// aapt resource value: 0x7F0E01D4
-			public const int Widget_MaterialComponents_BottomNavigationView = 2131624404;
+			// aapt resource value: 0x7F0F01D4
+			public const int Widget_MaterialComponents_BottomNavigationView = 2131689940;
 			
-			// aapt resource value: 0x7F0E01D5
-			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131624405;
+			// aapt resource value: 0x7F0F01D5
+			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131689941;
 			
-			// aapt resource value: 0x7F0E01D6
-			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131624406;
+			// aapt resource value: 0x7F0F01D6
+			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131689942;
 			
-			// aapt resource value: 0x7F0E01D7
-			public const int Widget_MaterialComponents_Button = 2131624407;
+			// aapt resource value: 0x7F0F01D7
+			public const int Widget_MaterialComponents_Button = 2131689943;
 			
-			// aapt resource value: 0x7F0E01D8
-			public const int Widget_MaterialComponents_Button_Icon = 2131624408;
+			// aapt resource value: 0x7F0F01D8
+			public const int Widget_MaterialComponents_Button_Icon = 2131689944;
 			
-			// aapt resource value: 0x7F0E01D9
-			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131624409;
+			// aapt resource value: 0x7F0F01D9
+			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131689945;
 			
-			// aapt resource value: 0x7F0E01DA
-			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131624410;
+			// aapt resource value: 0x7F0F01DA
+			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131689946;
 			
-			// aapt resource value: 0x7F0E01DB
-			public const int Widget_MaterialComponents_Button_TextButton = 2131624411;
+			// aapt resource value: 0x7F0F01DB
+			public const int Widget_MaterialComponents_Button_TextButton = 2131689947;
 			
-			// aapt resource value: 0x7F0E01DC
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131624412;
+			// aapt resource value: 0x7F0F01DC
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131689948;
 			
-			// aapt resource value: 0x7F0E01DD
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131624413;
+			// aapt resource value: 0x7F0F01DD
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131689949;
 			
-			// aapt resource value: 0x7F0E01DE
-			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131624414;
+			// aapt resource value: 0x7F0F01DE
+			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131689950;
 			
-			// aapt resource value: 0x7F0E01DF
-			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131624415;
+			// aapt resource value: 0x7F0F01DF
+			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131689951;
 			
-			// aapt resource value: 0x7F0E01E0
-			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131624416;
+			// aapt resource value: 0x7F0F01E0
+			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131689952;
 			
-			// aapt resource value: 0x7F0E01E1
-			public const int Widget_MaterialComponents_CardView = 2131624417;
+			// aapt resource value: 0x7F0F01E1
+			public const int Widget_MaterialComponents_CardView = 2131689953;
 			
-			// aapt resource value: 0x7F0E01E6
-			public const int Widget_MaterialComponents_ChipGroup = 2131624422;
+			// aapt resource value: 0x7F0F01E6
+			public const int Widget_MaterialComponents_ChipGroup = 2131689958;
 			
-			// aapt resource value: 0x7F0E01E2
-			public const int Widget_MaterialComponents_Chip_Action = 2131624418;
+			// aapt resource value: 0x7F0F01E2
+			public const int Widget_MaterialComponents_Chip_Action = 2131689954;
 			
-			// aapt resource value: 0x7F0E01E3
-			public const int Widget_MaterialComponents_Chip_Choice = 2131624419;
+			// aapt resource value: 0x7F0F01E3
+			public const int Widget_MaterialComponents_Chip_Choice = 2131689955;
 			
-			// aapt resource value: 0x7F0E01E4
-			public const int Widget_MaterialComponents_Chip_Entry = 2131624420;
+			// aapt resource value: 0x7F0F01E4
+			public const int Widget_MaterialComponents_Chip_Entry = 2131689956;
 			
-			// aapt resource value: 0x7F0E01E5
-			public const int Widget_MaterialComponents_Chip_Filter = 2131624421;
+			// aapt resource value: 0x7F0F01E5
+			public const int Widget_MaterialComponents_Chip_Filter = 2131689957;
 			
-			// aapt resource value: 0x7F0E01E7
-			public const int Widget_MaterialComponents_FloatingActionButton = 2131624423;
+			// aapt resource value: 0x7F0F01E7
+			public const int Widget_MaterialComponents_FloatingActionButton = 2131689959;
 			
-			// aapt resource value: 0x7F0E01E8
-			public const int Widget_MaterialComponents_NavigationView = 2131624424;
+			// aapt resource value: 0x7F0F01E8
+			public const int Widget_MaterialComponents_NavigationView = 2131689960;
 			
-			// aapt resource value: 0x7F0E01E9
-			public const int Widget_MaterialComponents_Snackbar = 2131624425;
+			// aapt resource value: 0x7F0F01E9
+			public const int Widget_MaterialComponents_Snackbar = 2131689961;
 			
-			// aapt resource value: 0x7F0E01EA
-			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131624426;
+			// aapt resource value: 0x7F0F01EA
+			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131689962;
 			
-			// aapt resource value: 0x7F0E01EB
-			public const int Widget_MaterialComponents_TabLayout = 2131624427;
+			// aapt resource value: 0x7F0F01EB
+			public const int Widget_MaterialComponents_TabLayout = 2131689963;
 			
-			// aapt resource value: 0x7F0E01EC
-			public const int Widget_MaterialComponents_TabLayout_Colored = 2131624428;
+			// aapt resource value: 0x7F0F01EC
+			public const int Widget_MaterialComponents_TabLayout_Colored = 2131689964;
 			
-			// aapt resource value: 0x7F0E01ED
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131624429;
+			// aapt resource value: 0x7F0F01ED
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131689965;
 			
-			// aapt resource value: 0x7F0E01EE
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624430;
+			// aapt resource value: 0x7F0F01EE
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689966;
 			
-			// aapt resource value: 0x7F0E01EF
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131624431;
+			// aapt resource value: 0x7F0F01EF
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131689967;
 			
-			// aapt resource value: 0x7F0E01F0
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624432;
+			// aapt resource value: 0x7F0F01F0
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689968;
 			
-			// aapt resource value: 0x7F0E01F1
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131624433;
+			// aapt resource value: 0x7F0F01F1
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131689969;
 			
-			// aapt resource value: 0x7F0E01F2
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131624434;
+			// aapt resource value: 0x7F0F01F2
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131689970;
 			
-			// aapt resource value: 0x7F0E01F3
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131624435;
+			// aapt resource value: 0x7F0F01F3
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131689971;
 			
-			// aapt resource value: 0x7F0E01F4
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131624436;
+			// aapt resource value: 0x7F0F01F4
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131689972;
 			
-			// aapt resource value: 0x7F0E01F5
-			public const int Widget_MaterialComponents_Toolbar = 2131624437;
+			// aapt resource value: 0x7F0F01F5
+			public const int Widget_MaterialComponents_Toolbar = 2131689973;
 			
-			// aapt resource value: 0x7F0E01F6
-			public const int Widget_Support_CoordinatorLayout = 2131624438;
+			// aapt resource value: 0x7F0F01F6
+			public const int Widget_Support_CoordinatorLayout = 2131689974;
 			
 			static Style()
 			{
@@ -14155,8 +16132,8 @@ namespace CoffeApp.Droid
 		public partial class Xml
 		{
 			
-			// aapt resource value: 0x7F100000
-			public const int xamarin_essentials_fileprovider_file_paths = 2131755008;
+			// aapt resource value: 0x7F110000
+			public const int xamarin_essentials_fileprovider_file_paths = 2131820544;
 			
 			static Xml()
 			{

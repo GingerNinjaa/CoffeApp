@@ -16,14 +16,15 @@ namespace CoffeApp.Pages
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class FirstMenu : ContentPage
     {
-        public ObservableCollection<FrontMenu> frontMenus;
+        //public ObservableCollection<FrontMenu> frontMenus;
 
 
 
         public FirstMenu()
         {
             InitializeComponent();
-            frontMenus = new ObservableCollection<FrontMenu>();
+
+          // frontMenus = new ObservableCollection<FrontMenu>();
             NavigationPage.SetHasNavigationBar(this, false);
         }
 
@@ -35,9 +36,9 @@ namespace CoffeApp.Pages
         protected override async void OnAppearing()
         {
  
-            base.OnAppearing();
-            if (SendApi.First)
-            {
+          //  base.OnAppearing();
+            var frontMenus = new ObservableCollection<FrontMenu>();
+  
                 ApiService apiServices = new ApiService();
                 var menus = await apiServices.GetMainMenu();
 
@@ -48,9 +49,10 @@ namespace CoffeApp.Pages
 
                 LvFirstMenu.ItemsSource = frontMenus;
                 BusyIndicator.IsRunning = false;
-            }
+            
            
-            SendApi.First = false;
+          
+            base.OnAppearing();
         }
         
 
