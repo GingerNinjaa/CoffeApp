@@ -37,7 +37,7 @@ namespace CoffeApp.Pages
             if (selectedMenu != null)
             {
 
-                Navigation.PushAsync(new ProductPage(selectedMenu),true);
+                Navigation.PushAsync(new ProductPage(selectedMenu),false);
 
             }
 

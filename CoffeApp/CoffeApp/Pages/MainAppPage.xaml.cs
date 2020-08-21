@@ -15,11 +15,17 @@ namespace CoffeApp.Pages
         public MainAppPage()
         {
             InitializeComponent();
+           
+        }
+
+        protected override void OnAppearing()
+        {
+            this.BackgroundColor = Color.Black;
         }
 
         private void Button_OnClicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new HomePage());
+            Navigation.PushAsync(new HomePage(),false);
            
         }
     }

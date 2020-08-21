@@ -30,6 +30,7 @@ namespace CoffeApp.Pages
 
         protected override void OnDisappearing()
         {
+            this.BackgroundColor = Color.Black;
 
         }
 
@@ -61,7 +62,7 @@ namespace CoffeApp.Pages
             var selectedMenu = e.SelectedItem as FrontMenu;
             if (selectedMenu != null)
             {
-                Navigation.PushAsync(new CategoryMenuPage(selectedMenu),true);
+                Navigation.PushAsync(new CategoryMenuPage(selectedMenu),false);
             }
 
             ((ListView)sender).SelectedItem = null;
