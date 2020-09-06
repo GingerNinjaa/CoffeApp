@@ -17,7 +17,6 @@
                     <DataTemplate>
                         <ViewCell>
                             <Grid>
-                                <!--<Image Source="{Binding Image}" HeightRequest="250" Aspect="Fill"/>-->
                                 <forms:CachedImage
                                     x:Name="Image" 
                                     Aspect="Fill" 
