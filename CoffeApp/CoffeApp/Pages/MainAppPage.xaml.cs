@@ -25,7 +25,7 @@ namespace CoffeApp.Pages
 
         private void Button_OnClicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new HomePage(),false);
+            Navigation.PushModalAsync(new HomePage());
            
         }
     }

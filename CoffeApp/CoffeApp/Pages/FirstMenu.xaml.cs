@@ -62,7 +62,8 @@ namespace CoffeApp.Pages
             var selectedMenu = e.SelectedItem as FrontMenu;
             if (selectedMenu != null)
             {
-                Navigation.PushAsync(new CategoryMenuPage(selectedMenu),false);
+               // Navigation.PushAsync(new CategoryMenuPage(selectedMenu),false);
+                Navigation.PushModalAsync(new CategoryMenuPage(selectedMenu));
             }
 
             ((ListView)sender).SelectedItem = null;
