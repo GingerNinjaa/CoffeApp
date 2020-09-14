@@ -11,8 +11,9 @@
             <ListView 
                 SeparatorVisibility="None" 
                 HasUnevenRows="True" 
-                x:Name="LvFirstMenu" 
-                ItemSelected="LvFirstMenu_OnItemSelected" >
+                x:Name="LvFirstMenu"
+                ItemsSource="{Binding frontMenus}"
+                ItemSelected="LvFirstMenu_OnItemSelected">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
@@ -46,7 +47,8 @@
                 HorizontalOptions="Center"
                 VerticalOptions="Center"
                 Color="White" 
-                IsRunning="True">
+                IsRunning="{Binding isBusy}"
+                IsVisible="{Binding isBusy}">
             </ActivityIndicator>
         </Grid>
     </ContentPage.Content>

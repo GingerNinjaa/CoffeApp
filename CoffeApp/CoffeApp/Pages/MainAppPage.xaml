@@ -3,17 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:video="clr-namespace:CoffeApp.Video;assembly=CoffeApp"
              xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
              mc:Ignorable="d"
              BackgroundColor="Black"
              NavigationPage.HasNavigationBar="False"
              x:Class="CoffeApp.Pages.MainAppPage">
     <ContentPage.Content>
-        
-        
         <Grid>
-            <!--<video:VideoPlayer Source="oldbrickyard_video.mp4" />-->
             <StackLayout>
                 <Label Text="Old Brickyard" 
                            FontSize="40"
@@ -22,17 +18,14 @@
                            HorizontalOptions="Center"
                            FontFamily="Lobster" 
                            TextColor="White"/>
-
                 <Label Text="Witch tradition to coffe" 
-                           FontSize="20"
-                           Margin="0,15,0,0"
-                           VerticalOptions="Start" 
-                           HorizontalOptions="Center"
-                           FontFamily="Lobster" 
-                           TextColor="White"/>
+                       FontSize="20"
+                       Margin="0,15,0,0"
+                       VerticalOptions="Start" 
+                       HorizontalOptions="Center"
+                       FontFamily="Lobster" 
+                       TextColor="White"/>
             </StackLayout>
-               
-           
             <forms:AnimationView 
                     x:Name="animationView" 
                     Animation="coffe_out.json" 
@@ -41,7 +34,6 @@
                     WidthRequest="250"
                     />
             <ScrollView>
-                
                 <StackLayout Margin="10" HorizontalOptions="Center" VerticalOptions="End">
 
                     <Label Text="It's time for Coffee" 
@@ -58,7 +50,7 @@
                             BackgroundColor="Black" 
                             BorderWidth="2"
                             BorderColor="White"
-                            Clicked="Button_OnClicked"/>
+                            Command="{Binding OpenMenuPage}"/>
                 </StackLayout>
             </ScrollView>
         </Grid>

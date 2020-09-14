@@ -27,7 +27,8 @@
                    TextColor="White" 
                    VerticalOptions="Center" 
                    HorizontalOptions="Center"
-                   HorizontalTextAlignment="Center"/>
+                   HorizontalTextAlignment="Center"
+                   Text="{Binding Name}"/>
                 <Entry x:Name="EntEmail" 
                        Keyboard="Email" 
                        Placeholder="Enter your Email" 
@@ -35,7 +36,8 @@
                        TextColor="White" 
                        VerticalOptions="Center" 
                        HorizontalOptions="Center"
-                       HorizontalTextAlignment="Center"/>
+                       HorizontalTextAlignment="Center"
+                       Text="{Binding Email}"/>
                 <Entry x:Name="EntPhone"
                        Keyboard="Numeric"
                        Placeholder="Enter your Phone" 
@@ -43,7 +45,8 @@
                        TextColor="White" 
                        VerticalOptions="Center" 
                        HorizontalOptions="Center" 
-                       HorizontalTextAlignment="Center"/>
+                       HorizontalTextAlignment="Center"
+                       Text="{Binding Phone}"/>
                 <Entry x:Name="EntTotalPeople" 
                        Keyboard="Numeric" 
                        Placeholder="For how many people?" 
@@ -51,7 +54,8 @@
                        TextColor="White"
                        VerticalOptions="Center" 
                        HorizontalOptions="Center" 
-                       HorizontalTextAlignment="Center"/>
+                       HorizontalTextAlignment="Center"
+                       Text="{Binding TotalPeople}"/>
                 <Label Text="Booking Date" 
                    TextColor="White"
                    VerticalOptions="Center" 
@@ -59,7 +63,9 @@
                 <DatePicker x:Name="DpBookingDate" 
                         TextColor="White"
                         VerticalOptions="Center"
-                        HorizontalOptions="Center">
+                        HorizontalOptions="Center"
+                        MinimumDate="{Binding FromMiminumDate}"
+                        Date="{Binding Date}">
                 </DatePicker>
                 <Label Text="Booking Time" 
                    TextColor="White" 
@@ -70,15 +76,16 @@
                 <TimePicker x:Name="TpBookingTime"
                         TextColor="White"
                         VerticalOptions="Center" 
-                        HorizontalOptions="Center">
+                        HorizontalOptions="Center"
+                        Time="{Binding Time}">
                 </TimePicker>
                 <Button x:Name="BtnReservationButon"
-                    Clicked="BtnReservationButon_OnClickedrvationButon_OnClicked"
-                    Text="Book Table" 
+                        Text="Book Table" 
                     TextColor="White"
                     FontSize="Medium"
                     BackgroundColor="Black"
-                    BorderWidth="1">
+                    BorderWidth="1"
+                    Command="{Binding ReservationCommand}">
 
                 </Button>
 

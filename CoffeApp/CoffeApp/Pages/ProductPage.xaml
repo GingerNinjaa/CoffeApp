@@ -8,7 +8,11 @@
              BackgroundColor="Black"
              x:Class="CoffeApp.Pages.ProductPage">
     <ContentPage.Content>
-        <ListView SeparatorVisibility="None" HasUnevenRows="True" x:Name="LvProduct" BackgroundColor="Black" >
+        <ListView SeparatorVisibility="None"
+                  HasUnevenRows="True"
+                  x:Name="LvProduct"
+                  BackgroundColor="Black"
+                  ItemsSource="{Binding ItemInMenu}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>

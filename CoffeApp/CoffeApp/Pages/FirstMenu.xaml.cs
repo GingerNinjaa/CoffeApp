@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CoffeApp.Models;
 using CoffeApp.Services;
+using CoffeApp.ViewModels;
 using FFImageLoading;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -16,57 +17,34 @@ namespace CoffeApp.Pages
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class FirstMenu : ContentPage
     {
-        //public ObservableCollection<FrontMenu> frontMenus;
-
-
+        private FirstMenuViewModel firstMenuViewModel;
 
         public FirstMenu()
         {
             InitializeComponent();
-
-          // frontMenus = new ObservableCollection<FrontMenu>();
-            NavigationPage.SetHasNavigationBar(this, false);
+             BusyIndicator.IsRunning = true;
+            // Connecting context of this page to the our View Model class
+            BindingContext = firstMenuViewModel = new FirstMenuViewModel();
+             NavigationPage.SetHasNavigationBar(this, false);
+             BusyIndicator.IsRunning = false;
         }
 
         protected override void OnDisappearing()
         {
             this.BackgroundColor = Color.Black;
-
-        }
-
-        protected override async void OnAppearing()
-        {
- 
-          //  base.OnAppearing();
-            var frontMenus = new ObservableCollection<FrontMenu>();
-  
-                ApiService apiServices = new ApiService();
-                var menus = await apiServices.GetMainMenu();
-
-                foreach (var menu in menus)
-                {
-                    frontMenus.Add(menu);
-                }
-
-                LvFirstMenu.ItemsSource = frontMenus;
-                BusyIndicator.IsRunning = false;
-            
-           
-          
-            base.OnAppearing();
         }
         
-
         private void LvFirstMenu_OnItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
             var selectedMenu = e.SelectedItem as FrontMenu;
             if (selectedMenu != null)
             {
-               // Navigation.PushAsync(new CategoryMenuPage(selectedMenu),false);
                 Navigation.PushModalAsync(new CategoryMenuPage(selectedMenu));
             }
 
             ((ListView)sender).SelectedItem = null;
         }
+
+
     }
 }

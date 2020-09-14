@@ -10,10 +10,7 @@ namespace CoffeApp
         public App()
         {
             InitializeComponent();
-
-            // MainPage = new MainPage();
-           //  MainPage = new NavigationPage(new HomePage());
-           MainPage = new NavigationPage(new MainAppPage());
+            MainPage = new NavigationPage(new MainAppPage());
 
         }
 
@@ -28,7 +25,6 @@ namespace CoffeApp
 
         protected override void OnResume()
         {
-            //  MainPage = new NavigationPage(new HomePage());
             MainPage = new NavigationPage(new MainAppPage());
         }
     }

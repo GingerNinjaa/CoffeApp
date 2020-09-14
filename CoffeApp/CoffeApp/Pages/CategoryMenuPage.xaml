@@ -11,6 +11,7 @@
             SeparatorVisibility="None"
             HasUnevenRows="True"
             x:Name="LvCategoryMenu"
+            ItemsSource="{Binding categoryMenu}"
             ItemSelected="LvCategoryMenu_OnItemSelected"
             BackgroundColor="Black" >
             <ListView.ItemTemplate>

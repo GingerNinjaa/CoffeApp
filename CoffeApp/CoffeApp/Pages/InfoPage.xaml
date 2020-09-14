@@ -76,7 +76,7 @@
                         <Image.GestureRecognizers>
                             <TapGestureRecognizer x:Name="TabFacebook"
                                               NumberOfTapsRequired="1" 
-                                              Tapped="TabFacebook_OnTappedebook_OnTapped">
+                                              Command="{Binding LaunchLinkedinCommand}">
 
                             </TapGestureRecognizer>
                         </Image.GestureRecognizers>
@@ -85,7 +85,7 @@
                         <Image.GestureRecognizers>
                             <TapGestureRecognizer x:Name="TabTwitter" 
                                               NumberOfTapsRequired="1" 
-                                              Tapped="TabTwitter_OnTappedtter_OnTapped">
+                                              Command="{Binding LaunchLinkedinCommand}">
 
                             </TapGestureRecognizer>
                         </Image.GestureRecognizers>
@@ -94,7 +94,7 @@
                         <Image.GestureRecognizers>
                             <TapGestureRecognizer x:Name="TabInstagram"
                                               NumberOfTapsRequired="1" 
-                                              Tapped="TabInstagram_OnTappedtagram_OnTapped">
+                                              Command="{Binding LaunchWebsiteCommand}">
 
                             </TapGestureRecognizer>
                         </Image.GestureRecognizers>
@@ -103,7 +103,7 @@
                         <Image.GestureRecognizers>
                             <TapGestureRecognizer x:Name="TabYoutube"
                                               NumberOfTapsRequired="1"
-                                              Tapped="TabYoutube_OnTappedbe_OnTapped">
+                                              Command="{Binding LaunchWebsiteCommand}">
 
                             </TapGestureRecognizer>
                         </Image.GestureRecognizers>
@@ -121,7 +121,7 @@
                         <TapGestureRecognizer
                         x:Name="TabPhone" 
                         NumberOfTapsRequired="1" 
-                        Tapped="TabPhone_OnTapped_OnTapped">
+                        Command="{Binding CallMe}">
 
                         </TapGestureRecognizer>
                     </Image.GestureRecognizers>
